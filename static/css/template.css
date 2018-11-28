@@ -1,0 +1,43 @@
+html{
+    font-size: 16px;
+}
+body {
+    /*background-color: #F0F0F3;*/
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 1rem;
+    height: 100%;
+    line-height: 1.5rem;
+    overflow: auto;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.dark-wine{
+    color: #690B00;
+}
+.wrapper {
+    overflow: auto;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+td, th{
+    overflow: hidden;
+    white-space: pre-line;
+}
+#result-table, .result-table {
+    background-color: #FFFFFF;
+    height: 100%;
+    margin: 25px auto;
+    padding: 2.5px;
+    position: relative;
+    table-layout: fixed;
+}
+.result-table, .result-table th, .result-table td {
+    border: 4px solid #8F0F00;
+    border-collapse: collapse;
+    font-family: "Lucida Console", Monaco, "Courier New", Courier, monospace;
+    font-size: 1.25rem;
+    text-align: center;
+}

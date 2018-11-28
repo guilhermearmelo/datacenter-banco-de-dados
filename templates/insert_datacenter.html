@@ -1,0 +1,25 @@
+{% extends "template.html" %}
+{% block table %}
+<div class="row col-md-offset-5">
+    <form method="POST" action="/insert/datacenter">
+        {{ form.hidden_tag() }}
+        {{ form.country.label }} {{ form.country(size=20) }} <br>
+        {{ form.state.label }} {{ form.state(size=20) }} <br>
+        {{ form.city.label }} {{ form.city(size=20) }} <br>
+        {{ form.tier.label }} {{ form.tier(size=20) }} <br>
+        <input type="hidden" value="query_all" name="request_type" />
+        <input type="submit" value="Inserir">
+    </form>
+</div>
+<div class="row col-md-offset-5">
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class=flashes>
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+</div>
+{% endblock %}

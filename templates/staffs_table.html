@@ -1,0 +1,57 @@
+{% extends "template.html" %}
+{% block table %}
+<div style="text-align: center;">
+    <form action="/query/staff" method=post enctype=multipart/form-data>
+        <strong>Consulta em Staff</strong>
+        <select name="column">
+            <option>staff_id</option>
+            <option>ssn</option>
+            <option>name</option>
+            <option>email</option>
+            <option>role</option>
+            <option>joindate</option>
+            <option>remuneration</option>
+        </select>
+        <select name="option">
+            <option>like</option>
+            <option>exactly</option>
+        </select>
+        Query:
+        <input type="text" name="query">
+        <button type="submit" name="request_type">Executar</button>
+
+        <button type="submit" value="query_all" name="request_type" style="margin-left:30px;">Buscar todos</button>
+    </form>
+</div>
+<table class="result-table">
+    <colgroup>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col>
+        <col style="width: 180px;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th style="min-width: 180px;">Staff_id</th>
+            <th style="min-width: 180px;">SSN</th>
+            <th style="min-width: 180px;">Name</th>
+            <th style="min-width: 180px;">Email</th>
+            <th style="min-width: 180px;">Role</th>
+            <th style="min-width: 180px;">Joindate</th>
+            <th>Remuneration</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for staff in elements %}
+    <tr>
+        {% for column in staff %}
+            <td>{{ column }}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

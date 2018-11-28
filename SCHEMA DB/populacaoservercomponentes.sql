@@ -1,0 +1,28002 @@
+INSERT INTO Server
+VALUES ( '1', '9' );
+INSERT INTO Server
+VALUES ( '2', '16' );
+INSERT INTO Server
+VALUES ( '3', '16' );
+INSERT INTO Server
+VALUES ( '4', '14' );
+INSERT INTO Server
+VALUES ( '5', '18' );
+INSERT INTO Server
+VALUES ( '6', '12' );
+INSERT INTO Server
+VALUES ( '7', '10' );
+INSERT INTO Server
+VALUES ( '8', '17' );
+INSERT INTO Server
+VALUES ( '9', '15' );
+INSERT INTO Server
+VALUES ( '10', '2' );
+INSERT INTO Server
+VALUES ( '11', '6' );
+INSERT INTO Server
+VALUES ( '12', '5' );
+INSERT INTO Server
+VALUES ( '13', '2' );
+INSERT INTO Server
+VALUES ( '14', '11' );
+INSERT INTO Server
+VALUES ( '15', '3' );
+INSERT INTO Server
+VALUES ( '16', '12' );
+INSERT INTO Server
+VALUES ( '17', '11' );
+INSERT INTO Server
+VALUES ( '18', '17' );
+INSERT INTO Server
+VALUES ( '19', '17' );
+INSERT INTO Server
+VALUES ( '20', '16' );
+INSERT INTO Server
+VALUES ( '21', '8' );
+INSERT INTO Server
+VALUES ( '22', '17' );
+INSERT INTO Server
+VALUES ( '23', '2' );
+INSERT INTO Server
+VALUES ( '24', '10' );
+INSERT INTO Server
+VALUES ( '25', '1' );
+INSERT INTO Server
+VALUES ( '26', '9' );
+INSERT INTO Server
+VALUES ( '27', '4' );
+INSERT INTO Server
+VALUES ( '28', '10' );
+INSERT INTO Server
+VALUES ( '29', '18' );
+INSERT INTO Server
+VALUES ( '30', '6' );
+INSERT INTO Server
+VALUES ( '31', '5' );
+INSERT INTO Server
+VALUES ( '32', '19' );
+INSERT INTO Server
+VALUES ( '33', '2' );
+INSERT INTO Server
+VALUES ( '34', '12' );
+INSERT INTO Server
+VALUES ( '35', '4' );
+INSERT INTO Server
+VALUES ( '36', '19' );
+INSERT INTO Server
+VALUES ( '37', '3' );
+INSERT INTO Server
+VALUES ( '38', '13' );
+INSERT INTO Server
+VALUES ( '39', '8' );
+INSERT INTO Server
+VALUES ( '40', '9' );
+INSERT INTO Server
+VALUES ( '41', '14' );
+INSERT INTO Server
+VALUES ( '42', '13' );
+INSERT INTO Server
+VALUES ( '43', '14' );
+INSERT INTO Server
+VALUES ( '44', '7' );
+INSERT INTO Server
+VALUES ( '45', '15' );
+INSERT INTO Server
+VALUES ( '46', '8' );
+INSERT INTO Server
+VALUES ( '47', '19' );
+INSERT INTO Server
+VALUES ( '48', '5' );
+INSERT INTO Server
+VALUES ( '49', '5' );
+INSERT INTO Server
+VALUES ( '50', '7' );
+INSERT INTO Server
+VALUES ( '51', '13' );
+INSERT INTO Server
+VALUES ( '52', '4' );
+INSERT INTO Server
+VALUES ( '53', '15' );
+INSERT INTO Server
+VALUES ( '54', '14' );
+INSERT INTO Server
+VALUES ( '55', '5' );
+INSERT INTO Server
+VALUES ( '56', '8' );
+INSERT INTO Server
+VALUES ( '57', '14' );
+INSERT INTO Server
+VALUES ( '58', '8' );
+INSERT INTO Server
+VALUES ( '59', '17' );
+INSERT INTO Server
+VALUES ( '60', '3' );
+INSERT INTO Server
+VALUES ( '61', '14' );
+INSERT INTO Server
+VALUES ( '62', '13' );
+INSERT INTO Server
+VALUES ( '63', '1' );
+INSERT INTO Server
+VALUES ( '64', '7' );
+INSERT INTO Server
+VALUES ( '65', '4' );
+INSERT INTO Server
+VALUES ( '66', '4' );
+INSERT INTO Server
+VALUES ( '67', '17' );
+INSERT INTO Server
+VALUES ( '68', '7' );
+INSERT INTO Server
+VALUES ( '69', '8' );
+INSERT INTO Server
+VALUES ( '70', '4' );
+INSERT INTO Server
+VALUES ( '71', '15' );
+INSERT INTO Server
+VALUES ( '72', '14' );
+INSERT INTO Server
+VALUES ( '73', '8' );
+INSERT INTO Server
+VALUES ( '74', '20' );
+INSERT INTO Server
+VALUES ( '75', '20' );
+INSERT INTO Server
+VALUES ( '76', '2' );
+INSERT INTO Server
+VALUES ( '77', '8' );
+INSERT INTO Server
+VALUES ( '78', '10' );
+INSERT INTO Server
+VALUES ( '79', '7' );
+INSERT INTO Server
+VALUES ( '80', '12' );
+INSERT INTO Server
+VALUES ( '81', '9' );
+INSERT INTO Server
+VALUES ( '82', '19' );
+INSERT INTO Server
+VALUES ( '83', '7' );
+INSERT INTO Server
+VALUES ( '84', '3' );
+INSERT INTO Server
+VALUES ( '85', '4' );
+INSERT INTO Server
+VALUES ( '86', '11' );
+INSERT INTO Server
+VALUES ( '87', '2' );
+INSERT INTO Server
+VALUES ( '88', '9' );
+INSERT INTO Server
+VALUES ( '89', '18' );
+INSERT INTO Server
+VALUES ( '90', '11' );
+INSERT INTO Server
+VALUES ( '91', '3' );
+INSERT INTO Server
+VALUES ( '92', '11' );
+INSERT INTO Server
+VALUES ( '93', '3' );
+INSERT INTO Server
+VALUES ( '94', '4' );
+INSERT INTO Server
+VALUES ( '95', '9' );
+INSERT INTO Server
+VALUES ( '96', '7' );
+INSERT INTO Server
+VALUES ( '97', '19' );
+INSERT INTO Server
+VALUES ( '98', '6' );
+INSERT INTO Server
+VALUES ( '99', '5' );
+INSERT INTO Server
+VALUES ( '100', '7' );
+INSERT INTO Server
+VALUES ( '101', '9' );
+INSERT INTO Server
+VALUES ( '102', '11' );
+INSERT INTO Server
+VALUES ( '103', '20' );
+INSERT INTO Server
+VALUES ( '104', '17' );
+INSERT INTO Server
+VALUES ( '105', '11' );
+INSERT INTO Server
+VALUES ( '106', '19' );
+INSERT INTO Server
+VALUES ( '107', '18' );
+INSERT INTO Server
+VALUES ( '108', '18' );
+INSERT INTO Server
+VALUES ( '109', '1' );
+INSERT INTO Server
+VALUES ( '110', '16' );
+INSERT INTO Server
+VALUES ( '111', '1' );
+INSERT INTO Server
+VALUES ( '112', '9' );
+INSERT INTO Server
+VALUES ( '113', '6' );
+INSERT INTO Server
+VALUES ( '114', '7' );
+INSERT INTO Server
+VALUES ( '115', '11' );
+INSERT INTO Server
+VALUES ( '116', '1' );
+INSERT INTO Server
+VALUES ( '117', '17' );
+INSERT INTO Server
+VALUES ( '118', '5' );
+INSERT INTO Server
+VALUES ( '119', '1' );
+INSERT INTO Server
+VALUES ( '120', '6' );
+INSERT INTO Server
+VALUES ( '121', '15' );
+INSERT INTO Server
+VALUES ( '122', '4' );
+INSERT INTO Server
+VALUES ( '123', '9' );
+INSERT INTO Server
+VALUES ( '124', '17' );
+INSERT INTO Server
+VALUES ( '125', '19' );
+INSERT INTO Server
+VALUES ( '126', '17' );
+INSERT INTO Server
+VALUES ( '127', '15' );
+INSERT INTO Server
+VALUES ( '128', '17' );
+INSERT INTO Server
+VALUES ( '129', '2' );
+INSERT INTO Server
+VALUES ( '130', '19' );
+INSERT INTO Server
+VALUES ( '131', '15' );
+INSERT INTO Server
+VALUES ( '132', '3' );
+INSERT INTO Server
+VALUES ( '133', '10' );
+INSERT INTO Server
+VALUES ( '134', '6' );
+INSERT INTO Server
+VALUES ( '135', '19' );
+INSERT INTO Server
+VALUES ( '136', '12' );
+INSERT INTO Server
+VALUES ( '137', '17' );
+INSERT INTO Server
+VALUES ( '138', '8' );
+INSERT INTO Server
+VALUES ( '139', '9' );
+INSERT INTO Server
+VALUES ( '140', '17' );
+INSERT INTO Server
+VALUES ( '141', '16' );
+INSERT INTO Server
+VALUES ( '142', '1' );
+INSERT INTO Server
+VALUES ( '143', '5' );
+INSERT INTO Server
+VALUES ( '144', '13' );
+INSERT INTO Server
+VALUES ( '145', '7' );
+INSERT INTO Server
+VALUES ( '146', '7' );
+INSERT INTO Server
+VALUES ( '147', '6' );
+INSERT INTO Server
+VALUES ( '148', '15' );
+INSERT INTO Server
+VALUES ( '149', '11' );
+INSERT INTO Server
+VALUES ( '150', '6' );
+INSERT INTO Server
+VALUES ( '151', '20' );
+INSERT INTO Server
+VALUES ( '152', '17' );
+INSERT INTO Server
+VALUES ( '153', '1' );
+INSERT INTO Server
+VALUES ( '154', '20' );
+INSERT INTO Server
+VALUES ( '155', '14' );
+INSERT INTO Server
+VALUES ( '156', '19' );
+INSERT INTO Server
+VALUES ( '157', '17' );
+INSERT INTO Server
+VALUES ( '158', '8' );
+INSERT INTO Server
+VALUES ( '159', '8' );
+INSERT INTO Server
+VALUES ( '160', '10' );
+INSERT INTO Server
+VALUES ( '161', '19' );
+INSERT INTO Server
+VALUES ( '162', '14' );
+INSERT INTO Server
+VALUES ( '163', '12' );
+INSERT INTO Server
+VALUES ( '164', '20' );
+INSERT INTO Server
+VALUES ( '165', '20' );
+INSERT INTO Server
+VALUES ( '166', '10' );
+INSERT INTO Server
+VALUES ( '167', '11' );
+INSERT INTO Server
+VALUES ( '168', '16' );
+INSERT INTO Server
+VALUES ( '169', '10' );
+INSERT INTO Server
+VALUES ( '170', '19' );
+INSERT INTO Server
+VALUES ( '171', '4' );
+INSERT INTO Server
+VALUES ( '172', '17' );
+INSERT INTO Server
+VALUES ( '173', '19' );
+INSERT INTO Server
+VALUES ( '174', '8' );
+INSERT INTO Server
+VALUES ( '175', '9' );
+INSERT INTO Server
+VALUES ( '176', '17' );
+INSERT INTO Server
+VALUES ( '177', '6' );
+INSERT INTO Server
+VALUES ( '178', '14' );
+INSERT INTO Server
+VALUES ( '179', '11' );
+INSERT INTO Server
+VALUES ( '180', '9' );
+INSERT INTO Server
+VALUES ( '181', '12' );
+INSERT INTO Server
+VALUES ( '182', '2' );
+INSERT INTO Server
+VALUES ( '183', '5' );
+INSERT INTO Server
+VALUES ( '184', '12' );
+INSERT INTO Server
+VALUES ( '185', '2' );
+INSERT INTO Server
+VALUES ( '186', '18' );
+INSERT INTO Server
+VALUES ( '187', '11' );
+INSERT INTO Server
+VALUES ( '188', '10' );
+INSERT INTO Server
+VALUES ( '189', '18' );
+INSERT INTO Server
+VALUES ( '190', '10' );
+INSERT INTO Server
+VALUES ( '191', '19' );
+INSERT INTO Server
+VALUES ( '192', '16' );
+INSERT INTO Server
+VALUES ( '193', '3' );
+INSERT INTO Server
+VALUES ( '194', '11' );
+INSERT INTO Server
+VALUES ( '195', '15' );
+INSERT INTO Server
+VALUES ( '196', '2' );
+INSERT INTO Server
+VALUES ( '197', '12' );
+INSERT INTO Server
+VALUES ( '198', '5' );
+INSERT INTO Server
+VALUES ( '199', '9' );
+INSERT INTO Server
+VALUES ( '200', '13' );
+INSERT INTO Server
+VALUES ( '201', '15' );
+INSERT INTO Server
+VALUES ( '202', '12' );
+INSERT INTO Server
+VALUES ( '203', '9' );
+INSERT INTO Server
+VALUES ( '204', '5' );
+INSERT INTO Server
+VALUES ( '205', '11' );
+INSERT INTO Server
+VALUES ( '206', '18' );
+INSERT INTO Server
+VALUES ( '207', '1' );
+INSERT INTO Server
+VALUES ( '208', '9' );
+INSERT INTO Server
+VALUES ( '209', '3' );
+INSERT INTO Server
+VALUES ( '210', '3' );
+INSERT INTO Server
+VALUES ( '211', '17' );
+INSERT INTO Server
+VALUES ( '212', '14' );
+INSERT INTO Server
+VALUES ( '213', '4' );
+INSERT INTO Server
+VALUES ( '214', '1' );
+INSERT INTO Server
+VALUES ( '215', '6' );
+INSERT INTO Server
+VALUES ( '216', '17' );
+INSERT INTO Server
+VALUES ( '217', '11' );
+INSERT INTO Server
+VALUES ( '218', '8' );
+INSERT INTO Server
+VALUES ( '219', '6' );
+INSERT INTO Server
+VALUES ( '220', '8' );
+INSERT INTO Server
+VALUES ( '221', '17' );
+INSERT INTO Server
+VALUES ( '222', '5' );
+INSERT INTO Server
+VALUES ( '223', '15' );
+INSERT INTO Server
+VALUES ( '224', '19' );
+INSERT INTO Server
+VALUES ( '225', '7' );
+INSERT INTO Server
+VALUES ( '226', '1' );
+INSERT INTO Server
+VALUES ( '227', '13' );
+INSERT INTO Server
+VALUES ( '228', '18' );
+INSERT INTO Server
+VALUES ( '229', '17' );
+INSERT INTO Server
+VALUES ( '230', '1' );
+INSERT INTO Server
+VALUES ( '231', '11' );
+INSERT INTO Server
+VALUES ( '232', '11' );
+INSERT INTO Server
+VALUES ( '233', '5' );
+INSERT INTO Server
+VALUES ( '234', '11' );
+INSERT INTO Server
+VALUES ( '235', '7' );
+INSERT INTO Server
+VALUES ( '236', '7' );
+INSERT INTO Server
+VALUES ( '237', '8' );
+INSERT INTO Server
+VALUES ( '238', '7' );
+INSERT INTO Server
+VALUES ( '239', '15' );
+INSERT INTO Server
+VALUES ( '240', '3' );
+INSERT INTO Server
+VALUES ( '241', '1' );
+INSERT INTO Server
+VALUES ( '242', '11' );
+INSERT INTO Server
+VALUES ( '243', '16' );
+INSERT INTO Server
+VALUES ( '244', '4' );
+INSERT INTO Server
+VALUES ( '245', '4' );
+INSERT INTO Server
+VALUES ( '246', '13' );
+INSERT INTO Server
+VALUES ( '247', '13' );
+INSERT INTO Server
+VALUES ( '248', '14' );
+INSERT INTO Server
+VALUES ( '249', '20' );
+INSERT INTO Server
+VALUES ( '250', '10' );
+INSERT INTO Server
+VALUES ( '251', '13' );
+INSERT INTO Server
+VALUES ( '252', '16' );
+INSERT INTO Server
+VALUES ( '253', '6' );
+INSERT INTO Server
+VALUES ( '254', '7' );
+INSERT INTO Server
+VALUES ( '255', '7' );
+INSERT INTO Server
+VALUES ( '256', '12' );
+INSERT INTO Server
+VALUES ( '257', '19' );
+INSERT INTO Server
+VALUES ( '258', '11' );
+INSERT INTO Server
+VALUES ( '259', '2' );
+INSERT INTO Server
+VALUES ( '260', '15' );
+INSERT INTO Server
+VALUES ( '261', '3' );
+INSERT INTO Server
+VALUES ( '262', '4' );
+INSERT INTO Server
+VALUES ( '263', '17' );
+INSERT INTO Server
+VALUES ( '264', '7' );
+INSERT INTO Server
+VALUES ( '265', '14' );
+INSERT INTO Server
+VALUES ( '266', '3' );
+INSERT INTO Server
+VALUES ( '267', '14' );
+INSERT INTO Server
+VALUES ( '268', '14' );
+INSERT INTO Server
+VALUES ( '269', '1' );
+INSERT INTO Server
+VALUES ( '270', '20' );
+INSERT INTO Server
+VALUES ( '271', '16' );
+INSERT INTO Server
+VALUES ( '272', '1' );
+INSERT INTO Server
+VALUES ( '273', '11' );
+INSERT INTO Server
+VALUES ( '274', '3' );
+INSERT INTO Server
+VALUES ( '275', '16' );
+INSERT INTO Server
+VALUES ( '276', '6' );
+INSERT INTO Server
+VALUES ( '277', '16' );
+INSERT INTO Server
+VALUES ( '278', '20' );
+INSERT INTO Server
+VALUES ( '279', '19' );
+INSERT INTO Server
+VALUES ( '280', '15' );
+INSERT INTO Server
+VALUES ( '281', '10' );
+INSERT INTO Server
+VALUES ( '282', '11' );
+INSERT INTO Server
+VALUES ( '283', '3' );
+INSERT INTO Server
+VALUES ( '284', '15' );
+INSERT INTO Server
+VALUES ( '285', '9' );
+INSERT INTO Server
+VALUES ( '286', '1' );
+INSERT INTO Server
+VALUES ( '287', '7' );
+INSERT INTO Server
+VALUES ( '288', '7' );
+INSERT INTO Server
+VALUES ( '289', '11' );
+INSERT INTO Server
+VALUES ( '290', '20' );
+INSERT INTO Server
+VALUES ( '291', '13' );
+INSERT INTO Server
+VALUES ( '292', '13' );
+INSERT INTO Server
+VALUES ( '293', '3' );
+INSERT INTO Server
+VALUES ( '294', '9' );
+INSERT INTO Server
+VALUES ( '295', '20' );
+INSERT INTO Server
+VALUES ( '296', '16' );
+INSERT INTO Server
+VALUES ( '297', '3' );
+INSERT INTO Server
+VALUES ( '298', '5' );
+INSERT INTO Server
+VALUES ( '299', '1' );
+INSERT INTO Server
+VALUES ( '300', '3' );
+INSERT INTO Server
+VALUES ( '301', '16' );
+INSERT INTO Server
+VALUES ( '302', '16' );
+INSERT INTO Server
+VALUES ( '303', '15' );
+INSERT INTO Server
+VALUES ( '304', '6' );
+INSERT INTO Server
+VALUES ( '305', '19' );
+INSERT INTO Server
+VALUES ( '306', '2' );
+INSERT INTO Server
+VALUES ( '307', '3' );
+INSERT INTO Server
+VALUES ( '308', '6' );
+INSERT INTO Server
+VALUES ( '309', '2' );
+INSERT INTO Server
+VALUES ( '310', '1' );
+INSERT INTO Server
+VALUES ( '311', '20' );
+INSERT INTO Server
+VALUES ( '312', '11' );
+INSERT INTO Server
+VALUES ( '313', '3' );
+INSERT INTO Server
+VALUES ( '314', '14' );
+INSERT INTO Server
+VALUES ( '315', '5' );
+INSERT INTO Server
+VALUES ( '316', '11' );
+INSERT INTO Server
+VALUES ( '317', '14' );
+INSERT INTO Server
+VALUES ( '318', '3' );
+INSERT INTO Server
+VALUES ( '319', '9' );
+INSERT INTO Server
+VALUES ( '320', '4' );
+INSERT INTO Server
+VALUES ( '321', '2' );
+INSERT INTO Server
+VALUES ( '322', '1' );
+INSERT INTO Server
+VALUES ( '323', '17' );
+INSERT INTO Server
+VALUES ( '324', '4' );
+INSERT INTO Server
+VALUES ( '325', '1' );
+INSERT INTO Server
+VALUES ( '326', '8' );
+INSERT INTO Server
+VALUES ( '327', '12' );
+INSERT INTO Server
+VALUES ( '328', '3' );
+INSERT INTO Server
+VALUES ( '329', '12' );
+INSERT INTO Server
+VALUES ( '330', '12' );
+INSERT INTO Server
+VALUES ( '331', '17' );
+INSERT INTO Server
+VALUES ( '332', '7' );
+INSERT INTO Server
+VALUES ( '333', '20' );
+INSERT INTO Server
+VALUES ( '334', '11' );
+INSERT INTO Server
+VALUES ( '335', '5' );
+INSERT INTO Server
+VALUES ( '336', '10' );
+INSERT INTO Server
+VALUES ( '337', '13' );
+INSERT INTO Server
+VALUES ( '338', '7' );
+INSERT INTO Server
+VALUES ( '339', '15' );
+INSERT INTO Server
+VALUES ( '340', '14' );
+INSERT INTO Server
+VALUES ( '341', '20' );
+INSERT INTO Server
+VALUES ( '342', '6' );
+INSERT INTO Server
+VALUES ( '343', '4' );
+INSERT INTO Server
+VALUES ( '344', '14' );
+INSERT INTO Server
+VALUES ( '345', '20' );
+INSERT INTO Server
+VALUES ( '346', '20' );
+INSERT INTO Server
+VALUES ( '347', '5' );
+INSERT INTO Server
+VALUES ( '348', '13' );
+INSERT INTO Server
+VALUES ( '349', '3' );
+INSERT INTO Server
+VALUES ( '350', '5' );
+INSERT INTO Server
+VALUES ( '351', '17' );
+INSERT INTO Server
+VALUES ( '352', '16' );
+INSERT INTO Server
+VALUES ( '353', '18' );
+INSERT INTO Server
+VALUES ( '354', '5' );
+INSERT INTO Server
+VALUES ( '355', '20' );
+INSERT INTO Server
+VALUES ( '356', '18' );
+INSERT INTO Server
+VALUES ( '357', '12' );
+INSERT INTO Server
+VALUES ( '358', '3' );
+INSERT INTO Server
+VALUES ( '359', '13' );
+INSERT INTO Server
+VALUES ( '360', '15' );
+INSERT INTO Server
+VALUES ( '361', '6' );
+INSERT INTO Server
+VALUES ( '362', '9' );
+INSERT INTO Server
+VALUES ( '363', '13' );
+INSERT INTO Server
+VALUES ( '364', '17' );
+INSERT INTO Server
+VALUES ( '365', '12' );
+INSERT INTO Server
+VALUES ( '366', '9' );
+INSERT INTO Server
+VALUES ( '367', '6' );
+INSERT INTO Server
+VALUES ( '368', '4' );
+INSERT INTO Server
+VALUES ( '369', '8' );
+INSERT INTO Server
+VALUES ( '370', '20' );
+INSERT INTO Server
+VALUES ( '371', '9' );
+INSERT INTO Server
+VALUES ( '372', '7' );
+INSERT INTO Server
+VALUES ( '373', '18' );
+INSERT INTO Server
+VALUES ( '374', '4' );
+INSERT INTO Server
+VALUES ( '375', '20' );
+INSERT INTO Server
+VALUES ( '376', '17' );
+INSERT INTO Server
+VALUES ( '377', '3' );
+INSERT INTO Server
+VALUES ( '378', '16' );
+INSERT INTO Server
+VALUES ( '379', '1' );
+INSERT INTO Server
+VALUES ( '380', '17' );
+INSERT INTO Server
+VALUES ( '381', '13' );
+INSERT INTO Server
+VALUES ( '382', '17' );
+INSERT INTO Server
+VALUES ( '383', '13' );
+INSERT INTO Server
+VALUES ( '384', '10' );
+INSERT INTO Server
+VALUES ( '385', '13' );
+INSERT INTO Server
+VALUES ( '386', '4' );
+INSERT INTO Server
+VALUES ( '387', '19' );
+INSERT INTO Server
+VALUES ( '388', '4' );
+INSERT INTO Server
+VALUES ( '389', '6' );
+INSERT INTO Server
+VALUES ( '390', '3' );
+INSERT INTO Server
+VALUES ( '391', '18' );
+INSERT INTO Server
+VALUES ( '392', '3' );
+INSERT INTO Server
+VALUES ( '393', '12' );
+INSERT INTO Server
+VALUES ( '394', '3' );
+INSERT INTO Server
+VALUES ( '395', '20' );
+INSERT INTO Server
+VALUES ( '396', '3' );
+INSERT INTO Server
+VALUES ( '397', '11' );
+INSERT INTO Server
+VALUES ( '398', '5' );
+INSERT INTO Server
+VALUES ( '399', '18' );
+INSERT INTO Server
+VALUES ( '400', '18' );
+INSERT INTO Server
+VALUES ( '401', '17' );
+INSERT INTO Server
+VALUES ( '402', '18' );
+INSERT INTO Server
+VALUES ( '403', '16' );
+INSERT INTO Server
+VALUES ( '404', '14' );
+INSERT INTO Server
+VALUES ( '405', '1' );
+INSERT INTO Server
+VALUES ( '406', '8' );
+INSERT INTO Server
+VALUES ( '407', '2' );
+INSERT INTO Server
+VALUES ( '408', '15' );
+INSERT INTO Server
+VALUES ( '409', '3' );
+INSERT INTO Server
+VALUES ( '410', '2' );
+INSERT INTO Server
+VALUES ( '411', '12' );
+INSERT INTO Server
+VALUES ( '412', '7' );
+INSERT INTO Server
+VALUES ( '413', '11' );
+INSERT INTO Server
+VALUES ( '414', '4' );
+INSERT INTO Server
+VALUES ( '415', '8' );
+INSERT INTO Server
+VALUES ( '416', '3' );
+INSERT INTO Server
+VALUES ( '417', '7' );
+INSERT INTO Server
+VALUES ( '418', '7' );
+INSERT INTO Server
+VALUES ( '419', '7' );
+INSERT INTO Server
+VALUES ( '420', '4' );
+INSERT INTO Server
+VALUES ( '421', '9' );
+INSERT INTO Server
+VALUES ( '422', '16' );
+INSERT INTO Server
+VALUES ( '423', '18' );
+INSERT INTO Server
+VALUES ( '424', '12' );
+INSERT INTO Server
+VALUES ( '425', '18' );
+INSERT INTO Server
+VALUES ( '426', '17' );
+INSERT INTO Server
+VALUES ( '427', '6' );
+INSERT INTO Server
+VALUES ( '428', '1' );
+INSERT INTO Server
+VALUES ( '429', '14' );
+INSERT INTO Server
+VALUES ( '430', '3' );
+INSERT INTO Server
+VALUES ( '431', '18' );
+INSERT INTO Server
+VALUES ( '432', '2' );
+INSERT INTO Server
+VALUES ( '433', '12' );
+INSERT INTO Server
+VALUES ( '434', '14' );
+INSERT INTO Server
+VALUES ( '435', '15' );
+INSERT INTO Server
+VALUES ( '436', '12' );
+INSERT INTO Server
+VALUES ( '437', '1' );
+INSERT INTO Server
+VALUES ( '438', '8' );
+INSERT INTO Server
+VALUES ( '439', '7' );
+INSERT INTO Server
+VALUES ( '440', '15' );
+INSERT INTO Server
+VALUES ( '441', '9' );
+INSERT INTO Server
+VALUES ( '442', '18' );
+INSERT INTO Server
+VALUES ( '443', '2' );
+INSERT INTO Server
+VALUES ( '444', '11' );
+INSERT INTO Server
+VALUES ( '445', '13' );
+INSERT INTO Server
+VALUES ( '446', '9' );
+INSERT INTO Server
+VALUES ( '447', '14' );
+INSERT INTO Server
+VALUES ( '448', '11' );
+INSERT INTO Server
+VALUES ( '449', '7' );
+INSERT INTO Server
+VALUES ( '450', '12' );
+INSERT INTO Server
+VALUES ( '451', '6' );
+INSERT INTO Server
+VALUES ( '452', '8' );
+INSERT INTO Server
+VALUES ( '453', '19' );
+INSERT INTO Server
+VALUES ( '454', '3' );
+INSERT INTO Server
+VALUES ( '455', '11' );
+INSERT INTO Server
+VALUES ( '456', '9' );
+INSERT INTO Server
+VALUES ( '457', '12' );
+INSERT INTO Server
+VALUES ( '458', '17' );
+INSERT INTO Server
+VALUES ( '459', '9' );
+INSERT INTO Server
+VALUES ( '460', '5' );
+INSERT INTO Server
+VALUES ( '461', '11' );
+INSERT INTO Server
+VALUES ( '462', '6' );
+INSERT INTO Server
+VALUES ( '463', '6' );
+INSERT INTO Server
+VALUES ( '464', '3' );
+INSERT INTO Server
+VALUES ( '465', '11' );
+INSERT INTO Server
+VALUES ( '466', '12' );
+INSERT INTO Server
+VALUES ( '467', '14' );
+INSERT INTO Server
+VALUES ( '468', '3' );
+INSERT INTO Server
+VALUES ( '469', '19' );
+INSERT INTO Server
+VALUES ( '470', '12' );
+INSERT INTO Server
+VALUES ( '471', '10' );
+INSERT INTO Server
+VALUES ( '472', '19' );
+INSERT INTO Server
+VALUES ( '473', '1' );
+INSERT INTO Server
+VALUES ( '474', '11' );
+INSERT INTO Server
+VALUES ( '475', '10' );
+INSERT INTO Server
+VALUES ( '476', '5' );
+INSERT INTO Server
+VALUES ( '477', '11' );
+INSERT INTO Server
+VALUES ( '478', '15' );
+INSERT INTO Server
+VALUES ( '479', '15' );
+INSERT INTO Server
+VALUES ( '480', '10' );
+INSERT INTO Server
+VALUES ( '481', '6' );
+INSERT INTO Server
+VALUES ( '482', '12' );
+INSERT INTO Server
+VALUES ( '483', '17' );
+INSERT INTO Server
+VALUES ( '484', '4' );
+INSERT INTO Server
+VALUES ( '485', '15' );
+INSERT INTO Server
+VALUES ( '486', '7' );
+INSERT INTO Server
+VALUES ( '487', '4' );
+INSERT INTO Server
+VALUES ( '488', '6' );
+INSERT INTO Server
+VALUES ( '489', '3' );
+INSERT INTO Server
+VALUES ( '490', '12' );
+INSERT INTO Server
+VALUES ( '491', '10' );
+INSERT INTO Server
+VALUES ( '492', '6' );
+INSERT INTO Server
+VALUES ( '493', '10' );
+INSERT INTO Server
+VALUES ( '494', '7' );
+INSERT INTO Server
+VALUES ( '495', '8' );
+INSERT INTO Server
+VALUES ( '496', '20' );
+INSERT INTO Server
+VALUES ( '497', '18' );
+INSERT INTO Server
+VALUES ( '498', '13' );
+INSERT INTO Server
+VALUES ( '499', '15' );
+INSERT INTO Server
+VALUES ( '500', '8' );
+INSERT INTO Server
+VALUES ( '501', '17' );
+INSERT INTO Server
+VALUES ( '502', '4' );
+INSERT INTO Server
+VALUES ( '503', '6' );
+INSERT INTO Server
+VALUES ( '504', '17' );
+INSERT INTO Server
+VALUES ( '505', '6' );
+INSERT INTO Server
+VALUES ( '506', '7' );
+INSERT INTO Server
+VALUES ( '507', '2' );
+INSERT INTO Server
+VALUES ( '508', '16' );
+INSERT INTO Server
+VALUES ( '509', '1' );
+INSERT INTO Server
+VALUES ( '510', '8' );
+INSERT INTO Server
+VALUES ( '511', '5' );
+INSERT INTO Server
+VALUES ( '512', '6' );
+INSERT INTO Server
+VALUES ( '513', '20' );
+INSERT INTO Server
+VALUES ( '514', '13' );
+INSERT INTO Server
+VALUES ( '515', '2' );
+INSERT INTO Server
+VALUES ( '516', '14' );
+INSERT INTO Server
+VALUES ( '517', '20' );
+INSERT INTO Server
+VALUES ( '518', '5' );
+INSERT INTO Server
+VALUES ( '519', '11' );
+INSERT INTO Server
+VALUES ( '520', '14' );
+INSERT INTO Server
+VALUES ( '521', '9' );
+INSERT INTO Server
+VALUES ( '522', '12' );
+INSERT INTO Server
+VALUES ( '523', '11' );
+INSERT INTO Server
+VALUES ( '524', '18' );
+INSERT INTO Server
+VALUES ( '525', '18' );
+INSERT INTO Server
+VALUES ( '526', '10' );
+INSERT INTO Server
+VALUES ( '527', '9' );
+INSERT INTO Server
+VALUES ( '528', '7' );
+INSERT INTO Server
+VALUES ( '529', '3' );
+INSERT INTO Server
+VALUES ( '530', '3' );
+INSERT INTO Server
+VALUES ( '531', '14' );
+INSERT INTO Server
+VALUES ( '532', '19' );
+INSERT INTO Server
+VALUES ( '533', '18' );
+INSERT INTO Server
+VALUES ( '534', '19' );
+INSERT INTO Server
+VALUES ( '535', '7' );
+INSERT INTO Server
+VALUES ( '536', '3' );
+INSERT INTO Server
+VALUES ( '537', '6' );
+INSERT INTO Server
+VALUES ( '538', '8' );
+INSERT INTO Server
+VALUES ( '539', '19' );
+INSERT INTO Server
+VALUES ( '540', '6' );
+INSERT INTO Server
+VALUES ( '541', '16' );
+INSERT INTO Server
+VALUES ( '542', '15' );
+INSERT INTO Server
+VALUES ( '543', '4' );
+INSERT INTO Server
+VALUES ( '544', '15' );
+INSERT INTO Server
+VALUES ( '545', '20' );
+INSERT INTO Server
+VALUES ( '546', '17' );
+INSERT INTO Server
+VALUES ( '547', '20' );
+INSERT INTO Server
+VALUES ( '548', '11' );
+INSERT INTO Server
+VALUES ( '549', '13' );
+INSERT INTO Server
+VALUES ( '550', '10' );
+INSERT INTO Server
+VALUES ( '551', '16' );
+INSERT INTO Server
+VALUES ( '552', '1' );
+INSERT INTO Server
+VALUES ( '553', '13' );
+INSERT INTO Server
+VALUES ( '554', '7' );
+INSERT INTO Server
+VALUES ( '555', '10' );
+INSERT INTO Server
+VALUES ( '556', '10' );
+INSERT INTO Server
+VALUES ( '557', '16' );
+INSERT INTO Server
+VALUES ( '558', '19' );
+INSERT INTO Server
+VALUES ( '559', '16' );
+INSERT INTO Server
+VALUES ( '560', '10' );
+INSERT INTO Server
+VALUES ( '561', '13' );
+INSERT INTO Server
+VALUES ( '562', '1' );
+INSERT INTO Server
+VALUES ( '563', '8' );
+INSERT INTO Server
+VALUES ( '564', '11' );
+INSERT INTO Server
+VALUES ( '565', '11' );
+INSERT INTO Server
+VALUES ( '566', '7' );
+INSERT INTO Server
+VALUES ( '567', '5' );
+INSERT INTO Server
+VALUES ( '568', '8' );
+INSERT INTO Server
+VALUES ( '569', '14' );
+INSERT INTO Server
+VALUES ( '570', '3' );
+INSERT INTO Server
+VALUES ( '571', '6' );
+INSERT INTO Server
+VALUES ( '572', '1' );
+INSERT INTO Server
+VALUES ( '573', '10' );
+INSERT INTO Server
+VALUES ( '574', '9' );
+INSERT INTO Server
+VALUES ( '575', '7' );
+INSERT INTO Server
+VALUES ( '576', '9' );
+INSERT INTO Server
+VALUES ( '577', '17' );
+INSERT INTO Server
+VALUES ( '578', '6' );
+INSERT INTO Server
+VALUES ( '579', '19' );
+INSERT INTO Server
+VALUES ( '580', '9' );
+INSERT INTO Server
+VALUES ( '581', '7' );
+INSERT INTO Server
+VALUES ( '582', '14' );
+INSERT INTO Server
+VALUES ( '583', '2' );
+INSERT INTO Server
+VALUES ( '584', '19' );
+INSERT INTO Server
+VALUES ( '585', '12' );
+INSERT INTO Server
+VALUES ( '586', '11' );
+INSERT INTO Server
+VALUES ( '587', '20' );
+INSERT INTO Server
+VALUES ( '588', '8' );
+INSERT INTO Server
+VALUES ( '589', '1' );
+INSERT INTO Server
+VALUES ( '590', '7' );
+INSERT INTO Server
+VALUES ( '591', '17' );
+INSERT INTO Server
+VALUES ( '592', '14' );
+INSERT INTO Server
+VALUES ( '593', '19' );
+INSERT INTO Server
+VALUES ( '594', '17' );
+INSERT INTO Server
+VALUES ( '595', '16' );
+INSERT INTO Server
+VALUES ( '596', '10' );
+INSERT INTO Server
+VALUES ( '597', '3' );
+INSERT INTO Server
+VALUES ( '598', '20' );
+INSERT INTO Server
+VALUES ( '599', '17' );
+INSERT INTO Server
+VALUES ( '600', '8' );
+INSERT INTO Server
+VALUES ( '601', '15' );
+INSERT INTO Server
+VALUES ( '602', '2' );
+INSERT INTO Server
+VALUES ( '603', '9' );
+INSERT INTO Server
+VALUES ( '604', '16' );
+INSERT INTO Server
+VALUES ( '605', '2' );
+INSERT INTO Server
+VALUES ( '606', '15' );
+INSERT INTO Server
+VALUES ( '607', '4' );
+INSERT INTO Server
+VALUES ( '608', '18' );
+INSERT INTO Server
+VALUES ( '609', '13' );
+INSERT INTO Server
+VALUES ( '610', '14' );
+INSERT INTO Server
+VALUES ( '611', '19' );
+INSERT INTO Server
+VALUES ( '612', '11' );
+INSERT INTO Server
+VALUES ( '613', '19' );
+INSERT INTO Server
+VALUES ( '614', '20' );
+INSERT INTO Server
+VALUES ( '615', '2' );
+INSERT INTO Server
+VALUES ( '616', '11' );
+INSERT INTO Server
+VALUES ( '617', '2' );
+INSERT INTO Server
+VALUES ( '618', '13' );
+INSERT INTO Server
+VALUES ( '619', '18' );
+INSERT INTO Server
+VALUES ( '620', '3' );
+INSERT INTO Server
+VALUES ( '621', '20' );
+INSERT INTO Server
+VALUES ( '622', '6' );
+INSERT INTO Server
+VALUES ( '623', '8' );
+INSERT INTO Server
+VALUES ( '624', '18' );
+INSERT INTO Server
+VALUES ( '625', '2' );
+INSERT INTO Server
+VALUES ( '626', '15' );
+INSERT INTO Server
+VALUES ( '627', '19' );
+INSERT INTO Server
+VALUES ( '628', '16' );
+INSERT INTO Server
+VALUES ( '629', '6' );
+INSERT INTO Server
+VALUES ( '630', '16' );
+INSERT INTO Server
+VALUES ( '631', '4' );
+INSERT INTO Server
+VALUES ( '632', '20' );
+INSERT INTO Server
+VALUES ( '633', '9' );
+INSERT INTO Server
+VALUES ( '634', '12' );
+INSERT INTO Server
+VALUES ( '635', '15' );
+INSERT INTO Server
+VALUES ( '636', '11' );
+INSERT INTO Server
+VALUES ( '637', '18' );
+INSERT INTO Server
+VALUES ( '638', '10' );
+INSERT INTO Server
+VALUES ( '639', '20' );
+INSERT INTO Server
+VALUES ( '640', '2' );
+INSERT INTO Server
+VALUES ( '641', '15' );
+INSERT INTO Server
+VALUES ( '642', '18' );
+INSERT INTO Server
+VALUES ( '643', '13' );
+INSERT INTO Server
+VALUES ( '644', '14' );
+INSERT INTO Server
+VALUES ( '645', '9' );
+INSERT INTO Server
+VALUES ( '646', '14' );
+INSERT INTO Server
+VALUES ( '647', '4' );
+INSERT INTO Server
+VALUES ( '648', '3' );
+INSERT INTO Server
+VALUES ( '649', '6' );
+INSERT INTO Server
+VALUES ( '650', '13' );
+INSERT INTO Server
+VALUES ( '651', '17' );
+INSERT INTO Server
+VALUES ( '652', '17' );
+INSERT INTO Server
+VALUES ( '653', '18' );
+INSERT INTO Server
+VALUES ( '654', '16' );
+INSERT INTO Server
+VALUES ( '655', '7' );
+INSERT INTO Server
+VALUES ( '656', '12' );
+INSERT INTO Server
+VALUES ( '657', '10' );
+INSERT INTO Server
+VALUES ( '658', '5' );
+INSERT INTO Server
+VALUES ( '659', '7' );
+INSERT INTO Server
+VALUES ( '660', '15' );
+INSERT INTO Server
+VALUES ( '661', '12' );
+INSERT INTO Server
+VALUES ( '662', '10' );
+INSERT INTO Server
+VALUES ( '663', '7' );
+INSERT INTO Server
+VALUES ( '664', '1' );
+INSERT INTO Server
+VALUES ( '665', '13' );
+INSERT INTO Server
+VALUES ( '666', '13' );
+INSERT INTO Server
+VALUES ( '667', '3' );
+INSERT INTO Server
+VALUES ( '668', '11' );
+INSERT INTO Server
+VALUES ( '669', '15' );
+INSERT INTO Server
+VALUES ( '670', '2' );
+INSERT INTO Server
+VALUES ( '671', '4' );
+INSERT INTO Server
+VALUES ( '672', '9' );
+INSERT INTO Server
+VALUES ( '673', '12' );
+INSERT INTO Server
+VALUES ( '674', '16' );
+INSERT INTO Server
+VALUES ( '675', '14' );
+INSERT INTO Server
+VALUES ( '676', '12' );
+INSERT INTO Server
+VALUES ( '677', '1' );
+INSERT INTO Server
+VALUES ( '678', '17' );
+INSERT INTO Server
+VALUES ( '679', '14' );
+INSERT INTO Server
+VALUES ( '680', '19' );
+INSERT INTO Server
+VALUES ( '681', '1' );
+INSERT INTO Server
+VALUES ( '682', '2' );
+INSERT INTO Server
+VALUES ( '683', '7' );
+INSERT INTO Server
+VALUES ( '684', '19' );
+INSERT INTO Server
+VALUES ( '685', '17' );
+INSERT INTO Server
+VALUES ( '686', '13' );
+INSERT INTO Server
+VALUES ( '687', '10' );
+INSERT INTO Server
+VALUES ( '688', '6' );
+INSERT INTO Server
+VALUES ( '689', '10' );
+INSERT INTO Server
+VALUES ( '690', '8' );
+INSERT INTO Server
+VALUES ( '691', '13' );
+INSERT INTO Server
+VALUES ( '692', '13' );
+INSERT INTO Server
+VALUES ( '693', '18' );
+INSERT INTO Server
+VALUES ( '694', '11' );
+INSERT INTO Server
+VALUES ( '695', '13' );
+INSERT INTO Server
+VALUES ( '696', '10' );
+INSERT INTO Server
+VALUES ( '697', '3' );
+INSERT INTO Server
+VALUES ( '698', '7' );
+INSERT INTO Server
+VALUES ( '699', '12' );
+INSERT INTO Server
+VALUES ( '700', '9' );
+INSERT INTO Server
+VALUES ( '701', '1' );
+INSERT INTO Server
+VALUES ( '702', '16' );
+INSERT INTO Server
+VALUES ( '703', '18' );
+INSERT INTO Server
+VALUES ( '704', '12' );
+INSERT INTO Server
+VALUES ( '705', '3' );
+INSERT INTO Server
+VALUES ( '706', '3' );
+INSERT INTO Server
+VALUES ( '707', '15' );
+INSERT INTO Server
+VALUES ( '708', '4' );
+INSERT INTO Server
+VALUES ( '709', '12' );
+INSERT INTO Server
+VALUES ( '710', '1' );
+INSERT INTO Server
+VALUES ( '711', '14' );
+INSERT INTO Server
+VALUES ( '712', '12' );
+INSERT INTO Server
+VALUES ( '713', '2' );
+INSERT INTO Server
+VALUES ( '714', '20' );
+INSERT INTO Server
+VALUES ( '715', '2' );
+INSERT INTO Server
+VALUES ( '716', '19' );
+INSERT INTO Server
+VALUES ( '717', '13' );
+INSERT INTO Server
+VALUES ( '718', '11' );
+INSERT INTO Server
+VALUES ( '719', '16' );
+INSERT INTO Server
+VALUES ( '720', '14' );
+INSERT INTO Server
+VALUES ( '721', '19' );
+INSERT INTO Server
+VALUES ( '722', '8' );
+INSERT INTO Server
+VALUES ( '723', '6' );
+INSERT INTO Server
+VALUES ( '724', '8' );
+INSERT INTO Server
+VALUES ( '725', '10' );
+INSERT INTO Server
+VALUES ( '726', '11' );
+INSERT INTO Server
+VALUES ( '727', '9' );
+INSERT INTO Server
+VALUES ( '728', '13' );
+INSERT INTO Server
+VALUES ( '729', '17' );
+INSERT INTO Server
+VALUES ( '730', '13' );
+INSERT INTO Server
+VALUES ( '731', '13' );
+INSERT INTO Server
+VALUES ( '732', '17' );
+INSERT INTO Server
+VALUES ( '733', '20' );
+INSERT INTO Server
+VALUES ( '734', '2' );
+INSERT INTO Server
+VALUES ( '735', '20' );
+INSERT INTO Server
+VALUES ( '736', '2' );
+INSERT INTO Server
+VALUES ( '737', '5' );
+INSERT INTO Server
+VALUES ( '738', '7' );
+INSERT INTO Server
+VALUES ( '739', '17' );
+INSERT INTO Server
+VALUES ( '740', '16' );
+INSERT INTO Server
+VALUES ( '741', '7' );
+INSERT INTO Server
+VALUES ( '742', '10' );
+INSERT INTO Server
+VALUES ( '743', '7' );
+INSERT INTO Server
+VALUES ( '744', '8' );
+INSERT INTO Server
+VALUES ( '745', '2' );
+INSERT INTO Server
+VALUES ( '746', '9' );
+INSERT INTO Server
+VALUES ( '747', '18' );
+INSERT INTO Server
+VALUES ( '748', '14' );
+INSERT INTO Server
+VALUES ( '749', '11' );
+INSERT INTO Server
+VALUES ( '750', '14' );
+INSERT INTO Server
+VALUES ( '751', '19' );
+INSERT INTO Server
+VALUES ( '752', '1' );
+INSERT INTO Server
+VALUES ( '753', '13' );
+INSERT INTO Server
+VALUES ( '754', '4' );
+INSERT INTO Server
+VALUES ( '755', '20' );
+INSERT INTO Server
+VALUES ( '756', '3' );
+INSERT INTO Server
+VALUES ( '757', '6' );
+INSERT INTO Server
+VALUES ( '758', '9' );
+INSERT INTO Server
+VALUES ( '759', '7' );
+INSERT INTO Server
+VALUES ( '760', '15' );
+INSERT INTO Server
+VALUES ( '761', '1' );
+INSERT INTO Server
+VALUES ( '762', '19' );
+INSERT INTO Server
+VALUES ( '763', '11' );
+INSERT INTO Server
+VALUES ( '764', '12' );
+INSERT INTO Server
+VALUES ( '765', '1' );
+INSERT INTO Server
+VALUES ( '766', '3' );
+INSERT INTO Server
+VALUES ( '767', '13' );
+INSERT INTO Server
+VALUES ( '768', '17' );
+INSERT INTO Server
+VALUES ( '769', '1' );
+INSERT INTO Server
+VALUES ( '770', '2' );
+INSERT INTO Server
+VALUES ( '771', '12' );
+INSERT INTO Server
+VALUES ( '772', '7' );
+INSERT INTO Server
+VALUES ( '773', '3' );
+INSERT INTO Server
+VALUES ( '774', '10' );
+INSERT INTO Server
+VALUES ( '775', '6' );
+INSERT INTO Server
+VALUES ( '776', '4' );
+INSERT INTO Server
+VALUES ( '777', '10' );
+INSERT INTO Server
+VALUES ( '778', '16' );
+INSERT INTO Server
+VALUES ( '779', '9' );
+INSERT INTO Server
+VALUES ( '780', '13' );
+INSERT INTO Server
+VALUES ( '781', '9' );
+INSERT INTO Server
+VALUES ( '782', '7' );
+INSERT INTO Server
+VALUES ( '783', '13' );
+INSERT INTO Server
+VALUES ( '784', '13' );
+INSERT INTO Server
+VALUES ( '785', '3' );
+INSERT INTO Server
+VALUES ( '786', '13' );
+INSERT INTO Server
+VALUES ( '787', '7' );
+INSERT INTO Server
+VALUES ( '788', '8' );
+INSERT INTO Server
+VALUES ( '789', '13' );
+INSERT INTO Server
+VALUES ( '790', '13' );
+INSERT INTO Server
+VALUES ( '791', '2' );
+INSERT INTO Server
+VALUES ( '792', '5' );
+INSERT INTO Server
+VALUES ( '793', '4' );
+INSERT INTO Server
+VALUES ( '794', '5' );
+INSERT INTO Server
+VALUES ( '795', '16' );
+INSERT INTO Server
+VALUES ( '796', '16' );
+INSERT INTO Server
+VALUES ( '797', '19' );
+INSERT INTO Server
+VALUES ( '798', '20' );
+INSERT INTO Server
+VALUES ( '799', '12' );
+INSERT INTO Server
+VALUES ( '800', '19' );
+INSERT INTO Server
+VALUES ( '801', '1' );
+INSERT INTO Server
+VALUES ( '802', '15' );
+INSERT INTO Server
+VALUES ( '803', '17' );
+INSERT INTO Server
+VALUES ( '804', '4' );
+INSERT INTO Server
+VALUES ( '805', '16' );
+INSERT INTO Server
+VALUES ( '806', '2' );
+INSERT INTO Server
+VALUES ( '807', '19' );
+INSERT INTO Server
+VALUES ( '808', '6' );
+INSERT INTO Server
+VALUES ( '809', '9' );
+INSERT INTO Server
+VALUES ( '810', '8' );
+INSERT INTO Server
+VALUES ( '811', '18' );
+INSERT INTO Server
+VALUES ( '812', '17' );
+INSERT INTO Server
+VALUES ( '813', '6' );
+INSERT INTO Server
+VALUES ( '814', '2' );
+INSERT INTO Server
+VALUES ( '815', '2' );
+INSERT INTO Server
+VALUES ( '816', '20' );
+INSERT INTO Server
+VALUES ( '817', '14' );
+INSERT INTO Server
+VALUES ( '818', '8' );
+INSERT INTO Server
+VALUES ( '819', '8' );
+INSERT INTO Server
+VALUES ( '820', '18' );
+INSERT INTO Server
+VALUES ( '821', '13' );
+INSERT INTO Server
+VALUES ( '822', '1' );
+INSERT INTO Server
+VALUES ( '823', '2' );
+INSERT INTO Server
+VALUES ( '824', '16' );
+INSERT INTO Server
+VALUES ( '825', '17' );
+INSERT INTO Server
+VALUES ( '826', '17' );
+INSERT INTO Server
+VALUES ( '827', '3' );
+INSERT INTO Server
+VALUES ( '828', '7' );
+INSERT INTO Server
+VALUES ( '829', '17' );
+INSERT INTO Server
+VALUES ( '830', '6' );
+INSERT INTO Server
+VALUES ( '831', '5' );
+INSERT INTO Server
+VALUES ( '832', '9' );
+INSERT INTO Server
+VALUES ( '833', '20' );
+INSERT INTO Server
+VALUES ( '834', '13' );
+INSERT INTO Server
+VALUES ( '835', '4' );
+INSERT INTO Server
+VALUES ( '836', '15' );
+INSERT INTO Server
+VALUES ( '837', '7' );
+INSERT INTO Server
+VALUES ( '838', '3' );
+INSERT INTO Server
+VALUES ( '839', '12' );
+INSERT INTO Server
+VALUES ( '840', '15' );
+INSERT INTO Server
+VALUES ( '841', '2' );
+INSERT INTO Server
+VALUES ( '842', '1' );
+INSERT INTO Server
+VALUES ( '843', '4' );
+INSERT INTO Server
+VALUES ( '844', '7' );
+INSERT INTO Server
+VALUES ( '845', '3' );
+INSERT INTO Server
+VALUES ( '846', '5' );
+INSERT INTO Server
+VALUES ( '847', '7' );
+INSERT INTO Server
+VALUES ( '848', '8' );
+INSERT INTO Server
+VALUES ( '849', '4' );
+INSERT INTO Server
+VALUES ( '850', '6' );
+INSERT INTO Server
+VALUES ( '851', '6' );
+INSERT INTO Server
+VALUES ( '852', '16' );
+INSERT INTO Server
+VALUES ( '853', '18' );
+INSERT INTO Server
+VALUES ( '854', '7' );
+INSERT INTO Server
+VALUES ( '855', '3' );
+INSERT INTO Server
+VALUES ( '856', '15' );
+INSERT INTO Server
+VALUES ( '857', '16' );
+INSERT INTO Server
+VALUES ( '858', '5' );
+INSERT INTO Server
+VALUES ( '859', '13' );
+INSERT INTO Server
+VALUES ( '860', '4' );
+INSERT INTO Server
+VALUES ( '861', '10' );
+INSERT INTO Server
+VALUES ( '862', '10' );
+INSERT INTO Server
+VALUES ( '863', '12' );
+INSERT INTO Server
+VALUES ( '864', '1' );
+INSERT INTO Server
+VALUES ( '865', '2' );
+INSERT INTO Server
+VALUES ( '866', '16' );
+INSERT INTO Server
+VALUES ( '867', '8' );
+INSERT INTO Server
+VALUES ( '868', '8' );
+INSERT INTO Server
+VALUES ( '869', '18' );
+INSERT INTO Server
+VALUES ( '870', '19' );
+INSERT INTO Server
+VALUES ( '871', '3' );
+INSERT INTO Server
+VALUES ( '872', '11' );
+INSERT INTO Server
+VALUES ( '873', '12' );
+INSERT INTO Server
+VALUES ( '874', '18' );
+INSERT INTO Server
+VALUES ( '875', '17' );
+INSERT INTO Server
+VALUES ( '876', '14' );
+INSERT INTO Server
+VALUES ( '877', '2' );
+INSERT INTO Server
+VALUES ( '878', '15' );
+INSERT INTO Server
+VALUES ( '879', '1' );
+INSERT INTO Server
+VALUES ( '880', '5' );
+INSERT INTO Server
+VALUES ( '881', '20' );
+INSERT INTO Server
+VALUES ( '882', '18' );
+INSERT INTO Server
+VALUES ( '883', '13' );
+INSERT INTO Server
+VALUES ( '884', '18' );
+INSERT INTO Server
+VALUES ( '885', '17' );
+INSERT INTO Server
+VALUES ( '886', '15' );
+INSERT INTO Server
+VALUES ( '887', '4' );
+INSERT INTO Server
+VALUES ( '888', '12' );
+INSERT INTO Server
+VALUES ( '889', '20' );
+INSERT INTO Server
+VALUES ( '890', '8' );
+INSERT INTO Server
+VALUES ( '891', '15' );
+INSERT INTO Server
+VALUES ( '892', '1' );
+INSERT INTO Server
+VALUES ( '893', '17' );
+INSERT INTO Server
+VALUES ( '894', '18' );
+INSERT INTO Server
+VALUES ( '895', '2' );
+INSERT INTO Server
+VALUES ( '896', '19' );
+INSERT INTO Server
+VALUES ( '897', '13' );
+INSERT INTO Server
+VALUES ( '898', '1' );
+INSERT INTO Server
+VALUES ( '899', '6' );
+INSERT INTO Server
+VALUES ( '900', '2' );
+INSERT INTO Server
+VALUES ( '901', '11' );
+INSERT INTO Server
+VALUES ( '902', '20' );
+INSERT INTO Server
+VALUES ( '903', '12' );
+INSERT INTO Server
+VALUES ( '904', '2' );
+INSERT INTO Server
+VALUES ( '905', '9' );
+INSERT INTO Server
+VALUES ( '906', '1' );
+INSERT INTO Server
+VALUES ( '907', '15' );
+INSERT INTO Server
+VALUES ( '908', '10' );
+INSERT INTO Server
+VALUES ( '909', '15' );
+INSERT INTO Server
+VALUES ( '910', '8' );
+INSERT INTO Server
+VALUES ( '911', '7' );
+INSERT INTO Server
+VALUES ( '912', '7' );
+INSERT INTO Server
+VALUES ( '913', '5' );
+INSERT INTO Server
+VALUES ( '914', '19' );
+INSERT INTO Server
+VALUES ( '915', '4' );
+INSERT INTO Server
+VALUES ( '916', '1' );
+INSERT INTO Server
+VALUES ( '917', '13' );
+INSERT INTO Server
+VALUES ( '918', '19' );
+INSERT INTO Server
+VALUES ( '919', '4' );
+INSERT INTO Server
+VALUES ( '920', '4' );
+INSERT INTO Server
+VALUES ( '921', '6' );
+INSERT INTO Server
+VALUES ( '922', '18' );
+INSERT INTO Server
+VALUES ( '923', '5' );
+INSERT INTO Server
+VALUES ( '924', '3' );
+INSERT INTO Server
+VALUES ( '925', '8' );
+INSERT INTO Server
+VALUES ( '926', '18' );
+INSERT INTO Server
+VALUES ( '927', '13' );
+INSERT INTO Server
+VALUES ( '928', '20' );
+INSERT INTO Server
+VALUES ( '929', '18' );
+INSERT INTO Server
+VALUES ( '930', '10' );
+INSERT INTO Server
+VALUES ( '931', '14' );
+INSERT INTO Server
+VALUES ( '932', '8' );
+INSERT INTO Server
+VALUES ( '933', '2' );
+INSERT INTO Server
+VALUES ( '934', '5' );
+INSERT INTO Server
+VALUES ( '935', '2' );
+INSERT INTO Server
+VALUES ( '936', '10' );
+INSERT INTO Server
+VALUES ( '937', '17' );
+INSERT INTO Server
+VALUES ( '938', '16' );
+INSERT INTO Server
+VALUES ( '939', '20' );
+INSERT INTO Server
+VALUES ( '940', '12' );
+INSERT INTO Server
+VALUES ( '941', '15' );
+INSERT INTO Server
+VALUES ( '942', '18' );
+INSERT INTO Server
+VALUES ( '943', '18' );
+INSERT INTO Server
+VALUES ( '944', '12' );
+INSERT INTO Server
+VALUES ( '945', '16' );
+INSERT INTO Server
+VALUES ( '946', '13' );
+INSERT INTO Server
+VALUES ( '947', '12' );
+INSERT INTO Server
+VALUES ( '948', '20' );
+INSERT INTO Server
+VALUES ( '949', '3' );
+INSERT INTO Server
+VALUES ( '950', '8' );
+INSERT INTO Server
+VALUES ( '951', '16' );
+INSERT INTO Server
+VALUES ( '952', '20' );
+INSERT INTO Server
+VALUES ( '953', '17' );
+INSERT INTO Server
+VALUES ( '954', '12' );
+INSERT INTO Server
+VALUES ( '955', '14' );
+INSERT INTO Server
+VALUES ( '956', '4' );
+INSERT INTO Server
+VALUES ( '957', '1' );
+INSERT INTO Server
+VALUES ( '958', '6' );
+INSERT INTO Server
+VALUES ( '959', '4' );
+INSERT INTO Server
+VALUES ( '960', '18' );
+INSERT INTO Server
+VALUES ( '961', '16' );
+INSERT INTO Server
+VALUES ( '962', '9' );
+INSERT INTO Server
+VALUES ( '963', '17' );
+INSERT INTO Server
+VALUES ( '964', '17' );
+INSERT INTO Server
+VALUES ( '965', '13' );
+INSERT INTO Server
+VALUES ( '966', '18' );
+INSERT INTO Server
+VALUES ( '967', '6' );
+INSERT INTO Server
+VALUES ( '968', '2' );
+INSERT INTO Server
+VALUES ( '969', '6' );
+INSERT INTO Server
+VALUES ( '970', '17' );
+INSERT INTO Server
+VALUES ( '971', '13' );
+INSERT INTO Server
+VALUES ( '972', '20' );
+INSERT INTO Server
+VALUES ( '973', '6' );
+INSERT INTO Server
+VALUES ( '974', '2' );
+INSERT INTO Server
+VALUES ( '975', '11' );
+INSERT INTO Server
+VALUES ( '976', '13' );
+INSERT INTO Server
+VALUES ( '977', '14' );
+INSERT INTO Server
+VALUES ( '978', '15' );
+INSERT INTO Server
+VALUES ( '979', '5' );
+INSERT INTO Server
+VALUES ( '980', '8' );
+INSERT INTO Server
+VALUES ( '981', '2' );
+INSERT INTO Server
+VALUES ( '982', '20' );
+INSERT INTO Server
+VALUES ( '983', '7' );
+INSERT INTO Server
+VALUES ( '984', '10' );
+INSERT INTO Server
+VALUES ( '985', '11' );
+INSERT INTO Server
+VALUES ( '986', '1' );
+INSERT INTO Server
+VALUES ( '987', '14' );
+INSERT INTO Server
+VALUES ( '988', '11' );
+INSERT INTO Server
+VALUES ( '989', '18' );
+INSERT INTO Server
+VALUES ( '990', '9' );
+INSERT INTO Server
+VALUES ( '991', '20' );
+INSERT INTO Server
+VALUES ( '992', '5' );
+INSERT INTO Server
+VALUES ( '993', '17' );
+INSERT INTO Server
+VALUES ( '994', '8' );
+INSERT INTO Server
+VALUES ( '995', '13' );
+INSERT INTO Server
+VALUES ( '996', '1' );
+INSERT INTO Server
+VALUES ( '997', '6' );
+INSERT INTO Server
+VALUES ( '998', '11' );
+INSERT INTO Server
+VALUES ( '999', '2' );
+INSERT INTO Server
+VALUES ( '1000', '3' );
+INSERT INTO Server
+VALUES ( '1001', '7' );
+INSERT INTO Server
+VALUES ( '1002', '6' );
+INSERT INTO Server
+VALUES ( '1003', '2' );
+INSERT INTO Server
+VALUES ( '1004', '13' );
+INSERT INTO Server
+VALUES ( '1005', '7' );
+INSERT INTO Server
+VALUES ( '1006', '5' );
+INSERT INTO Server
+VALUES ( '1007', '17' );
+INSERT INTO Server
+VALUES ( '1008', '12' );
+INSERT INTO Server
+VALUES ( '1009', '11' );
+INSERT INTO Server
+VALUES ( '1010', '1' );
+INSERT INTO Server
+VALUES ( '1011', '19' );
+INSERT INTO Server
+VALUES ( '1012', '4' );
+INSERT INTO Server
+VALUES ( '1013', '20' );
+INSERT INTO Server
+VALUES ( '1014', '18' );
+INSERT INTO Server
+VALUES ( '1015', '13' );
+INSERT INTO Server
+VALUES ( '1016', '2' );
+INSERT INTO Server
+VALUES ( '1017', '10' );
+INSERT INTO Server
+VALUES ( '1018', '6' );
+INSERT INTO Server
+VALUES ( '1019', '4' );
+INSERT INTO Server
+VALUES ( '1020', '19' );
+INSERT INTO Server
+VALUES ( '1021', '6' );
+INSERT INTO Server
+VALUES ( '1022', '15' );
+INSERT INTO Server
+VALUES ( '1023', '4' );
+INSERT INTO Server
+VALUES ( '1024', '2' );
+INSERT INTO Server
+VALUES ( '1025', '3' );
+INSERT INTO Server
+VALUES ( '1026', '16' );
+INSERT INTO Server
+VALUES ( '1027', '3' );
+INSERT INTO Server
+VALUES ( '1028', '20' );
+INSERT INTO Server
+VALUES ( '1029', '6' );
+INSERT INTO Server
+VALUES ( '1030', '16' );
+INSERT INTO Server
+VALUES ( '1031', '2' );
+INSERT INTO Server
+VALUES ( '1032', '5' );
+INSERT INTO Server
+VALUES ( '1033', '2' );
+INSERT INTO Server
+VALUES ( '1034', '15' );
+INSERT INTO Server
+VALUES ( '1035', '9' );
+INSERT INTO Server
+VALUES ( '1036', '8' );
+INSERT INTO Server
+VALUES ( '1037', '19' );
+INSERT INTO Server
+VALUES ( '1038', '5' );
+INSERT INTO Server
+VALUES ( '1039', '20' );
+INSERT INTO Server
+VALUES ( '1040', '1' );
+INSERT INTO Server
+VALUES ( '1041', '6' );
+INSERT INTO Server
+VALUES ( '1042', '10' );
+INSERT INTO Server
+VALUES ( '1043', '4' );
+INSERT INTO Server
+VALUES ( '1044', '17' );
+INSERT INTO Server
+VALUES ( '1045', '19' );
+INSERT INTO Server
+VALUES ( '1046', '9' );
+INSERT INTO Server
+VALUES ( '1047', '19' );
+INSERT INTO Server
+VALUES ( '1048', '8' );
+INSERT INTO Server
+VALUES ( '1049', '6' );
+INSERT INTO Server
+VALUES ( '1050', '14' );
+INSERT INTO Server
+VALUES ( '1051', '7' );
+INSERT INTO Server
+VALUES ( '1052', '12' );
+INSERT INTO Server
+VALUES ( '1053', '9' );
+INSERT INTO Server
+VALUES ( '1054', '2' );
+INSERT INTO Server
+VALUES ( '1055', '13' );
+INSERT INTO Server
+VALUES ( '1056', '11' );
+INSERT INTO Server
+VALUES ( '1057', '17' );
+INSERT INTO Server
+VALUES ( '1058', '7' );
+INSERT INTO Server
+VALUES ( '1059', '10' );
+INSERT INTO Server
+VALUES ( '1060', '3' );
+INSERT INTO Server
+VALUES ( '1061', '3' );
+INSERT INTO Server
+VALUES ( '1062', '11' );
+INSERT INTO Server
+VALUES ( '1063', '7' );
+INSERT INTO Server
+VALUES ( '1064', '16' );
+INSERT INTO Server
+VALUES ( '1065', '5' );
+INSERT INTO Server
+VALUES ( '1066', '7' );
+INSERT INTO Server
+VALUES ( '1067', '3' );
+INSERT INTO Server
+VALUES ( '1068', '16' );
+INSERT INTO Server
+VALUES ( '1069', '11' );
+INSERT INTO Server
+VALUES ( '1070', '14' );
+INSERT INTO Server
+VALUES ( '1071', '8' );
+INSERT INTO Server
+VALUES ( '1072', '16' );
+INSERT INTO Server
+VALUES ( '1073', '16' );
+INSERT INTO Server
+VALUES ( '1074', '12' );
+INSERT INTO Server
+VALUES ( '1075', '5' );
+INSERT INTO Server
+VALUES ( '1076', '14' );
+INSERT INTO Server
+VALUES ( '1077', '20' );
+INSERT INTO Server
+VALUES ( '1078', '3' );
+INSERT INTO Server
+VALUES ( '1079', '14' );
+INSERT INTO Server
+VALUES ( '1080', '17' );
+INSERT INTO Server
+VALUES ( '1081', '16' );
+INSERT INTO Server
+VALUES ( '1082', '12' );
+INSERT INTO Server
+VALUES ( '1083', '8' );
+INSERT INTO Server
+VALUES ( '1084', '4' );
+INSERT INTO Server
+VALUES ( '1085', '13' );
+INSERT INTO Server
+VALUES ( '1086', '13' );
+INSERT INTO Server
+VALUES ( '1087', '14' );
+INSERT INTO Server
+VALUES ( '1088', '9' );
+INSERT INTO Server
+VALUES ( '1089', '19' );
+INSERT INTO Server
+VALUES ( '1090', '15' );
+INSERT INTO Server
+VALUES ( '1091', '3' );
+INSERT INTO Server
+VALUES ( '1092', '13' );
+INSERT INTO Server
+VALUES ( '1093', '5' );
+INSERT INTO Server
+VALUES ( '1094', '1' );
+INSERT INTO Server
+VALUES ( '1095', '8' );
+INSERT INTO Server
+VALUES ( '1096', '2' );
+INSERT INTO Server
+VALUES ( '1097', '7' );
+INSERT INTO Server
+VALUES ( '1098', '3' );
+INSERT INTO Server
+VALUES ( '1099', '9' );
+INSERT INTO Server
+VALUES ( '1100', '18' );
+INSERT INTO Server
+VALUES ( '1101', '16' );
+INSERT INTO Server
+VALUES ( '1102', '16' );
+INSERT INTO Server
+VALUES ( '1103', '5' );
+INSERT INTO Server
+VALUES ( '1104', '3' );
+INSERT INTO Server
+VALUES ( '1105', '19' );
+INSERT INTO Server
+VALUES ( '1106', '9' );
+INSERT INTO Server
+VALUES ( '1107', '17' );
+INSERT INTO Server
+VALUES ( '1108', '10' );
+INSERT INTO Server
+VALUES ( '1109', '3' );
+INSERT INTO Server
+VALUES ( '1110', '10' );
+INSERT INTO Server
+VALUES ( '1111', '7' );
+INSERT INTO Server
+VALUES ( '1112', '19' );
+INSERT INTO Server
+VALUES ( '1113', '1' );
+INSERT INTO Server
+VALUES ( '1114', '14' );
+INSERT INTO Server
+VALUES ( '1115', '14' );
+INSERT INTO Server
+VALUES ( '1116', '13' );
+INSERT INTO Server
+VALUES ( '1117', '6' );
+INSERT INTO Server
+VALUES ( '1118', '20' );
+INSERT INTO Server
+VALUES ( '1119', '13' );
+INSERT INTO Server
+VALUES ( '1120', '17' );
+INSERT INTO Server
+VALUES ( '1121', '14' );
+INSERT INTO Server
+VALUES ( '1122', '16' );
+INSERT INTO Server
+VALUES ( '1123', '1' );
+INSERT INTO Server
+VALUES ( '1124', '11' );
+INSERT INTO Server
+VALUES ( '1125', '16' );
+INSERT INTO Server
+VALUES ( '1126', '1' );
+INSERT INTO Server
+VALUES ( '1127', '4' );
+INSERT INTO Server
+VALUES ( '1128', '3' );
+INSERT INTO Server
+VALUES ( '1129', '3' );
+INSERT INTO Server
+VALUES ( '1130', '12' );
+INSERT INTO Server
+VALUES ( '1131', '12' );
+INSERT INTO Server
+VALUES ( '1132', '10' );
+INSERT INTO Server
+VALUES ( '1133', '7' );
+INSERT INTO Server
+VALUES ( '1134', '16' );
+INSERT INTO Server
+VALUES ( '1135', '13' );
+INSERT INTO Server
+VALUES ( '1136', '6' );
+INSERT INTO Server
+VALUES ( '1137', '17' );
+INSERT INTO Server
+VALUES ( '1138', '1' );
+INSERT INTO Server
+VALUES ( '1139', '15' );
+INSERT INTO Server
+VALUES ( '1140', '19' );
+INSERT INTO Server
+VALUES ( '1141', '10' );
+INSERT INTO Server
+VALUES ( '1142', '13' );
+INSERT INTO Server
+VALUES ( '1143', '9' );
+INSERT INTO Server
+VALUES ( '1144', '2' );
+INSERT INTO Server
+VALUES ( '1145', '7' );
+INSERT INTO Server
+VALUES ( '1146', '15' );
+INSERT INTO Server
+VALUES ( '1147', '6' );
+INSERT INTO Server
+VALUES ( '1148', '4' );
+INSERT INTO Server
+VALUES ( '1149', '14' );
+INSERT INTO Server
+VALUES ( '1150', '18' );
+INSERT INTO Server
+VALUES ( '1151', '20' );
+INSERT INTO Server
+VALUES ( '1152', '19' );
+INSERT INTO Server
+VALUES ( '1153', '5' );
+INSERT INTO Server
+VALUES ( '1154', '13' );
+INSERT INTO Server
+VALUES ( '1155', '1' );
+INSERT INTO Server
+VALUES ( '1156', '13' );
+INSERT INTO Server
+VALUES ( '1157', '13' );
+INSERT INTO Server
+VALUES ( '1158', '4' );
+INSERT INTO Server
+VALUES ( '1159', '15' );
+INSERT INTO Server
+VALUES ( '1160', '7' );
+INSERT INTO Server
+VALUES ( '1161', '15' );
+INSERT INTO Server
+VALUES ( '1162', '18' );
+INSERT INTO Server
+VALUES ( '1163', '16' );
+INSERT INTO Server
+VALUES ( '1164', '14' );
+INSERT INTO Server
+VALUES ( '1165', '5' );
+INSERT INTO Server
+VALUES ( '1166', '20' );
+INSERT INTO Server
+VALUES ( '1167', '11' );
+INSERT INTO Server
+VALUES ( '1168', '1' );
+INSERT INTO Server
+VALUES ( '1169', '20' );
+INSERT INTO Server
+VALUES ( '1170', '17' );
+INSERT INTO Server
+VALUES ( '1171', '12' );
+INSERT INTO Server
+VALUES ( '1172', '1' );
+INSERT INTO Server
+VALUES ( '1173', '10' );
+INSERT INTO Server
+VALUES ( '1174', '20' );
+INSERT INTO Server
+VALUES ( '1175', '14' );
+INSERT INTO Server
+VALUES ( '1176', '8' );
+INSERT INTO Server
+VALUES ( '1177', '14' );
+INSERT INTO Server
+VALUES ( '1178', '11' );
+INSERT INTO Server
+VALUES ( '1179', '11' );
+INSERT INTO Server
+VALUES ( '1180', '19' );
+INSERT INTO Server
+VALUES ( '1181', '1' );
+INSERT INTO Server
+VALUES ( '1182', '3' );
+INSERT INTO Server
+VALUES ( '1183', '18' );
+INSERT INTO Server
+VALUES ( '1184', '5' );
+INSERT INTO Server
+VALUES ( '1185', '15' );
+INSERT INTO Server
+VALUES ( '1186', '18' );
+INSERT INTO Server
+VALUES ( '1187', '17' );
+INSERT INTO Server
+VALUES ( '1188', '19' );
+INSERT INTO Server
+VALUES ( '1189', '14' );
+INSERT INTO Server
+VALUES ( '1190', '3' );
+INSERT INTO Server
+VALUES ( '1191', '5' );
+INSERT INTO Server
+VALUES ( '1192', '20' );
+INSERT INTO Server
+VALUES ( '1193', '20' );
+INSERT INTO Server
+VALUES ( '1194', '12' );
+INSERT INTO Server
+VALUES ( '1195', '13' );
+INSERT INTO Server
+VALUES ( '1196', '17' );
+INSERT INTO Server
+VALUES ( '1197', '4' );
+INSERT INTO Server
+VALUES ( '1198', '15' );
+INSERT INTO Server
+VALUES ( '1199', '17' );
+INSERT INTO Server
+VALUES ( '1200', '15' );
+INSERT INTO Server
+VALUES ( '1201', '4' );
+INSERT INTO Server
+VALUES ( '1202', '8' );
+INSERT INTO Server
+VALUES ( '1203', '16' );
+INSERT INTO Server
+VALUES ( '1204', '5' );
+INSERT INTO Server
+VALUES ( '1205', '20' );
+INSERT INTO Server
+VALUES ( '1206', '1' );
+INSERT INTO Server
+VALUES ( '1207', '12' );
+INSERT INTO Server
+VALUES ( '1208', '13' );
+INSERT INTO Server
+VALUES ( '1209', '12' );
+INSERT INTO Server
+VALUES ( '1210', '14' );
+INSERT INTO Server
+VALUES ( '1211', '12' );
+INSERT INTO Server
+VALUES ( '1212', '12' );
+INSERT INTO Server
+VALUES ( '1213', '16' );
+INSERT INTO Server
+VALUES ( '1214', '1' );
+INSERT INTO Server
+VALUES ( '1215', '8' );
+INSERT INTO Server
+VALUES ( '1216', '2' );
+INSERT INTO Server
+VALUES ( '1217', '18' );
+INSERT INTO Server
+VALUES ( '1218', '17' );
+INSERT INTO Server
+VALUES ( '1219', '12' );
+INSERT INTO Server
+VALUES ( '1220', '11' );
+INSERT INTO Server
+VALUES ( '1221', '19' );
+INSERT INTO Server
+VALUES ( '1222', '16' );
+INSERT INTO Server
+VALUES ( '1223', '11' );
+INSERT INTO Server
+VALUES ( '1224', '11' );
+INSERT INTO Server
+VALUES ( '1225', '20' );
+INSERT INTO Server
+VALUES ( '1226', '15' );
+INSERT INTO Server
+VALUES ( '1227', '19' );
+INSERT INTO Server
+VALUES ( '1228', '3' );
+INSERT INTO Server
+VALUES ( '1229', '2' );
+INSERT INTO Server
+VALUES ( '1230', '15' );
+INSERT INTO Server
+VALUES ( '1231', '17' );
+INSERT INTO Server
+VALUES ( '1232', '17' );
+INSERT INTO Server
+VALUES ( '1233', '15' );
+INSERT INTO Server
+VALUES ( '1234', '4' );
+INSERT INTO Server
+VALUES ( '1235', '1' );
+INSERT INTO Server
+VALUES ( '1236', '14' );
+INSERT INTO Server
+VALUES ( '1237', '17' );
+INSERT INTO Server
+VALUES ( '1238', '4' );
+INSERT INTO Server
+VALUES ( '1239', '6' );
+INSERT INTO Server
+VALUES ( '1240', '8' );
+INSERT INTO Server
+VALUES ( '1241', '17' );
+INSERT INTO Server
+VALUES ( '1242', '9' );
+INSERT INTO Server
+VALUES ( '1243', '11' );
+INSERT INTO Server
+VALUES ( '1244', '5' );
+INSERT INTO Server
+VALUES ( '1245', '9' );
+INSERT INTO Server
+VALUES ( '1246', '18' );
+INSERT INTO Server
+VALUES ( '1247', '6' );
+INSERT INTO Server
+VALUES ( '1248', '19' );
+INSERT INTO Server
+VALUES ( '1249', '6' );
+INSERT INTO Server
+VALUES ( '1250', '18' );
+INSERT INTO Server
+VALUES ( '1251', '1' );
+INSERT INTO Server
+VALUES ( '1252', '17' );
+INSERT INTO Server
+VALUES ( '1253', '5' );
+INSERT INTO Server
+VALUES ( '1254', '3' );
+INSERT INTO Server
+VALUES ( '1255', '7' );
+INSERT INTO Server
+VALUES ( '1256', '16' );
+INSERT INTO Server
+VALUES ( '1257', '18' );
+INSERT INTO Server
+VALUES ( '1258', '5' );
+INSERT INTO Server
+VALUES ( '1259', '18' );
+INSERT INTO Server
+VALUES ( '1260', '11' );
+INSERT INTO Server
+VALUES ( '1261', '11' );
+INSERT INTO Server
+VALUES ( '1262', '7' );
+INSERT INTO Server
+VALUES ( '1263', '7' );
+INSERT INTO Server
+VALUES ( '1264', '5' );
+INSERT INTO Server
+VALUES ( '1265', '2' );
+INSERT INTO Server
+VALUES ( '1266', '19' );
+INSERT INTO Server
+VALUES ( '1267', '10' );
+INSERT INTO Server
+VALUES ( '1268', '18' );
+INSERT INTO Server
+VALUES ( '1269', '2' );
+INSERT INTO Server
+VALUES ( '1270', '8' );
+INSERT INTO Server
+VALUES ( '1271', '5' );
+INSERT INTO Server
+VALUES ( '1272', '18' );
+INSERT INTO Server
+VALUES ( '1273', '16' );
+INSERT INTO Server
+VALUES ( '1274', '7' );
+INSERT INTO Server
+VALUES ( '1275', '2' );
+INSERT INTO Server
+VALUES ( '1276', '17' );
+INSERT INTO Server
+VALUES ( '1277', '17' );
+INSERT INTO Server
+VALUES ( '1278', '20' );
+INSERT INTO Server
+VALUES ( '1279', '15' );
+INSERT INTO Server
+VALUES ( '1280', '2' );
+INSERT INTO Server
+VALUES ( '1281', '9' );
+INSERT INTO Server
+VALUES ( '1282', '15' );
+INSERT INTO Server
+VALUES ( '1283', '18' );
+INSERT INTO Server
+VALUES ( '1284', '5' );
+INSERT INTO Server
+VALUES ( '1285', '18' );
+INSERT INTO Server
+VALUES ( '1286', '16' );
+INSERT INTO Server
+VALUES ( '1287', '1' );
+INSERT INTO Server
+VALUES ( '1288', '7' );
+INSERT INTO Server
+VALUES ( '1289', '12' );
+INSERT INTO Server
+VALUES ( '1290', '10' );
+INSERT INTO Server
+VALUES ( '1291', '9' );
+INSERT INTO Server
+VALUES ( '1292', '15' );
+INSERT INTO Server
+VALUES ( '1293', '8' );
+INSERT INTO Server
+VALUES ( '1294', '15' );
+INSERT INTO Server
+VALUES ( '1295', '19' );
+INSERT INTO Server
+VALUES ( '1296', '10' );
+INSERT INTO Server
+VALUES ( '1297', '13' );
+INSERT INTO Server
+VALUES ( '1298', '1' );
+INSERT INTO Server
+VALUES ( '1299', '7' );
+INSERT INTO Server
+VALUES ( '1300', '14' );
+INSERT INTO Server
+VALUES ( '1301', '8' );
+INSERT INTO Server
+VALUES ( '1302', '4' );
+INSERT INTO Server
+VALUES ( '1303', '3' );
+INSERT INTO Server
+VALUES ( '1304', '15' );
+INSERT INTO Server
+VALUES ( '1305', '10' );
+INSERT INTO Server
+VALUES ( '1306', '17' );
+INSERT INTO Server
+VALUES ( '1307', '11' );
+INSERT INTO Server
+VALUES ( '1308', '18' );
+INSERT INTO Server
+VALUES ( '1309', '8' );
+INSERT INTO Server
+VALUES ( '1310', '5' );
+INSERT INTO Server
+VALUES ( '1311', '20' );
+INSERT INTO Server
+VALUES ( '1312', '16' );
+INSERT INTO Server
+VALUES ( '1313', '20' );
+INSERT INTO Server
+VALUES ( '1314', '9' );
+INSERT INTO Server
+VALUES ( '1315', '12' );
+INSERT INTO Server
+VALUES ( '1316', '9' );
+INSERT INTO Server
+VALUES ( '1317', '5' );
+INSERT INTO Server
+VALUES ( '1318', '4' );
+INSERT INTO Server
+VALUES ( '1319', '15' );
+INSERT INTO Server
+VALUES ( '1320', '16' );
+INSERT INTO Server
+VALUES ( '1321', '14' );
+INSERT INTO Server
+VALUES ( '1322', '3' );
+INSERT INTO Server
+VALUES ( '1323', '2' );
+INSERT INTO Server
+VALUES ( '1324', '1' );
+INSERT INTO Server
+VALUES ( '1325', '9' );
+INSERT INTO Server
+VALUES ( '1326', '13' );
+INSERT INTO Server
+VALUES ( '1327', '10' );
+INSERT INTO Server
+VALUES ( '1328', '13' );
+INSERT INTO Server
+VALUES ( '1329', '13' );
+INSERT INTO Server
+VALUES ( '1330', '9' );
+INSERT INTO Server
+VALUES ( '1331', '6' );
+INSERT INTO Server
+VALUES ( '1332', '20' );
+INSERT INTO Server
+VALUES ( '1333', '12' );
+INSERT INTO Server
+VALUES ( '1334', '20' );
+INSERT INTO Server
+VALUES ( '1335', '14' );
+INSERT INTO Server
+VALUES ( '1336', '13' );
+INSERT INTO Server
+VALUES ( '1337', '16' );
+INSERT INTO Server
+VALUES ( '1338', '5' );
+INSERT INTO Server
+VALUES ( '1339', '11' );
+INSERT INTO Server
+VALUES ( '1340', '3' );
+INSERT INTO Server
+VALUES ( '1341', '1' );
+INSERT INTO Server
+VALUES ( '1342', '10' );
+INSERT INTO Server
+VALUES ( '1343', '10' );
+INSERT INTO Server
+VALUES ( '1344', '20' );
+INSERT INTO Server
+VALUES ( '1345', '18' );
+INSERT INTO Server
+VALUES ( '1346', '14' );
+INSERT INTO Server
+VALUES ( '1347', '20' );
+INSERT INTO Server
+VALUES ( '1348', '14' );
+INSERT INTO Server
+VALUES ( '1349', '17' );
+INSERT INTO Server
+VALUES ( '1350', '14' );
+INSERT INTO Server
+VALUES ( '1351', '2' );
+INSERT INTO Server
+VALUES ( '1352', '2' );
+INSERT INTO Server
+VALUES ( '1353', '8' );
+INSERT INTO Server
+VALUES ( '1354', '3' );
+INSERT INTO Server
+VALUES ( '1355', '15' );
+INSERT INTO Server
+VALUES ( '1356', '8' );
+INSERT INTO Server
+VALUES ( '1357', '15' );
+INSERT INTO Server
+VALUES ( '1358', '16' );
+INSERT INTO Server
+VALUES ( '1359', '20' );
+INSERT INTO Server
+VALUES ( '1360', '7' );
+INSERT INTO Server
+VALUES ( '1361', '4' );
+INSERT INTO Server
+VALUES ( '1362', '17' );
+INSERT INTO Server
+VALUES ( '1363', '18' );
+INSERT INTO Server
+VALUES ( '1364', '15' );
+INSERT INTO Server
+VALUES ( '1365', '17' );
+INSERT INTO Server
+VALUES ( '1366', '4' );
+INSERT INTO Server
+VALUES ( '1367', '20' );
+INSERT INTO Server
+VALUES ( '1368', '4' );
+INSERT INTO Server
+VALUES ( '1369', '8' );
+INSERT INTO Server
+VALUES ( '1370', '10' );
+INSERT INTO Server
+VALUES ( '1371', '19' );
+INSERT INTO Server
+VALUES ( '1372', '20' );
+INSERT INTO Server
+VALUES ( '1373', '11' );
+INSERT INTO Server
+VALUES ( '1374', '8' );
+INSERT INTO Server
+VALUES ( '1375', '20' );
+INSERT INTO Server
+VALUES ( '1376', '20' );
+INSERT INTO Server
+VALUES ( '1377', '13' );
+INSERT INTO Server
+VALUES ( '1378', '19' );
+INSERT INTO Server
+VALUES ( '1379', '14' );
+INSERT INTO Server
+VALUES ( '1380', '10' );
+INSERT INTO Server
+VALUES ( '1381', '5' );
+INSERT INTO Server
+VALUES ( '1382', '15' );
+INSERT INTO Server
+VALUES ( '1383', '11' );
+INSERT INTO Server
+VALUES ( '1384', '4' );
+INSERT INTO Server
+VALUES ( '1385', '9' );
+INSERT INTO Server
+VALUES ( '1386', '17' );
+INSERT INTO Server
+VALUES ( '1387', '12' );
+INSERT INTO Server
+VALUES ( '1388', '4' );
+INSERT INTO Server
+VALUES ( '1389', '13' );
+INSERT INTO Server
+VALUES ( '1390', '11' );
+INSERT INTO Server
+VALUES ( '1391', '2' );
+INSERT INTO Server
+VALUES ( '1392', '16' );
+INSERT INTO Server
+VALUES ( '1393', '8' );
+INSERT INTO Server
+VALUES ( '1394', '20' );
+INSERT INTO Server
+VALUES ( '1395', '3' );
+INSERT INTO Server
+VALUES ( '1396', '16' );
+INSERT INTO Server
+VALUES ( '1397', '3' );
+INSERT INTO Server
+VALUES ( '1398', '2' );
+INSERT INTO Server
+VALUES ( '1399', '19' );
+INSERT INTO Server
+VALUES ( '1400', '2' );
+INSERT INTO Server
+VALUES ( '1401', '11' );
+INSERT INTO Server
+VALUES ( '1402', '17' );
+INSERT INTO Server
+VALUES ( '1403', '1' );
+INSERT INTO Server
+VALUES ( '1404', '1' );
+INSERT INTO Server
+VALUES ( '1405', '17' );
+INSERT INTO Server
+VALUES ( '1406', '12' );
+INSERT INTO Server
+VALUES ( '1407', '20' );
+INSERT INTO Server
+VALUES ( '1408', '9' );
+INSERT INTO Server
+VALUES ( '1409', '3' );
+INSERT INTO Server
+VALUES ( '1410', '5' );
+INSERT INTO Server
+VALUES ( '1411', '10' );
+INSERT INTO Server
+VALUES ( '1412', '7' );
+INSERT INTO Server
+VALUES ( '1413', '19' );
+INSERT INTO Server
+VALUES ( '1414', '13' );
+INSERT INTO Server
+VALUES ( '1415', '2' );
+INSERT INTO Server
+VALUES ( '1416', '20' );
+INSERT INTO Server
+VALUES ( '1417', '9' );
+INSERT INTO Server
+VALUES ( '1418', '13' );
+INSERT INTO Server
+VALUES ( '1419', '3' );
+INSERT INTO Server
+VALUES ( '1420', '1' );
+INSERT INTO Server
+VALUES ( '1421', '4' );
+INSERT INTO Server
+VALUES ( '1422', '4' );
+INSERT INTO Server
+VALUES ( '1423', '17' );
+INSERT INTO Server
+VALUES ( '1424', '3' );
+INSERT INTO Server
+VALUES ( '1425', '15' );
+INSERT INTO Server
+VALUES ( '1426', '19' );
+INSERT INTO Server
+VALUES ( '1427', '18' );
+INSERT INTO Server
+VALUES ( '1428', '17' );
+INSERT INTO Server
+VALUES ( '1429', '12' );
+INSERT INTO Server
+VALUES ( '1430', '8' );
+INSERT INTO Server
+VALUES ( '1431', '10' );
+INSERT INTO Server
+VALUES ( '1432', '2' );
+INSERT INTO Server
+VALUES ( '1433', '5' );
+INSERT INTO Server
+VALUES ( '1434', '3' );
+INSERT INTO Server
+VALUES ( '1435', '14' );
+INSERT INTO Server
+VALUES ( '1436', '13' );
+INSERT INTO Server
+VALUES ( '1437', '14' );
+INSERT INTO Server
+VALUES ( '1438', '5' );
+INSERT INTO Server
+VALUES ( '1439', '1' );
+INSERT INTO Server
+VALUES ( '1440', '8' );
+INSERT INTO Server
+VALUES ( '1441', '10' );
+INSERT INTO Server
+VALUES ( '1442', '11' );
+INSERT INTO Server
+VALUES ( '1443', '6' );
+INSERT INTO Server
+VALUES ( '1444', '20' );
+INSERT INTO Server
+VALUES ( '1445', '3' );
+INSERT INTO Server
+VALUES ( '1446', '8' );
+INSERT INTO Server
+VALUES ( '1447', '19' );
+INSERT INTO Server
+VALUES ( '1448', '11' );
+INSERT INTO Server
+VALUES ( '1449', '20' );
+INSERT INTO Server
+VALUES ( '1450', '1' );
+INSERT INTO Server
+VALUES ( '1451', '12' );
+INSERT INTO Server
+VALUES ( '1452', '15' );
+INSERT INTO Server
+VALUES ( '1453', '17' );
+INSERT INTO Server
+VALUES ( '1454', '20' );
+INSERT INTO Server
+VALUES ( '1455', '9' );
+INSERT INTO Server
+VALUES ( '1456', '11' );
+INSERT INTO Server
+VALUES ( '1457', '10' );
+INSERT INTO Server
+VALUES ( '1458', '6' );
+INSERT INTO Server
+VALUES ( '1459', '20' );
+INSERT INTO Server
+VALUES ( '1460', '1' );
+INSERT INTO Server
+VALUES ( '1461', '6' );
+INSERT INTO Server
+VALUES ( '1462', '1' );
+INSERT INTO Server
+VALUES ( '1463', '2' );
+INSERT INTO Server
+VALUES ( '1464', '2' );
+INSERT INTO Server
+VALUES ( '1465', '3' );
+INSERT INTO Server
+VALUES ( '1466', '7' );
+INSERT INTO Server
+VALUES ( '1467', '14' );
+INSERT INTO Server
+VALUES ( '1468', '9' );
+INSERT INTO Server
+VALUES ( '1469', '11' );
+INSERT INTO Server
+VALUES ( '1470', '14' );
+INSERT INTO Server
+VALUES ( '1471', '8' );
+INSERT INTO Server
+VALUES ( '1472', '20' );
+INSERT INTO Server
+VALUES ( '1473', '16' );
+INSERT INTO Server
+VALUES ( '1474', '14' );
+INSERT INTO Server
+VALUES ( '1475', '20' );
+INSERT INTO Server
+VALUES ( '1476', '18' );
+INSERT INTO Server
+VALUES ( '1477', '1' );
+INSERT INTO Server
+VALUES ( '1478', '10' );
+INSERT INTO Server
+VALUES ( '1479', '1' );
+INSERT INTO Server
+VALUES ( '1480', '12' );
+INSERT INTO Server
+VALUES ( '1481', '11' );
+INSERT INTO Server
+VALUES ( '1482', '4' );
+INSERT INTO Server
+VALUES ( '1483', '7' );
+INSERT INTO Server
+VALUES ( '1484', '19' );
+INSERT INTO Server
+VALUES ( '1485', '3' );
+INSERT INTO Server
+VALUES ( '1486', '15' );
+INSERT INTO Server
+VALUES ( '1487', '9' );
+INSERT INTO Server
+VALUES ( '1488', '4' );
+INSERT INTO Server
+VALUES ( '1489', '13' );
+INSERT INTO Server
+VALUES ( '1490', '20' );
+INSERT INTO Server
+VALUES ( '1491', '4' );
+INSERT INTO Server
+VALUES ( '1492', '18' );
+INSERT INTO Server
+VALUES ( '1493', '1' );
+INSERT INTO Server
+VALUES ( '1494', '5' );
+INSERT INTO Server
+VALUES ( '1495', '19' );
+INSERT INTO Server
+VALUES ( '1496', '15' );
+INSERT INTO Server
+VALUES ( '1497', '3' );
+INSERT INTO Server
+VALUES ( '1498', '12' );
+INSERT INTO Server
+VALUES ( '1499', '15' );
+INSERT INTO Server
+VALUES ( '1500', '13' );
+INSERT INTO Server
+VALUES ( '1501', '17' );
+INSERT INTO Server
+VALUES ( '1502', '3' );
+INSERT INTO Server
+VALUES ( '1503', '5' );
+INSERT INTO Server
+VALUES ( '1504', '13' );
+INSERT INTO Server
+VALUES ( '1505', '16' );
+INSERT INTO Server
+VALUES ( '1506', '4' );
+INSERT INTO Server
+VALUES ( '1507', '2' );
+INSERT INTO Server
+VALUES ( '1508', '16' );
+INSERT INTO Server
+VALUES ( '1509', '5' );
+INSERT INTO Server
+VALUES ( '1510', '14' );
+INSERT INTO Server
+VALUES ( '1511', '19' );
+INSERT INTO Server
+VALUES ( '1512', '15' );
+INSERT INTO Server
+VALUES ( '1513', '17' );
+INSERT INTO Server
+VALUES ( '1514', '5' );
+INSERT INTO Server
+VALUES ( '1515', '5' );
+INSERT INTO Server
+VALUES ( '1516', '11' );
+INSERT INTO Server
+VALUES ( '1517', '12' );
+INSERT INTO Server
+VALUES ( '1518', '6' );
+INSERT INTO Server
+VALUES ( '1519', '14' );
+INSERT INTO Server
+VALUES ( '1520', '4' );
+INSERT INTO Server
+VALUES ( '1521', '5' );
+INSERT INTO Server
+VALUES ( '1522', '9' );
+INSERT INTO Server
+VALUES ( '1523', '13' );
+INSERT INTO Server
+VALUES ( '1524', '17' );
+INSERT INTO Server
+VALUES ( '1525', '5' );
+INSERT INTO Server
+VALUES ( '1526', '3' );
+INSERT INTO Server
+VALUES ( '1527', '12' );
+INSERT INTO Server
+VALUES ( '1528', '7' );
+INSERT INTO Server
+VALUES ( '1529', '14' );
+INSERT INTO Server
+VALUES ( '1530', '18' );
+INSERT INTO Server
+VALUES ( '1531', '20' );
+INSERT INTO Server
+VALUES ( '1532', '2' );
+INSERT INTO Server
+VALUES ( '1533', '20' );
+INSERT INTO Server
+VALUES ( '1534', '4' );
+INSERT INTO Server
+VALUES ( '1535', '6' );
+INSERT INTO Server
+VALUES ( '1536', '15' );
+INSERT INTO Server
+VALUES ( '1537', '19' );
+INSERT INTO Server
+VALUES ( '1538', '20' );
+INSERT INTO Server
+VALUES ( '1539', '2' );
+INSERT INTO Server
+VALUES ( '1540', '3' );
+INSERT INTO Server
+VALUES ( '1541', '13' );
+INSERT INTO Server
+VALUES ( '1542', '1' );
+INSERT INTO Server
+VALUES ( '1543', '10' );
+INSERT INTO Server
+VALUES ( '1544', '2' );
+INSERT INTO Server
+VALUES ( '1545', '17' );
+INSERT INTO Server
+VALUES ( '1546', '6' );
+INSERT INTO Server
+VALUES ( '1547', '4' );
+INSERT INTO Server
+VALUES ( '1548', '8' );
+INSERT INTO Server
+VALUES ( '1549', '11' );
+INSERT INTO Server
+VALUES ( '1550', '10' );
+INSERT INTO Server
+VALUES ( '1551', '3' );
+INSERT INTO Server
+VALUES ( '1552', '16' );
+INSERT INTO Server
+VALUES ( '1553', '18' );
+INSERT INTO Server
+VALUES ( '1554', '15' );
+INSERT INTO Server
+VALUES ( '1555', '4' );
+INSERT INTO Server
+VALUES ( '1556', '3' );
+INSERT INTO Server
+VALUES ( '1557', '17' );
+INSERT INTO Server
+VALUES ( '1558', '7' );
+INSERT INTO Server
+VALUES ( '1559', '9' );
+INSERT INTO Server
+VALUES ( '1560', '2' );
+INSERT INTO Server
+VALUES ( '1561', '5' );
+INSERT INTO Server
+VALUES ( '1562', '20' );
+INSERT INTO Server
+VALUES ( '1563', '16' );
+INSERT INTO Server
+VALUES ( '1564', '4' );
+INSERT INTO Server
+VALUES ( '1565', '15' );
+INSERT INTO Server
+VALUES ( '1566', '1' );
+INSERT INTO Server
+VALUES ( '1567', '11' );
+INSERT INTO Server
+VALUES ( '1568', '5' );
+INSERT INTO Server
+VALUES ( '1569', '12' );
+INSERT INTO Server
+VALUES ( '1570', '4' );
+INSERT INTO Server
+VALUES ( '1571', '20' );
+INSERT INTO Server
+VALUES ( '1572', '17' );
+INSERT INTO Server
+VALUES ( '1573', '16' );
+INSERT INTO Server
+VALUES ( '1574', '9' );
+INSERT INTO Server
+VALUES ( '1575', '10' );
+INSERT INTO Server
+VALUES ( '1576', '13' );
+INSERT INTO Server
+VALUES ( '1577', '6' );
+INSERT INTO Server
+VALUES ( '1578', '13' );
+INSERT INTO Server
+VALUES ( '1579', '12' );
+INSERT INTO Server
+VALUES ( '1580', '17' );
+INSERT INTO Server
+VALUES ( '1581', '14' );
+INSERT INTO Server
+VALUES ( '1582', '15' );
+INSERT INTO Server
+VALUES ( '1583', '4' );
+INSERT INTO Server
+VALUES ( '1584', '12' );
+INSERT INTO Server
+VALUES ( '1585', '1' );
+INSERT INTO Server
+VALUES ( '1586', '7' );
+INSERT INTO Server
+VALUES ( '1587', '6' );
+INSERT INTO Server
+VALUES ( '1588', '10' );
+INSERT INTO Server
+VALUES ( '1589', '14' );
+INSERT INTO Server
+VALUES ( '1590', '6' );
+INSERT INTO Server
+VALUES ( '1591', '3' );
+INSERT INTO Server
+VALUES ( '1592', '18' );
+INSERT INTO Server
+VALUES ( '1593', '6' );
+INSERT INTO Server
+VALUES ( '1594', '18' );
+INSERT INTO Server
+VALUES ( '1595', '13' );
+INSERT INTO Server
+VALUES ( '1596', '12' );
+INSERT INTO Server
+VALUES ( '1597', '11' );
+INSERT INTO Server
+VALUES ( '1598', '15' );
+INSERT INTO Server
+VALUES ( '1599', '17' );
+INSERT INTO Server
+VALUES ( '1600', '2' );
+INSERT INTO Server
+VALUES ( '1601', '19' );
+INSERT INTO Server
+VALUES ( '1602', '16' );
+INSERT INTO Server
+VALUES ( '1603', '18' );
+INSERT INTO Server
+VALUES ( '1604', '6' );
+INSERT INTO Server
+VALUES ( '1605', '16' );
+INSERT INTO Server
+VALUES ( '1606', '7' );
+INSERT INTO Server
+VALUES ( '1607', '18' );
+INSERT INTO Server
+VALUES ( '1608', '1' );
+INSERT INTO Server
+VALUES ( '1609', '12' );
+INSERT INTO Server
+VALUES ( '1610', '2' );
+INSERT INTO Server
+VALUES ( '1611', '17' );
+INSERT INTO Server
+VALUES ( '1612', '17' );
+INSERT INTO Server
+VALUES ( '1613', '8' );
+INSERT INTO Server
+VALUES ( '1614', '20' );
+INSERT INTO Server
+VALUES ( '1615', '8' );
+INSERT INTO Server
+VALUES ( '1616', '20' );
+INSERT INTO Server
+VALUES ( '1617', '7' );
+INSERT INTO Server
+VALUES ( '1618', '5' );
+INSERT INTO Server
+VALUES ( '1619', '9' );
+INSERT INTO Server
+VALUES ( '1620', '12' );
+INSERT INTO Server
+VALUES ( '1621', '11' );
+INSERT INTO Server
+VALUES ( '1622', '12' );
+INSERT INTO Server
+VALUES ( '1623', '1' );
+INSERT INTO Server
+VALUES ( '1624', '8' );
+INSERT INTO Server
+VALUES ( '1625', '9' );
+INSERT INTO Server
+VALUES ( '1626', '13' );
+INSERT INTO Server
+VALUES ( '1627', '19' );
+INSERT INTO Server
+VALUES ( '1628', '11' );
+INSERT INTO Server
+VALUES ( '1629', '20' );
+INSERT INTO Server
+VALUES ( '1630', '7' );
+INSERT INTO Server
+VALUES ( '1631', '13' );
+INSERT INTO Server
+VALUES ( '1632', '18' );
+INSERT INTO Server
+VALUES ( '1633', '2' );
+INSERT INTO Server
+VALUES ( '1634', '2' );
+INSERT INTO Server
+VALUES ( '1635', '3' );
+INSERT INTO Server
+VALUES ( '1636', '17' );
+INSERT INTO Server
+VALUES ( '1637', '1' );
+INSERT INTO Server
+VALUES ( '1638', '13' );
+INSERT INTO Server
+VALUES ( '1639', '18' );
+INSERT INTO Server
+VALUES ( '1640', '4' );
+INSERT INTO Server
+VALUES ( '1641', '6' );
+INSERT INTO Server
+VALUES ( '1642', '6' );
+INSERT INTO Server
+VALUES ( '1643', '20' );
+INSERT INTO Server
+VALUES ( '1644', '13' );
+INSERT INTO Server
+VALUES ( '1645', '6' );
+INSERT INTO Server
+VALUES ( '1646', '20' );
+INSERT INTO Server
+VALUES ( '1647', '12' );
+INSERT INTO Server
+VALUES ( '1648', '4' );
+INSERT INTO Server
+VALUES ( '1649', '4' );
+INSERT INTO Server
+VALUES ( '1650', '13' );
+INSERT INTO Server
+VALUES ( '1651', '7' );
+INSERT INTO Server
+VALUES ( '1652', '6' );
+INSERT INTO Server
+VALUES ( '1653', '4' );
+INSERT INTO Server
+VALUES ( '1654', '7' );
+INSERT INTO Server
+VALUES ( '1655', '5' );
+INSERT INTO Server
+VALUES ( '1656', '4' );
+INSERT INTO Server
+VALUES ( '1657', '11' );
+INSERT INTO Server
+VALUES ( '1658', '16' );
+INSERT INTO Server
+VALUES ( '1659', '15' );
+INSERT INTO Server
+VALUES ( '1660', '10' );
+INSERT INTO Server
+VALUES ( '1661', '2' );
+INSERT INTO Server
+VALUES ( '1662', '19' );
+INSERT INTO Server
+VALUES ( '1663', '19' );
+INSERT INTO Server
+VALUES ( '1664', '4' );
+INSERT INTO Server
+VALUES ( '1665', '20' );
+INSERT INTO Server
+VALUES ( '1666', '14' );
+INSERT INTO Server
+VALUES ( '1667', '12' );
+INSERT INTO Server
+VALUES ( '1668', '20' );
+INSERT INTO Server
+VALUES ( '1669', '18' );
+INSERT INTO Server
+VALUES ( '1670', '1' );
+INSERT INTO Server
+VALUES ( '1671', '15' );
+INSERT INTO Server
+VALUES ( '1672', '3' );
+INSERT INTO Server
+VALUES ( '1673', '7' );
+INSERT INTO Server
+VALUES ( '1674', '15' );
+INSERT INTO Server
+VALUES ( '1675', '7' );
+INSERT INTO Server
+VALUES ( '1676', '4' );
+INSERT INTO Server
+VALUES ( '1677', '14' );
+INSERT INTO Server
+VALUES ( '1678', '10' );
+INSERT INTO Server
+VALUES ( '1679', '19' );
+INSERT INTO Server
+VALUES ( '1680', '9' );
+INSERT INTO Server
+VALUES ( '1681', '2' );
+INSERT INTO Server
+VALUES ( '1682', '5' );
+INSERT INTO Server
+VALUES ( '1683', '7' );
+INSERT INTO Server
+VALUES ( '1684', '5' );
+INSERT INTO Server
+VALUES ( '1685', '3' );
+INSERT INTO Server
+VALUES ( '1686', '11' );
+INSERT INTO Server
+VALUES ( '1687', '1' );
+INSERT INTO Server
+VALUES ( '1688', '5' );
+INSERT INTO Server
+VALUES ( '1689', '6' );
+INSERT INTO Server
+VALUES ( '1690', '15' );
+INSERT INTO Server
+VALUES ( '1691', '7' );
+INSERT INTO Server
+VALUES ( '1692', '8' );
+INSERT INTO Server
+VALUES ( '1693', '13' );
+INSERT INTO Server
+VALUES ( '1694', '17' );
+INSERT INTO Server
+VALUES ( '1695', '3' );
+INSERT INTO Server
+VALUES ( '1696', '4' );
+INSERT INTO Server
+VALUES ( '1697', '10' );
+INSERT INTO Server
+VALUES ( '1698', '14' );
+INSERT INTO Server
+VALUES ( '1699', '16' );
+INSERT INTO Server
+VALUES ( '1700', '19' );
+INSERT INTO Server
+VALUES ( '1701', '7' );
+INSERT INTO Server
+VALUES ( '1702', '10' );
+INSERT INTO Server
+VALUES ( '1703', '13' );
+INSERT INTO Server
+VALUES ( '1704', '13' );
+INSERT INTO Server
+VALUES ( '1705', '4' );
+INSERT INTO Server
+VALUES ( '1706', '19' );
+INSERT INTO Server
+VALUES ( '1707', '8' );
+INSERT INTO Server
+VALUES ( '1708', '9' );
+INSERT INTO Server
+VALUES ( '1709', '9' );
+INSERT INTO Server
+VALUES ( '1710', '6' );
+INSERT INTO Server
+VALUES ( '1711', '10' );
+INSERT INTO Server
+VALUES ( '1712', '2' );
+INSERT INTO Server
+VALUES ( '1713', '2' );
+INSERT INTO Server
+VALUES ( '1714', '16' );
+INSERT INTO Server
+VALUES ( '1715', '7' );
+INSERT INTO Server
+VALUES ( '1716', '16' );
+INSERT INTO Server
+VALUES ( '1717', '6' );
+INSERT INTO Server
+VALUES ( '1718', '19' );
+INSERT INTO Server
+VALUES ( '1719', '20' );
+INSERT INTO Server
+VALUES ( '1720', '4' );
+INSERT INTO Server
+VALUES ( '1721', '13' );
+INSERT INTO Server
+VALUES ( '1722', '6' );
+INSERT INTO Server
+VALUES ( '1723', '11' );
+INSERT INTO Server
+VALUES ( '1724', '17' );
+INSERT INTO Server
+VALUES ( '1725', '3' );
+INSERT INTO Server
+VALUES ( '1726', '5' );
+INSERT INTO Server
+VALUES ( '1727', '20' );
+INSERT INTO Server
+VALUES ( '1728', '4' );
+INSERT INTO Server
+VALUES ( '1729', '10' );
+INSERT INTO Server
+VALUES ( '1730', '15' );
+INSERT INTO Server
+VALUES ( '1731', '15' );
+INSERT INTO Server
+VALUES ( '1732', '16' );
+INSERT INTO Server
+VALUES ( '1733', '5' );
+INSERT INTO Server
+VALUES ( '1734', '7' );
+INSERT INTO Server
+VALUES ( '1735', '8' );
+INSERT INTO Server
+VALUES ( '1736', '20' );
+INSERT INTO Server
+VALUES ( '1737', '18' );
+INSERT INTO Server
+VALUES ( '1738', '7' );
+INSERT INTO Server
+VALUES ( '1739', '9' );
+INSERT INTO Server
+VALUES ( '1740', '18' );
+INSERT INTO Server
+VALUES ( '1741', '4' );
+INSERT INTO Server
+VALUES ( '1742', '18' );
+INSERT INTO Server
+VALUES ( '1743', '19' );
+INSERT INTO Server
+VALUES ( '1744', '17' );
+INSERT INTO Server
+VALUES ( '1745', '5' );
+INSERT INTO Server
+VALUES ( '1746', '17' );
+INSERT INTO Server
+VALUES ( '1747', '12' );
+INSERT INTO Server
+VALUES ( '1748', '10' );
+INSERT INTO Server
+VALUES ( '1749', '15' );
+INSERT INTO Server
+VALUES ( '1750', '4' );
+INSERT INTO Server
+VALUES ( '1751', '13' );
+INSERT INTO Server
+VALUES ( '1752', '19' );
+INSERT INTO Server
+VALUES ( '1753', '1' );
+INSERT INTO Server
+VALUES ( '1754', '15' );
+INSERT INTO Server
+VALUES ( '1755', '15' );
+INSERT INTO Server
+VALUES ( '1756', '15' );
+INSERT INTO Server
+VALUES ( '1757', '19' );
+INSERT INTO Server
+VALUES ( '1758', '15' );
+INSERT INTO Server
+VALUES ( '1759', '11' );
+INSERT INTO Server
+VALUES ( '1760', '9' );
+INSERT INTO Server
+VALUES ( '1761', '1' );
+INSERT INTO Server
+VALUES ( '1762', '5' );
+INSERT INTO Server
+VALUES ( '1763', '16' );
+INSERT INTO Server
+VALUES ( '1764', '5' );
+INSERT INTO Server
+VALUES ( '1765', '3' );
+INSERT INTO Server
+VALUES ( '1766', '16' );
+INSERT INTO Server
+VALUES ( '1767', '17' );
+INSERT INTO Server
+VALUES ( '1768', '20' );
+INSERT INTO Server
+VALUES ( '1769', '2' );
+INSERT INTO Server
+VALUES ( '1770', '17' );
+INSERT INTO Server
+VALUES ( '1771', '9' );
+INSERT INTO Server
+VALUES ( '1772', '6' );
+INSERT INTO Server
+VALUES ( '1773', '6' );
+INSERT INTO Server
+VALUES ( '1774', '20' );
+INSERT INTO Server
+VALUES ( '1775', '14' );
+INSERT INTO Server
+VALUES ( '1776', '10' );
+INSERT INTO Server
+VALUES ( '1777', '16' );
+INSERT INTO Server
+VALUES ( '1778', '6' );
+INSERT INTO Server
+VALUES ( '1779', '11' );
+INSERT INTO Server
+VALUES ( '1780', '3' );
+INSERT INTO Server
+VALUES ( '1781', '1' );
+INSERT INTO Server
+VALUES ( '1782', '4' );
+INSERT INTO Server
+VALUES ( '1783', '1' );
+INSERT INTO Server
+VALUES ( '1784', '1' );
+INSERT INTO Server
+VALUES ( '1785', '10' );
+INSERT INTO Server
+VALUES ( '1786', '16' );
+INSERT INTO Server
+VALUES ( '1787', '8' );
+INSERT INTO Server
+VALUES ( '1788', '1' );
+INSERT INTO Server
+VALUES ( '1789', '2' );
+INSERT INTO Server
+VALUES ( '1790', '18' );
+INSERT INTO Server
+VALUES ( '1791', '1' );
+INSERT INTO Server
+VALUES ( '1792', '2' );
+INSERT INTO Server
+VALUES ( '1793', '14' );
+INSERT INTO Server
+VALUES ( '1794', '16' );
+INSERT INTO Server
+VALUES ( '1795', '19' );
+INSERT INTO Server
+VALUES ( '1796', '16' );
+INSERT INTO Server
+VALUES ( '1797', '11' );
+INSERT INTO Server
+VALUES ( '1798', '15' );
+INSERT INTO Server
+VALUES ( '1799', '8' );
+INSERT INTO Server
+VALUES ( '1800', '13' );
+INSERT INTO Server
+VALUES ( '1801', '3' );
+INSERT INTO Server
+VALUES ( '1802', '16' );
+INSERT INTO Server
+VALUES ( '1803', '10' );
+INSERT INTO Server
+VALUES ( '1804', '8' );
+INSERT INTO Server
+VALUES ( '1805', '15' );
+INSERT INTO Server
+VALUES ( '1806', '15' );
+INSERT INTO Server
+VALUES ( '1807', '17' );
+INSERT INTO Server
+VALUES ( '1808', '3' );
+INSERT INTO Server
+VALUES ( '1809', '12' );
+INSERT INTO Server
+VALUES ( '1810', '19' );
+INSERT INTO Server
+VALUES ( '1811', '5' );
+INSERT INTO Server
+VALUES ( '1812', '12' );
+INSERT INTO Server
+VALUES ( '1813', '14' );
+INSERT INTO Server
+VALUES ( '1814', '5' );
+INSERT INTO Server
+VALUES ( '1815', '5' );
+INSERT INTO Server
+VALUES ( '1816', '4' );
+INSERT INTO Server
+VALUES ( '1817', '12' );
+INSERT INTO Server
+VALUES ( '1818', '12' );
+INSERT INTO Server
+VALUES ( '1819', '16' );
+INSERT INTO Server
+VALUES ( '1820', '13' );
+INSERT INTO Server
+VALUES ( '1821', '1' );
+INSERT INTO Server
+VALUES ( '1822', '16' );
+INSERT INTO Server
+VALUES ( '1823', '15' );
+INSERT INTO Server
+VALUES ( '1824', '14' );
+INSERT INTO Server
+VALUES ( '1825', '11' );
+INSERT INTO Server
+VALUES ( '1826', '5' );
+INSERT INTO Server
+VALUES ( '1827', '9' );
+INSERT INTO Server
+VALUES ( '1828', '14' );
+INSERT INTO Server
+VALUES ( '1829', '11' );
+INSERT INTO Server
+VALUES ( '1830', '8' );
+INSERT INTO Server
+VALUES ( '1831', '18' );
+INSERT INTO Server
+VALUES ( '1832', '13' );
+INSERT INTO Server
+VALUES ( '1833', '16' );
+INSERT INTO Server
+VALUES ( '1834', '19' );
+INSERT INTO Server
+VALUES ( '1835', '12' );
+INSERT INTO Server
+VALUES ( '1836', '2' );
+INSERT INTO Server
+VALUES ( '1837', '13' );
+INSERT INTO Server
+VALUES ( '1838', '20' );
+INSERT INTO Server
+VALUES ( '1839', '4' );
+INSERT INTO Server
+VALUES ( '1840', '5' );
+INSERT INTO Server
+VALUES ( '1841', '18' );
+INSERT INTO Server
+VALUES ( '1842', '20' );
+INSERT INTO Server
+VALUES ( '1843', '16' );
+INSERT INTO Server
+VALUES ( '1844', '12' );
+INSERT INTO Server
+VALUES ( '1845', '17' );
+INSERT INTO Server
+VALUES ( '1846', '12' );
+INSERT INTO Server
+VALUES ( '1847', '7' );
+INSERT INTO Server
+VALUES ( '1848', '8' );
+INSERT INTO Server
+VALUES ( '1849', '3' );
+INSERT INTO Server
+VALUES ( '1850', '2' );
+INSERT INTO Server
+VALUES ( '1851', '1' );
+INSERT INTO Server
+VALUES ( '1852', '3' );
+INSERT INTO Server
+VALUES ( '1853', '17' );
+INSERT INTO Server
+VALUES ( '1854', '7' );
+INSERT INTO Server
+VALUES ( '1855', '8' );
+INSERT INTO Server
+VALUES ( '1856', '19' );
+INSERT INTO Server
+VALUES ( '1857', '11' );
+INSERT INTO Server
+VALUES ( '1858', '9' );
+INSERT INTO Server
+VALUES ( '1859', '4' );
+INSERT INTO Server
+VALUES ( '1860', '13' );
+INSERT INTO Server
+VALUES ( '1861', '16' );
+INSERT INTO Server
+VALUES ( '1862', '1' );
+INSERT INTO Server
+VALUES ( '1863', '5' );
+INSERT INTO Server
+VALUES ( '1864', '11' );
+INSERT INTO Server
+VALUES ( '1865', '19' );
+INSERT INTO Server
+VALUES ( '1866', '8' );
+INSERT INTO Server
+VALUES ( '1867', '5' );
+INSERT INTO Server
+VALUES ( '1868', '4' );
+INSERT INTO Server
+VALUES ( '1869', '7' );
+INSERT INTO Server
+VALUES ( '1870', '20' );
+INSERT INTO Server
+VALUES ( '1871', '8' );
+INSERT INTO Server
+VALUES ( '1872', '4' );
+INSERT INTO Server
+VALUES ( '1873', '20' );
+INSERT INTO Server
+VALUES ( '1874', '15' );
+INSERT INTO Server
+VALUES ( '1875', '15' );
+INSERT INTO Server
+VALUES ( '1876', '16' );
+INSERT INTO Server
+VALUES ( '1877', '7' );
+INSERT INTO Server
+VALUES ( '1878', '1' );
+INSERT INTO Server
+VALUES ( '1879', '3' );
+INSERT INTO Server
+VALUES ( '1880', '1' );
+INSERT INTO Server
+VALUES ( '1881', '14' );
+INSERT INTO Server
+VALUES ( '1882', '15' );
+INSERT INTO Server
+VALUES ( '1883', '16' );
+INSERT INTO Server
+VALUES ( '1884', '10' );
+INSERT INTO Server
+VALUES ( '1885', '1' );
+INSERT INTO Server
+VALUES ( '1886', '3' );
+INSERT INTO Server
+VALUES ( '1887', '1' );
+INSERT INTO Server
+VALUES ( '1888', '3' );
+INSERT INTO Server
+VALUES ( '1889', '11' );
+INSERT INTO Server
+VALUES ( '1890', '4' );
+INSERT INTO Server
+VALUES ( '1891', '7' );
+INSERT INTO Server
+VALUES ( '1892', '19' );
+INSERT INTO Server
+VALUES ( '1893', '5' );
+INSERT INTO Server
+VALUES ( '1894', '3' );
+INSERT INTO Server
+VALUES ( '1895', '1' );
+INSERT INTO Server
+VALUES ( '1896', '15' );
+INSERT INTO Server
+VALUES ( '1897', '10' );
+INSERT INTO Server
+VALUES ( '1898', '5' );
+INSERT INTO Server
+VALUES ( '1899', '18' );
+INSERT INTO Server
+VALUES ( '1900', '16' );
+INSERT INTO Server
+VALUES ( '1901', '5' );
+INSERT INTO Server
+VALUES ( '1902', '17' );
+INSERT INTO Server
+VALUES ( '1903', '20' );
+INSERT INTO Server
+VALUES ( '1904', '16' );
+INSERT INTO Server
+VALUES ( '1905', '12' );
+INSERT INTO Server
+VALUES ( '1906', '6' );
+INSERT INTO Server
+VALUES ( '1907', '3' );
+INSERT INTO Server
+VALUES ( '1908', '18' );
+INSERT INTO Server
+VALUES ( '1909', '19' );
+INSERT INTO Server
+VALUES ( '1910', '5' );
+INSERT INTO Server
+VALUES ( '1911', '10' );
+INSERT INTO Server
+VALUES ( '1912', '12' );
+INSERT INTO Server
+VALUES ( '1913', '12' );
+INSERT INTO Server
+VALUES ( '1914', '5' );
+INSERT INTO Server
+VALUES ( '1915', '14' );
+INSERT INTO Server
+VALUES ( '1916', '4' );
+INSERT INTO Server
+VALUES ( '1917', '8' );
+INSERT INTO Server
+VALUES ( '1918', '14' );
+INSERT INTO Server
+VALUES ( '1919', '19' );
+INSERT INTO Server
+VALUES ( '1920', '10' );
+INSERT INTO Server
+VALUES ( '1921', '9' );
+INSERT INTO Server
+VALUES ( '1922', '5' );
+INSERT INTO Server
+VALUES ( '1923', '8' );
+INSERT INTO Server
+VALUES ( '1924', '5' );
+INSERT INTO Server
+VALUES ( '1925', '8' );
+INSERT INTO Server
+VALUES ( '1926', '9' );
+INSERT INTO Server
+VALUES ( '1927', '12' );
+INSERT INTO Server
+VALUES ( '1928', '17' );
+INSERT INTO Server
+VALUES ( '1929', '13' );
+INSERT INTO Server
+VALUES ( '1930', '9' );
+INSERT INTO Server
+VALUES ( '1931', '5' );
+INSERT INTO Server
+VALUES ( '1932', '9' );
+INSERT INTO Server
+VALUES ( '1933', '6' );
+INSERT INTO Server
+VALUES ( '1934', '4' );
+INSERT INTO Server
+VALUES ( '1935', '4' );
+INSERT INTO Server
+VALUES ( '1936', '9' );
+INSERT INTO Server
+VALUES ( '1937', '1' );
+INSERT INTO Server
+VALUES ( '1938', '6' );
+INSERT INTO Server
+VALUES ( '1939', '18' );
+INSERT INTO Server
+VALUES ( '1940', '19' );
+INSERT INTO Server
+VALUES ( '1941', '3' );
+INSERT INTO Server
+VALUES ( '1942', '7' );
+INSERT INTO Server
+VALUES ( '1943', '3' );
+INSERT INTO Server
+VALUES ( '1944', '6' );
+INSERT INTO Server
+VALUES ( '1945', '12' );
+INSERT INTO Server
+VALUES ( '1946', '16' );
+INSERT INTO Server
+VALUES ( '1947', '9' );
+INSERT INTO Server
+VALUES ( '1948', '19' );
+INSERT INTO Server
+VALUES ( '1949', '1' );
+INSERT INTO Server
+VALUES ( '1950', '7' );
+INSERT INTO Server
+VALUES ( '1951', '8' );
+INSERT INTO Server
+VALUES ( '1952', '1' );
+INSERT INTO Server
+VALUES ( '1953', '4' );
+INSERT INTO Server
+VALUES ( '1954', '8' );
+INSERT INTO Server
+VALUES ( '1955', '6' );
+INSERT INTO Server
+VALUES ( '1956', '11' );
+INSERT INTO Server
+VALUES ( '1957', '16' );
+INSERT INTO Server
+VALUES ( '1958', '17' );
+INSERT INTO Server
+VALUES ( '1959', '19' );
+INSERT INTO Server
+VALUES ( '1960', '8' );
+INSERT INTO Server
+VALUES ( '1961', '17' );
+INSERT INTO Server
+VALUES ( '1962', '3' );
+INSERT INTO Server
+VALUES ( '1963', '9' );
+INSERT INTO Server
+VALUES ( '1964', '2' );
+INSERT INTO Server
+VALUES ( '1965', '18' );
+INSERT INTO Server
+VALUES ( '1966', '12' );
+INSERT INTO Server
+VALUES ( '1967', '2' );
+INSERT INTO Server
+VALUES ( '1968', '11' );
+INSERT INTO Server
+VALUES ( '1969', '10' );
+INSERT INTO Server
+VALUES ( '1970', '19' );
+INSERT INTO Server
+VALUES ( '1971', '1' );
+INSERT INTO Server
+VALUES ( '1972', '4' );
+INSERT INTO Server
+VALUES ( '1973', '6' );
+INSERT INTO Server
+VALUES ( '1974', '3' );
+INSERT INTO Server
+VALUES ( '1975', '9' );
+INSERT INTO Server
+VALUES ( '1976', '17' );
+INSERT INTO Server
+VALUES ( '1977', '10' );
+INSERT INTO Server
+VALUES ( '1978', '17' );
+INSERT INTO Server
+VALUES ( '1979', '7' );
+INSERT INTO Server
+VALUES ( '1980', '2' );
+INSERT INTO Server
+VALUES ( '1981', '16' );
+INSERT INTO Server
+VALUES ( '1982', '6' );
+INSERT INTO Server
+VALUES ( '1983', '3' );
+INSERT INTO Server
+VALUES ( '1984', '11' );
+INSERT INTO Server
+VALUES ( '1985', '13' );
+INSERT INTO Server
+VALUES ( '1986', '8' );
+INSERT INTO Server
+VALUES ( '1987', '13' );
+INSERT INTO Server
+VALUES ( '1988', '8' );
+INSERT INTO Server
+VALUES ( '1989', '16' );
+INSERT INTO Server
+VALUES ( '1990', '11' );
+INSERT INTO Server
+VALUES ( '1991', '8' );
+INSERT INTO Server
+VALUES ( '1992', '12' );
+INSERT INTO Server
+VALUES ( '1993', '6' );
+INSERT INTO Server
+VALUES ( '1994', '16' );
+INSERT INTO Server
+VALUES ( '1995', '6' );
+INSERT INTO Server
+VALUES ( '1996', '15' );
+INSERT INTO Server
+VALUES ( '1997', '19' );
+INSERT INTO Server
+VALUES ( '1998', '7' );
+INSERT INTO Server
+VALUES ( '1999', '5' );
+INSERT INTO Server
+VALUES ( '2000', '20' );
+
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1', '1', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2', '1', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3', '1', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4', '1', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5', '2', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6', '2', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7', '2', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '8', '2', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '9', '3', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '10', '3', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '11', '3', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '12', '3', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '13', '4', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '14', '4', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '15', '4', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '16', '4', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '17', '5', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '18', '5', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '19', '5', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '20', '5', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '21', '6', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '22', '6', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '23', '6', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '24', '6', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '25', '7', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '26', '7', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '27', '7', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '28', '7', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '29', '8', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '30', '8', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '31', '8', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '32', '8', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '33', '9', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '34', '9', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '35', '9', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '36', '9', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '37', '10', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '38', '10', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '39', '10', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '40', '10', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '41', '11', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '42', '11', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '43', '11', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '44', '11', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '45', '12', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '46', '12', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '47', '12', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '48', '12', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '49', '13', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '50', '13', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '51', '13', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '52', '13', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '53', '14', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '54', '14', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '55', '14', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '56', '14', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '57', '15', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '58', '15', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '59', '15', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '60', '15', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '61', '16', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '62', '16', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '63', '16', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '64', '16', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '65', '17', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '66', '17', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '67', '17', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '68', '17', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '69', '18', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '70', '18', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '71', '18', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '72', '18', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '73', '19', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '74', '19', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '75', '19', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '76', '19', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '77', '20', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '78', '20', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '79', '20', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '80', '20', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '81', '21', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '82', '21', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '83', '21', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '84', '21', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '85', '22', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '86', '22', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '87', '22', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '88', '22', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '89', '23', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '90', '23', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '91', '23', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '92', '23', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '93', '24', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '94', '24', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '95', '24', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '96', '24', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '97', '25', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '98', '25', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '99', '25', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '100', '25', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '101', '26', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '102', '26', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '103', '26', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '104', '26', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '105', '27', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '106', '27', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '107', '27', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '108', '27', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '109', '28', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '110', '28', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '111', '28', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '112', '28', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '113', '29', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '114', '29', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '115', '29', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '116', '29', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '117', '30', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '118', '30', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '119', '30', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '120', '30', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '121', '31', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '122', '31', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '123', '31', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '124', '31', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '125', '32', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '126', '32', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '127', '32', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '128', '32', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '129', '33', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '130', '33', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '131', '33', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '132', '33', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '133', '34', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '134', '34', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '135', '34', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '136', '34', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '137', '35', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '138', '35', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '139', '35', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '140', '35', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '141', '36', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '142', '36', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '143', '36', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '144', '36', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '145', '37', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '146', '37', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '147', '37', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '148', '37', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '149', '38', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '150', '38', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '151', '38', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '152', '38', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '153', '39', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '154', '39', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '155', '39', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '156', '39', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '157', '40', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '158', '40', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '159', '40', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '160', '40', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '161', '41', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '162', '41', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '163', '41', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '164', '41', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '165', '42', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '166', '42', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '167', '42', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '168', '42', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '169', '43', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '170', '43', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '171', '43', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '172', '43', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '173', '44', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '174', '44', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '175', '44', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '176', '44', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '177', '45', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '178', '45', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '179', '45', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '180', '45', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '181', '46', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '182', '46', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '183', '46', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '184', '46', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '185', '47', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '186', '47', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '187', '47', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '188', '47', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '189', '48', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '190', '48', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '191', '48', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '192', '48', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '193', '49', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '194', '49', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '195', '49', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '196', '49', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '197', '50', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '198', '50', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '199', '50', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '200', '50', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '201', '51', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '202', '51', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '203', '51', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '204', '51', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '205', '52', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '206', '52', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '207', '52', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '208', '52', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '209', '53', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '210', '53', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '211', '53', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '212', '53', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '213', '54', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '214', '54', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '215', '54', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '216', '54', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '217', '55', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '218', '55', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '219', '55', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '220', '55', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '221', '56', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '222', '56', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '223', '56', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '224', '56', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '225', '57', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '226', '57', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '227', '57', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '228', '57', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '229', '58', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '230', '58', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '231', '58', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '232', '58', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '233', '59', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '234', '59', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '235', '59', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '236', '59', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '237', '60', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '238', '60', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '239', '60', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '240', '60', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '241', '61', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '242', '61', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '243', '61', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '244', '61', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '245', '62', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '246', '62', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '247', '62', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '248', '62', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '249', '63', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '250', '63', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '251', '63', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '252', '63', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '253', '64', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '254', '64', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '255', '64', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '256', '64', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '257', '65', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '258', '65', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '259', '65', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '260', '65', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '261', '66', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '262', '66', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '263', '66', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '264', '66', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '265', '67', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '266', '67', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '267', '67', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '268', '67', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '269', '68', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '270', '68', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '271', '68', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '272', '68', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '273', '69', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '274', '69', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '275', '69', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '276', '69', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '277', '70', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '278', '70', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '279', '70', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '280', '70', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '281', '71', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '282', '71', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '283', '71', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '284', '71', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '285', '72', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '286', '72', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '287', '72', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '288', '72', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '289', '73', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '290', '73', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '291', '73', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '292', '73', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '293', '74', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '294', '74', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '295', '74', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '296', '74', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '297', '75', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '298', '75', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '299', '75', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '300', '75', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '301', '76', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '302', '76', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '303', '76', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '304', '76', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '305', '77', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '306', '77', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '307', '77', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '308', '77', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '309', '78', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '310', '78', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '311', '78', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '312', '78', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '313', '79', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '314', '79', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '315', '79', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '316', '79', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '317', '80', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '318', '80', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '319', '80', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '320', '80', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '321', '81', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '322', '81', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '323', '81', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '324', '81', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '325', '82', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '326', '82', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '327', '82', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '328', '82', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '329', '83', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '330', '83', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '331', '83', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '332', '83', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '333', '84', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '334', '84', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '335', '84', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '336', '84', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '337', '85', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '338', '85', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '339', '85', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '340', '85', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '341', '86', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '342', '86', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '343', '86', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '344', '86', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '345', '87', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '346', '87', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '347', '87', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '348', '87', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '349', '88', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '350', '88', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '351', '88', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '352', '88', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '353', '89', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '354', '89', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '355', '89', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '356', '89', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '357', '90', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '358', '90', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '359', '90', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '360', '90', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '361', '91', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '362', '91', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '363', '91', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '364', '91', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '365', '92', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '366', '92', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '367', '92', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '368', '92', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '369', '93', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '370', '93', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '371', '93', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '372', '93', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '373', '94', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '374', '94', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '375', '94', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '376', '94', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '377', '95', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '378', '95', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '379', '95', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '380', '95', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '381', '96', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '382', '96', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '383', '96', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '384', '96', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '385', '97', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '386', '97', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '387', '97', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '388', '97', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '389', '98', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '390', '98', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '391', '98', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '392', '98', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '393', '99', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '394', '99', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '395', '99', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '396', '99', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '397', '100', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '398', '100', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '399', '100', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '400', '100', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '401', '101', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '402', '101', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '403', '101', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '404', '101', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '405', '102', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '406', '102', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '407', '102', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '408', '102', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '409', '103', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '410', '103', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '411', '103', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '412', '103', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '413', '104', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '414', '104', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '415', '104', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '416', '104', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '417', '105', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '418', '105', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '419', '105', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '420', '105', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '421', '106', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '422', '106', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '423', '106', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '424', '106', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '425', '107', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '426', '107', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '427', '107', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '428', '107', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '429', '108', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '430', '108', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '431', '108', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '432', '108', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '433', '109', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '434', '109', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '435', '109', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '436', '109', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '437', '110', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '438', '110', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '439', '110', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '440', '110', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '441', '111', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '442', '111', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '443', '111', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '444', '111', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '445', '112', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '446', '112', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '447', '112', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '448', '112', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '449', '113', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '450', '113', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '451', '113', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '452', '113', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '453', '114', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '454', '114', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '455', '114', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '456', '114', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '457', '115', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '458', '115', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '459', '115', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '460', '115', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '461', '116', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '462', '116', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '463', '116', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '464', '116', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '465', '117', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '466', '117', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '467', '117', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '468', '117', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '469', '118', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '470', '118', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '471', '118', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '472', '118', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '473', '119', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '474', '119', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '475', '119', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '476', '119', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '477', '120', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '478', '120', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '479', '120', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '480', '120', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '481', '121', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '482', '121', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '483', '121', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '484', '121', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '485', '122', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '486', '122', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '487', '122', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '488', '122', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '489', '123', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '490', '123', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '491', '123', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '492', '123', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '493', '124', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '494', '124', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '495', '124', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '496', '124', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '497', '125', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '498', '125', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '499', '125', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '500', '125', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '501', '126', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '502', '126', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '503', '126', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '504', '126', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '505', '127', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '506', '127', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '507', '127', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '508', '127', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '509', '128', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '510', '128', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '511', '128', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '512', '128', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '513', '129', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '514', '129', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '515', '129', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '516', '129', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '517', '130', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '518', '130', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '519', '130', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '520', '130', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '521', '131', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '522', '131', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '523', '131', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '524', '131', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '525', '132', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '526', '132', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '527', '132', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '528', '132', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '529', '133', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '530', '133', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '531', '133', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '532', '133', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '533', '134', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '534', '134', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '535', '134', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '536', '134', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '537', '135', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '538', '135', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '539', '135', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '540', '135', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '541', '136', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '542', '136', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '543', '136', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '544', '136', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '545', '137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '546', '137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '547', '137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '548', '137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '549', '138', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '550', '138', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '551', '138', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '552', '138', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '553', '139', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '554', '139', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '555', '139', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '556', '139', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '557', '140', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '558', '140', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '559', '140', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '560', '140', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '561', '141', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '562', '141', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '563', '141', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '564', '141', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '565', '142', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '566', '142', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '567', '142', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '568', '142', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '569', '143', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '570', '143', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '571', '143', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '572', '143', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '573', '144', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '574', '144', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '575', '144', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '576', '144', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '577', '145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '578', '145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '579', '145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '580', '145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '581', '146', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '582', '146', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '583', '146', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '584', '146', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '585', '147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '586', '147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '587', '147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '588', '147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '589', '148', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '590', '148', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '591', '148', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '592', '148', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '593', '149', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '594', '149', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '595', '149', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '596', '149', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '597', '150', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '598', '150', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '599', '150', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '600', '150', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '601', '151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '602', '151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '603', '151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '604', '151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '605', '152', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '606', '152', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '607', '152', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '608', '152', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '609', '153', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '610', '153', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '611', '153', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '612', '153', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '613', '154', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '614', '154', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '615', '154', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '616', '154', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '617', '155', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '618', '155', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '619', '155', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '620', '155', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '621', '156', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '622', '156', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '623', '156', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '624', '156', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '625', '157', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '626', '157', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '627', '157', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '628', '157', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '629', '158', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '630', '158', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '631', '158', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '632', '158', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '633', '159', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '634', '159', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '635', '159', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '636', '159', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '637', '160', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '638', '160', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '639', '160', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '640', '160', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '641', '161', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '642', '161', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '643', '161', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '644', '161', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '645', '162', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '646', '162', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '647', '162', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '648', '162', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '649', '163', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '650', '163', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '651', '163', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '652', '163', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '653', '164', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '654', '164', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '655', '164', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '656', '164', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '657', '165', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '658', '165', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '659', '165', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '660', '165', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '661', '166', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '662', '166', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '663', '166', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '664', '166', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '665', '167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '666', '167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '667', '167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '668', '167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '669', '168', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '670', '168', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '671', '168', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '672', '168', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '673', '169', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '674', '169', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '675', '169', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '676', '169', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '677', '170', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '678', '170', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '679', '170', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '680', '170', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '681', '171', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '682', '171', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '683', '171', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '684', '171', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '685', '172', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '686', '172', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '687', '172', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '688', '172', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '689', '173', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '690', '173', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '691', '173', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '692', '173', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '693', '174', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '694', '174', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '695', '174', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '696', '174', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '697', '175', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '698', '175', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '699', '175', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '700', '175', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '701', '176', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '702', '176', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '703', '176', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '704', '176', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '705', '177', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '706', '177', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '707', '177', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '708', '177', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '709', '178', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '710', '178', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '711', '178', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '712', '178', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '713', '179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '714', '179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '715', '179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '716', '179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '717', '180', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '718', '180', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '719', '180', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '720', '180', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '721', '181', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '722', '181', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '723', '181', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '724', '181', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '725', '182', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '726', '182', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '727', '182', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '728', '182', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '729', '183', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '730', '183', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '731', '183', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '732', '183', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '733', '184', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '734', '184', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '735', '184', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '736', '184', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '737', '185', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '738', '185', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '739', '185', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '740', '185', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '741', '186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '742', '186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '743', '186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '744', '186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '745', '187', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '746', '187', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '747', '187', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '748', '187', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '749', '188', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '750', '188', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '751', '188', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '752', '188', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '753', '189', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '754', '189', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '755', '189', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '756', '189', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '757', '190', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '758', '190', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '759', '190', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '760', '190', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '761', '191', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '762', '191', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '763', '191', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '764', '191', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '765', '192', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '766', '192', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '767', '192', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '768', '192', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '769', '193', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '770', '193', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '771', '193', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '772', '193', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '773', '194', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '774', '194', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '775', '194', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '776', '194', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '777', '195', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '778', '195', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '779', '195', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '780', '195', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '781', '196', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '782', '196', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '783', '196', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '784', '196', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '785', '197', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '786', '197', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '787', '197', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '788', '197', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '789', '198', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '790', '198', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '791', '198', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '792', '198', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '793', '199', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '794', '199', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '795', '199', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '796', '199', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '797', '200', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '798', '200', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '799', '200', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '800', '200', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '801', '201', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '802', '201', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '803', '201', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '804', '201', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '805', '202', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '806', '202', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '807', '202', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '808', '202', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '809', '203', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '810', '203', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '811', '203', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '812', '203', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '813', '204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '814', '204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '815', '204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '816', '204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '817', '205', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '818', '205', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '819', '205', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '820', '205', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '821', '206', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '822', '206', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '823', '206', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '824', '206', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '825', '207', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '826', '207', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '827', '207', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '828', '207', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '829', '208', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '830', '208', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '831', '208', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '832', '208', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '833', '209', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '834', '209', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '835', '209', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '836', '209', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '837', '210', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '838', '210', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '839', '210', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '840', '210', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '841', '211', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '842', '211', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '843', '211', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '844', '211', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '845', '212', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '846', '212', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '847', '212', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '848', '212', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '849', '213', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '850', '213', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '851', '213', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '852', '213', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '853', '214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '854', '214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '855', '214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '856', '214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '857', '215', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '858', '215', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '859', '215', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '860', '215', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '861', '216', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '862', '216', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '863', '216', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '864', '216', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '865', '217', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '866', '217', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '867', '217', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '868', '217', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '869', '218', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '870', '218', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '871', '218', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '872', '218', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '873', '219', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '874', '219', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '875', '219', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '876', '219', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '877', '220', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '878', '220', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '879', '220', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '880', '220', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '881', '221', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '882', '221', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '883', '221', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '884', '221', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '885', '222', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '886', '222', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '887', '222', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '888', '222', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '889', '223', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '890', '223', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '891', '223', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '892', '223', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '893', '224', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '894', '224', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '895', '224', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '896', '224', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '897', '225', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '898', '225', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '899', '225', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '900', '225', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '901', '226', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '902', '226', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '903', '226', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '904', '226', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '905', '227', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '906', '227', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '907', '227', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '908', '227', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '909', '228', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '910', '228', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '911', '228', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '912', '228', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '913', '229', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '914', '229', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '915', '229', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '916', '229', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '917', '230', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '918', '230', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '919', '230', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '920', '230', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '921', '231', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '922', '231', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '923', '231', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '924', '231', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '925', '232', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '926', '232', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '927', '232', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '928', '232', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '929', '233', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '930', '233', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '931', '233', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '932', '233', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '933', '234', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '934', '234', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '935', '234', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '936', '234', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '937', '235', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '938', '235', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '939', '235', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '940', '235', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '941', '236', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '942', '236', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '943', '236', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '944', '236', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '945', '237', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '946', '237', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '947', '237', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '948', '237', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '949', '238', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '950', '238', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '951', '238', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '952', '238', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '953', '239', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '954', '239', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '955', '239', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '956', '239', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '957', '240', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '958', '240', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '959', '240', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '960', '240', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '961', '241', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '962', '241', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '963', '241', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '964', '241', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '965', '242', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '966', '242', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '967', '242', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '968', '242', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '969', '243', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '970', '243', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '971', '243', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '972', '243', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '973', '244', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '974', '244', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '975', '244', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '976', '244', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '977', '245', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '978', '245', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '979', '245', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '980', '245', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '981', '246', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '982', '246', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '983', '246', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '984', '246', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '985', '247', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '986', '247', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '987', '247', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '988', '247', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '989', '248', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '990', '248', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '991', '248', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '992', '248', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '993', '249', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '994', '249', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '995', '249', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '996', '249', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '997', '250', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '998', '250', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '999', '250', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1000', '250', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1001', '251', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1002', '251', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1003', '251', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1004', '251', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1005', '252', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1006', '252', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1007', '252', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1008', '252', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1009', '253', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1010', '253', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1011', '253', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1012', '253', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1013', '254', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1014', '254', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1015', '254', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1016', '254', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1017', '255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1018', '255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1019', '255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1020', '255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1021', '256', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1022', '256', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1023', '256', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1024', '256', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1025', '257', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1026', '257', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1027', '257', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1028', '257', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1029', '258', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1030', '258', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1031', '258', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1032', '258', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1033', '259', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1034', '259', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1035', '259', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1036', '259', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1037', '260', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1038', '260', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1039', '260', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1040', '260', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1041', '261', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1042', '261', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1043', '261', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1044', '261', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1045', '262', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1046', '262', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1047', '262', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1048', '262', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1049', '263', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1050', '263', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1051', '263', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1052', '263', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1053', '264', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1054', '264', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1055', '264', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1056', '264', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1057', '265', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1058', '265', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1059', '265', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1060', '265', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1061', '266', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1062', '266', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1063', '266', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1064', '266', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1065', '267', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1066', '267', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1067', '267', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1068', '267', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1069', '268', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1070', '268', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1071', '268', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1072', '268', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1073', '269', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1074', '269', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1075', '269', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1076', '269', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1077', '270', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1078', '270', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1079', '270', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1080', '270', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1081', '271', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1082', '271', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1083', '271', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1084', '271', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1085', '272', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1086', '272', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1087', '272', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1088', '272', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1089', '273', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1090', '273', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1091', '273', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1092', '273', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1093', '274', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1094', '274', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1095', '274', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1096', '274', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1097', '275', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1098', '275', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1099', '275', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1100', '275', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1101', '276', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1102', '276', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1103', '276', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1104', '276', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1105', '277', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1106', '277', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1107', '277', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1108', '277', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1109', '278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1110', '278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1111', '278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1112', '278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1113', '279', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1114', '279', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1115', '279', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1116', '279', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1117', '280', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1118', '280', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1119', '280', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1120', '280', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1121', '281', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1122', '281', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1123', '281', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1124', '281', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1125', '282', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1126', '282', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1127', '282', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1128', '282', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1129', '283', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1130', '283', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1131', '283', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1132', '283', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1133', '284', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1134', '284', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1135', '284', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1136', '284', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1137', '285', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1138', '285', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1139', '285', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1140', '285', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1141', '286', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1142', '286', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1143', '286', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1144', '286', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1145', '287', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1146', '287', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1147', '287', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1148', '287', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1149', '288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1150', '288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1151', '288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1152', '288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1153', '289', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1154', '289', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1155', '289', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1156', '289', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1157', '290', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1158', '290', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1159', '290', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1160', '290', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1161', '291', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1162', '291', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1163', '291', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1164', '291', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1165', '292', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1166', '292', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1167', '292', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1168', '292', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1169', '293', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1170', '293', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1171', '293', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1172', '293', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1173', '294', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1174', '294', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1175', '294', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1176', '294', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1177', '295', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1178', '295', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1179', '295', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1180', '295', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1181', '296', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1182', '296', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1183', '296', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1184', '296', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1185', '297', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1186', '297', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1187', '297', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1188', '297', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1189', '298', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1190', '298', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1191', '298', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1192', '298', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1193', '299', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1194', '299', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1195', '299', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1196', '299', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1197', '300', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1198', '300', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1199', '300', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1200', '300', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1201', '301', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1202', '301', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1203', '301', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1204', '301', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1205', '302', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1206', '302', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1207', '302', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1208', '302', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1209', '303', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1210', '303', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1211', '303', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1212', '303', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1213', '304', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1214', '304', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1215', '304', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1216', '304', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1217', '305', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1218', '305', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1219', '305', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1220', '305', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1221', '306', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1222', '306', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1223', '306', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1224', '306', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1225', '307', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1226', '307', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1227', '307', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1228', '307', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1229', '308', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1230', '308', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1231', '308', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1232', '308', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1233', '309', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1234', '309', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1235', '309', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1236', '309', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1237', '310', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1238', '310', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1239', '310', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1240', '310', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1241', '311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1242', '311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1243', '311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1244', '311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1245', '312', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1246', '312', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1247', '312', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1248', '312', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1249', '313', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1250', '313', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1251', '313', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1252', '313', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1253', '314', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1254', '314', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1255', '314', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1256', '314', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1257', '315', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1258', '315', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1259', '315', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1260', '315', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1261', '316', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1262', '316', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1263', '316', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1264', '316', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1265', '317', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1266', '317', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1267', '317', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1268', '317', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1269', '318', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1270', '318', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1271', '318', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1272', '318', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1273', '319', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1274', '319', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1275', '319', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1276', '319', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1277', '320', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1278', '320', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1279', '320', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1280', '320', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1281', '321', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1282', '321', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1283', '321', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1284', '321', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1285', '322', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1286', '322', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1287', '322', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1288', '322', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1289', '323', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1290', '323', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1291', '323', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1292', '323', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1293', '324', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1294', '324', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1295', '324', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1296', '324', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1297', '325', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1298', '325', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1299', '325', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1300', '325', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1301', '326', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1302', '326', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1303', '326', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1304', '326', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1305', '327', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1306', '327', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1307', '327', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1308', '327', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1309', '328', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1310', '328', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1311', '328', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1312', '328', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1313', '329', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1314', '329', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1315', '329', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1316', '329', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1317', '330', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1318', '330', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1319', '330', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1320', '330', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1321', '331', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1322', '331', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1323', '331', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1324', '331', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1325', '332', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1326', '332', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1327', '332', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1328', '332', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1329', '333', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1330', '333', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1331', '333', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1332', '333', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1333', '334', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1334', '334', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1335', '334', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1336', '334', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1337', '335', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1338', '335', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1339', '335', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1340', '335', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1341', '336', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1342', '336', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1343', '336', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1344', '336', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1345', '337', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1346', '337', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1347', '337', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1348', '337', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1349', '338', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1350', '338', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1351', '338', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1352', '338', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1353', '339', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1354', '339', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1355', '339', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1356', '339', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1357', '340', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1358', '340', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1359', '340', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1360', '340', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1361', '341', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1362', '341', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1363', '341', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1364', '341', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1365', '342', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1366', '342', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1367', '342', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1368', '342', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1369', '343', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1370', '343', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1371', '343', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1372', '343', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1373', '344', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1374', '344', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1375', '344', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1376', '344', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1377', '345', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1378', '345', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1379', '345', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1380', '345', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1381', '346', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1382', '346', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1383', '346', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1384', '346', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1385', '347', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1386', '347', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1387', '347', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1388', '347', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1389', '348', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1390', '348', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1391', '348', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1392', '348', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1393', '349', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1394', '349', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1395', '349', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1396', '349', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1397', '350', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1398', '350', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1399', '350', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1400', '350', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1401', '351', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1402', '351', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1403', '351', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1404', '351', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1405', '352', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1406', '352', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1407', '352', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1408', '352', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1409', '353', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1410', '353', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1411', '353', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1412', '353', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1413', '354', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1414', '354', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1415', '354', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1416', '354', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1417', '355', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1418', '355', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1419', '355', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1420', '355', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1421', '356', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1422', '356', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1423', '356', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1424', '356', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1425', '357', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1426', '357', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1427', '357', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1428', '357', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1429', '358', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1430', '358', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1431', '358', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1432', '358', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1433', '359', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1434', '359', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1435', '359', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1436', '359', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1437', '360', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1438', '360', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1439', '360', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1440', '360', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1441', '361', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1442', '361', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1443', '361', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1444', '361', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1445', '362', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1446', '362', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1447', '362', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1448', '362', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1449', '363', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1450', '363', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1451', '363', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1452', '363', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1453', '364', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1454', '364', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1455', '364', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1456', '364', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1457', '365', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1458', '365', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1459', '365', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1460', '365', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1461', '366', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1462', '366', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1463', '366', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1464', '366', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1465', '367', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1466', '367', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1467', '367', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1468', '367', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1469', '368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1470', '368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1471', '368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1472', '368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1473', '369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1474', '369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1475', '369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1476', '369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1477', '370', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1478', '370', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1479', '370', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1480', '370', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1481', '371', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1482', '371', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1483', '371', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1484', '371', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1485', '372', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1486', '372', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1487', '372', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1488', '372', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1489', '373', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1490', '373', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1491', '373', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1492', '373', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1493', '374', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1494', '374', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1495', '374', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1496', '374', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1497', '375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1498', '375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1499', '375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1500', '375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1501', '376', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1502', '376', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1503', '376', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1504', '376', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1505', '377', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1506', '377', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1507', '377', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1508', '377', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1509', '378', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1510', '378', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1511', '378', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1512', '378', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1513', '379', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1514', '379', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1515', '379', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1516', '379', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1517', '380', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1518', '380', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1519', '380', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1520', '380', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1521', '381', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1522', '381', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1523', '381', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1524', '381', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1525', '382', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1526', '382', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1527', '382', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1528', '382', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1529', '383', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1530', '383', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1531', '383', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1532', '383', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1533', '384', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1534', '384', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1535', '384', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1536', '384', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1537', '385', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1538', '385', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1539', '385', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1540', '385', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1541', '386', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1542', '386', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1543', '386', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1544', '386', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1545', '387', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1546', '387', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1547', '387', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1548', '387', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1549', '388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1550', '388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1551', '388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1552', '388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1553', '389', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1554', '389', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1555', '389', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1556', '389', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1557', '390', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1558', '390', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1559', '390', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1560', '390', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1561', '391', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1562', '391', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1563', '391', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1564', '391', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1565', '392', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1566', '392', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1567', '392', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1568', '392', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1569', '393', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1570', '393', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1571', '393', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1572', '393', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1573', '394', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1574', '394', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1575', '394', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1576', '394', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1577', '395', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1578', '395', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1579', '395', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1580', '395', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1581', '396', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1582', '396', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1583', '396', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1584', '396', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1585', '397', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1586', '397', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1587', '397', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1588', '397', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1589', '398', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1590', '398', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1591', '398', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1592', '398', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1593', '399', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1594', '399', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1595', '399', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1596', '399', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1597', '400', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1598', '400', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1599', '400', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1600', '400', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1601', '401', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1602', '401', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1603', '401', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1604', '401', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1605', '402', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1606', '402', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1607', '402', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1608', '402', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1609', '403', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1610', '403', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1611', '403', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1612', '403', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1613', '404', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1614', '404', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1615', '404', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1616', '404', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1617', '405', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1618', '405', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1619', '405', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1620', '405', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1621', '406', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1622', '406', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1623', '406', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1624', '406', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1625', '407', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1626', '407', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1627', '407', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1628', '407', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1629', '408', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1630', '408', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1631', '408', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1632', '408', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1633', '409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1634', '409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1635', '409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1636', '409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1637', '410', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1638', '410', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1639', '410', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1640', '410', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1641', '411', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1642', '411', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1643', '411', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1644', '411', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1645', '412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1646', '412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1647', '412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1648', '412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1649', '413', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1650', '413', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1651', '413', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1652', '413', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1653', '414', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1654', '414', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1655', '414', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1656', '414', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1657', '415', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1658', '415', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1659', '415', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1660', '415', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1661', '416', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1662', '416', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1663', '416', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1664', '416', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1665', '417', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1666', '417', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1667', '417', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1668', '417', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1669', '418', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1670', '418', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1671', '418', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1672', '418', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1673', '419', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1674', '419', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1675', '419', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1676', '419', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1677', '420', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1678', '420', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1679', '420', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1680', '420', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1681', '421', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1682', '421', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1683', '421', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1684', '421', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1685', '422', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1686', '422', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1687', '422', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1688', '422', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1689', '423', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1690', '423', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1691', '423', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1692', '423', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1693', '424', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1694', '424', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1695', '424', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1696', '424', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1697', '425', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1698', '425', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1699', '425', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1700', '425', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1701', '426', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1702', '426', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1703', '426', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1704', '426', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1705', '427', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1706', '427', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1707', '427', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1708', '427', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1709', '428', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1710', '428', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1711', '428', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1712', '428', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1713', '429', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1714', '429', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1715', '429', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1716', '429', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1717', '430', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1718', '430', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1719', '430', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1720', '430', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1721', '431', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1722', '431', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1723', '431', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1724', '431', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1725', '432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1726', '432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1727', '432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1728', '432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1729', '433', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1730', '433', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1731', '433', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1732', '433', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1733', '434', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1734', '434', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1735', '434', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1736', '434', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1737', '435', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1738', '435', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1739', '435', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1740', '435', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1741', '436', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1742', '436', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1743', '436', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1744', '436', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1745', '437', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1746', '437', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1747', '437', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1748', '437', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1749', '438', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1750', '438', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1751', '438', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1752', '438', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1753', '439', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1754', '439', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1755', '439', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1756', '439', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1757', '440', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1758', '440', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1759', '440', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1760', '440', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1761', '441', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1762', '441', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1763', '441', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1764', '441', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1765', '442', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1766', '442', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1767', '442', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1768', '442', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1769', '443', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1770', '443', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1771', '443', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1772', '443', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1773', '444', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1774', '444', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1775', '444', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1776', '444', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1777', '445', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1778', '445', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1779', '445', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1780', '445', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1781', '446', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1782', '446', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1783', '446', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1784', '446', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1785', '447', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1786', '447', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1787', '447', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1788', '447', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1789', '448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1790', '448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1791', '448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1792', '448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1793', '449', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1794', '449', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1795', '449', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1796', '449', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1797', '450', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1798', '450', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1799', '450', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1800', '450', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1801', '451', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1802', '451', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1803', '451', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1804', '451', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1805', '452', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1806', '452', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1807', '452', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1808', '452', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1809', '453', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1810', '453', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1811', '453', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1812', '453', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1813', '454', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1814', '454', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1815', '454', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1816', '454', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1817', '455', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1818', '455', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1819', '455', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1820', '455', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1821', '456', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1822', '456', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1823', '456', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1824', '456', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1825', '457', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1826', '457', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1827', '457', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1828', '457', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1829', '458', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1830', '458', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1831', '458', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1832', '458', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1833', '459', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1834', '459', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1835', '459', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1836', '459', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1837', '460', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1838', '460', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1839', '460', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1840', '460', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1841', '461', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1842', '461', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1843', '461', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1844', '461', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1845', '462', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1846', '462', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1847', '462', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1848', '462', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1849', '463', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1850', '463', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1851', '463', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1852', '463', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1853', '464', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1854', '464', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1855', '464', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1856', '464', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1857', '465', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1858', '465', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1859', '465', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1860', '465', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1861', '466', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1862', '466', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1863', '466', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1864', '466', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1865', '467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1866', '467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1867', '467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1868', '467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1869', '468', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1870', '468', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1871', '468', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1872', '468', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1873', '469', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1874', '469', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1875', '469', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1876', '469', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1877', '470', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1878', '470', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1879', '470', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1880', '470', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1881', '471', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1882', '471', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1883', '471', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1884', '471', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1885', '472', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1886', '472', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1887', '472', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1888', '472', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1889', '473', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1890', '473', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1891', '473', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1892', '473', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1893', '474', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1894', '474', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1895', '474', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1896', '474', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1897', '475', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1898', '475', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1899', '475', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1900', '475', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1901', '476', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1902', '476', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1903', '476', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1904', '476', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1905', '477', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1906', '477', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1907', '477', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1908', '477', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1909', '478', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1910', '478', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1911', '478', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1912', '478', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1913', '479', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1914', '479', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1915', '479', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1916', '479', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1917', '480', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1918', '480', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1919', '480', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1920', '480', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1921', '481', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1922', '481', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1923', '481', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1924', '481', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1925', '482', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1926', '482', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1927', '482', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1928', '482', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1929', '483', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1930', '483', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1931', '483', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1932', '483', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1933', '484', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1934', '484', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1935', '484', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1936', '484', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1937', '485', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1938', '485', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1939', '485', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1940', '485', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1941', '486', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1942', '486', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1943', '486', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1944', '486', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1945', '487', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1946', '487', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1947', '487', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1948', '487', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1949', '488', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1950', '488', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1951', '488', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1952', '488', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1953', '489', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1954', '489', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1955', '489', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1956', '489', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1957', '490', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1958', '490', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1959', '490', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1960', '490', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1961', '491', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1962', '491', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1963', '491', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1964', '491', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1965', '492', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1966', '492', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1967', '492', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1968', '492', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1969', '493', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1970', '493', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1971', '493', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1972', '493', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1973', '494', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1974', '494', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1975', '494', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1976', '494', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1977', '495', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1978', '495', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1979', '495', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1980', '495', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1981', '496', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1982', '496', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1983', '496', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1984', '496', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1985', '497', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1986', '497', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1987', '497', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1988', '497', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1989', '498', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1990', '498', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1991', '498', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1992', '498', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1993', '499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1994', '499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1995', '499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '1996', '499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '1997', '500', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '1998', '500', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '1999', '500', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2000', '500', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2001', '501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2002', '501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2003', '501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2004', '501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2005', '502', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2006', '502', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2007', '502', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2008', '502', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2009', '503', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2010', '503', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2011', '503', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2012', '503', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2013', '504', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2014', '504', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2015', '504', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2016', '504', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2017', '505', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2018', '505', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2019', '505', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2020', '505', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2021', '506', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2022', '506', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2023', '506', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2024', '506', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2025', '507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2026', '507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2027', '507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2028', '507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2029', '508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2030', '508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2031', '508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2032', '508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2033', '509', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2034', '509', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2035', '509', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2036', '509', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2037', '510', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2038', '510', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2039', '510', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2040', '510', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2041', '511', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2042', '511', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2043', '511', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2044', '511', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2045', '512', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2046', '512', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2047', '512', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2048', '512', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2049', '513', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2050', '513', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2051', '513', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2052', '513', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2053', '514', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2054', '514', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2055', '514', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2056', '514', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2057', '515', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2058', '515', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2059', '515', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2060', '515', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2061', '516', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2062', '516', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2063', '516', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2064', '516', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2065', '517', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2066', '517', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2067', '517', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2068', '517', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2069', '518', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2070', '518', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2071', '518', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2072', '518', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2073', '519', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2074', '519', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2075', '519', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2076', '519', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2077', '520', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2078', '520', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2079', '520', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2080', '520', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2081', '521', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2082', '521', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2083', '521', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2084', '521', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2085', '522', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2086', '522', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2087', '522', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2088', '522', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2089', '523', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2090', '523', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2091', '523', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2092', '523', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2093', '524', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2094', '524', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2095', '524', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2096', '524', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2097', '525', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2098', '525', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2099', '525', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2100', '525', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2101', '526', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2102', '526', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2103', '526', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2104', '526', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2105', '527', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2106', '527', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2107', '527', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2108', '527', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2109', '528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2110', '528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2111', '528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2112', '528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2113', '529', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2114', '529', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2115', '529', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2116', '529', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2117', '530', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2118', '530', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2119', '530', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2120', '530', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2121', '531', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2122', '531', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2123', '531', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2124', '531', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2125', '532', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2126', '532', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2127', '532', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2128', '532', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2129', '533', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2130', '533', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2131', '533', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2132', '533', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2133', '534', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2134', '534', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2135', '534', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2136', '534', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2137', '535', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2138', '535', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2139', '535', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2140', '535', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2141', '536', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2142', '536', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2143', '536', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2144', '536', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2145', '537', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2146', '537', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2147', '537', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2148', '537', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2149', '538', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2150', '538', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2151', '538', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2152', '538', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2153', '539', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2154', '539', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2155', '539', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2156', '539', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2157', '540', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2158', '540', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2159', '540', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2160', '540', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2161', '541', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2162', '541', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2163', '541', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2164', '541', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2165', '542', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2166', '542', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2167', '542', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2168', '542', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2169', '543', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2170', '543', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2171', '543', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2172', '543', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2173', '544', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2174', '544', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2175', '544', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2176', '544', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2177', '545', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2178', '545', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2179', '545', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2180', '545', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2181', '546', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2182', '546', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2183', '546', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2184', '546', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2185', '547', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2186', '547', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2187', '547', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2188', '547', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2189', '548', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2190', '548', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2191', '548', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2192', '548', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2193', '549', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2194', '549', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2195', '549', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2196', '549', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2197', '550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2198', '550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2199', '550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2200', '550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2201', '551', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2202', '551', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2203', '551', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2204', '551', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2205', '552', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2206', '552', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2207', '552', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2208', '552', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2209', '553', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2210', '553', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2211', '553', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2212', '553', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2213', '554', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2214', '554', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2215', '554', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2216', '554', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2217', '555', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2218', '555', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2219', '555', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2220', '555', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2221', '556', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2222', '556', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2223', '556', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2224', '556', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2225', '557', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2226', '557', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2227', '557', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2228', '557', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2229', '558', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2230', '558', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2231', '558', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2232', '558', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2233', '559', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2234', '559', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2235', '559', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2236', '559', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2237', '560', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2238', '560', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2239', '560', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2240', '560', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2241', '561', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2242', '561', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2243', '561', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2244', '561', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2245', '562', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2246', '562', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2247', '562', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2248', '562', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2249', '563', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2250', '563', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2251', '563', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2252', '563', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2253', '564', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2254', '564', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2255', '564', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2256', '564', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2257', '565', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2258', '565', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2259', '565', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2260', '565', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2261', '566', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2262', '566', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2263', '566', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2264', '566', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2265', '567', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2266', '567', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2267', '567', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2268', '567', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2269', '568', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2270', '568', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2271', '568', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2272', '568', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2273', '569', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2274', '569', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2275', '569', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2276', '569', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2277', '570', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2278', '570', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2279', '570', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2280', '570', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2281', '571', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2282', '571', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2283', '571', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2284', '571', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2285', '572', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2286', '572', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2287', '572', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2288', '572', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2289', '573', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2290', '573', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2291', '573', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2292', '573', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2293', '574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2294', '574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2295', '574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2296', '574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2297', '575', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2298', '575', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2299', '575', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2300', '575', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2301', '576', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2302', '576', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2303', '576', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2304', '576', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2305', '577', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2306', '577', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2307', '577', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2308', '577', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2309', '578', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2310', '578', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2311', '578', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2312', '578', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2313', '579', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2314', '579', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2315', '579', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2316', '579', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2317', '580', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2318', '580', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2319', '580', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2320', '580', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2321', '581', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2322', '581', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2323', '581', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2324', '581', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2325', '582', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2326', '582', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2327', '582', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2328', '582', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2329', '583', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2330', '583', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2331', '583', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2332', '583', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2333', '584', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2334', '584', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2335', '584', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2336', '584', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2337', '585', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2338', '585', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2339', '585', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2340', '585', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2341', '586', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2342', '586', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2343', '586', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2344', '586', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2345', '587', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2346', '587', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2347', '587', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2348', '587', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2349', '588', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2350', '588', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2351', '588', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2352', '588', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2353', '589', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2354', '589', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2355', '589', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2356', '589', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2357', '590', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2358', '590', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2359', '590', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2360', '590', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2361', '591', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2362', '591', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2363', '591', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2364', '591', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2365', '592', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2366', '592', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2367', '592', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2368', '592', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2369', '593', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2370', '593', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2371', '593', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2372', '593', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2373', '594', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2374', '594', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2375', '594', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2376', '594', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2377', '595', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2378', '595', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2379', '595', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2380', '595', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2381', '596', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2382', '596', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2383', '596', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2384', '596', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2385', '597', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2386', '597', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2387', '597', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2388', '597', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2389', '598', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2390', '598', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2391', '598', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2392', '598', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2393', '599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2394', '599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2395', '599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2396', '599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2397', '600', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2398', '600', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2399', '600', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2400', '600', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2401', '601', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2402', '601', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2403', '601', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2404', '601', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2405', '602', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2406', '602', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2407', '602', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2408', '602', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2409', '603', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2410', '603', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2411', '603', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2412', '603', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2413', '604', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2414', '604', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2415', '604', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2416', '604', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2417', '605', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2418', '605', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2419', '605', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2420', '605', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2421', '606', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2422', '606', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2423', '606', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2424', '606', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2425', '607', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2426', '607', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2427', '607', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2428', '607', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2429', '608', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2430', '608', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2431', '608', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2432', '608', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2433', '609', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2434', '609', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2435', '609', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2436', '609', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2437', '610', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2438', '610', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2439', '610', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2440', '610', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2441', '611', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2442', '611', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2443', '611', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2444', '611', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2445', '612', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2446', '612', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2447', '612', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2448', '612', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2449', '613', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2450', '613', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2451', '613', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2452', '613', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2453', '614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2454', '614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2455', '614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2456', '614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2457', '615', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2458', '615', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2459', '615', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2460', '615', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2461', '616', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2462', '616', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2463', '616', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2464', '616', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2465', '617', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2466', '617', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2467', '617', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2468', '617', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2469', '618', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2470', '618', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2471', '618', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2472', '618', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2473', '619', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2474', '619', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2475', '619', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2476', '619', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2477', '620', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2478', '620', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2479', '620', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2480', '620', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2481', '621', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2482', '621', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2483', '621', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2484', '621', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2485', '622', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2486', '622', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2487', '622', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2488', '622', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2489', '623', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2490', '623', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2491', '623', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2492', '623', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2493', '624', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2494', '624', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2495', '624', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2496', '624', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2497', '625', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2498', '625', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2499', '625', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2500', '625', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2501', '626', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2502', '626', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2503', '626', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2504', '626', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2505', '627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2506', '627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2507', '627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2508', '627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2509', '628', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2510', '628', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2511', '628', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2512', '628', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2513', '629', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2514', '629', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2515', '629', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2516', '629', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2517', '630', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2518', '630', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2519', '630', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2520', '630', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2521', '631', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2522', '631', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2523', '631', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2524', '631', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2525', '632', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2526', '632', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2527', '632', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2528', '632', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2529', '633', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2530', '633', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2531', '633', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2532', '633', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2533', '634', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2534', '634', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2535', '634', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2536', '634', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2537', '635', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2538', '635', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2539', '635', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2540', '635', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2541', '636', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2542', '636', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2543', '636', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2544', '636', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2545', '637', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2546', '637', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2547', '637', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2548', '637', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2549', '638', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2550', '638', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2551', '638', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2552', '638', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2553', '639', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2554', '639', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2555', '639', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2556', '639', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2557', '640', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2558', '640', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2559', '640', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2560', '640', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2561', '641', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2562', '641', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2563', '641', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2564', '641', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2565', '642', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2566', '642', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2567', '642', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2568', '642', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2569', '643', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2570', '643', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2571', '643', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2572', '643', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2573', '644', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2574', '644', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2575', '644', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2576', '644', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2577', '645', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2578', '645', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2579', '645', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2580', '645', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2581', '646', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2582', '646', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2583', '646', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2584', '646', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2585', '647', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2586', '647', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2587', '647', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2588', '647', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2589', '648', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2590', '648', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2591', '648', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2592', '648', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2593', '649', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2594', '649', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2595', '649', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2596', '649', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2597', '650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2598', '650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2599', '650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2600', '650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2601', '651', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2602', '651', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2603', '651', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2604', '651', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2605', '652', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2606', '652', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2607', '652', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2608', '652', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2609', '653', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2610', '653', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2611', '653', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2612', '653', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2613', '654', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2614', '654', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2615', '654', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2616', '654', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2617', '655', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2618', '655', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2619', '655', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2620', '655', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2621', '656', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2622', '656', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2623', '656', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2624', '656', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2625', '657', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2626', '657', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2627', '657', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2628', '657', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2629', '658', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2630', '658', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2631', '658', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2632', '658', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2633', '659', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2634', '659', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2635', '659', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2636', '659', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2637', '660', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2638', '660', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2639', '660', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2640', '660', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2641', '661', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2642', '661', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2643', '661', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2644', '661', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2645', '662', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2646', '662', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2647', '662', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2648', '662', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2649', '663', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2650', '663', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2651', '663', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2652', '663', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2653', '664', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2654', '664', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2655', '664', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2656', '664', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2657', '665', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2658', '665', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2659', '665', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2660', '665', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2661', '666', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2662', '666', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2663', '666', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2664', '666', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2665', '667', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2666', '667', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2667', '667', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2668', '667', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2669', '668', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2670', '668', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2671', '668', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2672', '668', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2673', '669', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2674', '669', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2675', '669', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2676', '669', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2677', '670', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2678', '670', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2679', '670', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2680', '670', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2681', '671', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2682', '671', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2683', '671', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2684', '671', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2685', '672', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2686', '672', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2687', '672', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2688', '672', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2689', '673', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2690', '673', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2691', '673', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2692', '673', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2693', '674', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2694', '674', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2695', '674', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2696', '674', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2697', '675', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2698', '675', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2699', '675', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2700', '675', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2701', '676', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2702', '676', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2703', '676', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2704', '676', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2705', '677', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2706', '677', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2707', '677', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2708', '677', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2709', '678', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2710', '678', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2711', '678', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2712', '678', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2713', '679', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2714', '679', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2715', '679', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2716', '679', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2717', '680', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2718', '680', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2719', '680', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2720', '680', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2721', '681', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2722', '681', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2723', '681', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2724', '681', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2725', '682', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2726', '682', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2727', '682', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2728', '682', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2729', '683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2730', '683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2731', '683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2732', '683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2733', '684', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2734', '684', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2735', '684', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2736', '684', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2737', '685', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2738', '685', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2739', '685', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2740', '685', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2741', '686', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2742', '686', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2743', '686', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2744', '686', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2745', '687', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2746', '687', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2747', '687', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2748', '687', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2749', '688', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2750', '688', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2751', '688', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2752', '688', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2753', '689', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2754', '689', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2755', '689', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2756', '689', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2757', '690', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2758', '690', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2759', '690', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2760', '690', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2761', '691', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2762', '691', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2763', '691', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2764', '691', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2765', '692', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2766', '692', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2767', '692', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2768', '692', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2769', '693', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2770', '693', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2771', '693', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2772', '693', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2773', '694', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2774', '694', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2775', '694', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2776', '694', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2777', '695', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2778', '695', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2779', '695', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2780', '695', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2781', '696', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2782', '696', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2783', '696', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2784', '696', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2785', '697', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2786', '697', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2787', '697', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2788', '697', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2789', '698', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2790', '698', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2791', '698', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2792', '698', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2793', '699', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2794', '699', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2795', '699', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2796', '699', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2797', '700', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2798', '700', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2799', '700', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2800', '700', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2801', '701', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2802', '701', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2803', '701', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2804', '701', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2805', '702', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2806', '702', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2807', '702', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2808', '702', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2809', '703', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2810', '703', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2811', '703', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2812', '703', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2813', '704', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2814', '704', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2815', '704', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2816', '704', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2817', '705', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2818', '705', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2819', '705', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2820', '705', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2821', '706', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2822', '706', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2823', '706', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2824', '706', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2825', '707', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2826', '707', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2827', '707', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2828', '707', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2829', '708', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2830', '708', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2831', '708', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2832', '708', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2833', '709', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2834', '709', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2835', '709', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2836', '709', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2837', '710', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2838', '710', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2839', '710', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2840', '710', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2841', '711', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2842', '711', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2843', '711', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2844', '711', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2845', '712', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2846', '712', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2847', '712', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2848', '712', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2849', '713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2850', '713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2851', '713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2852', '713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2853', '714', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2854', '714', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2855', '714', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2856', '714', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2857', '715', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2858', '715', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2859', '715', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2860', '715', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2861', '716', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2862', '716', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2863', '716', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2864', '716', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2865', '717', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2866', '717', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2867', '717', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2868', '717', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2869', '718', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2870', '718', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2871', '718', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2872', '718', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2873', '719', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2874', '719', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2875', '719', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2876', '719', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2877', '720', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2878', '720', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2879', '720', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2880', '720', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2881', '721', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2882', '721', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2883', '721', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2884', '721', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2885', '722', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2886', '722', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2887', '722', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2888', '722', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2889', '723', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2890', '723', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2891', '723', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2892', '723', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2893', '724', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2894', '724', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2895', '724', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2896', '724', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2897', '725', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2898', '725', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2899', '725', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2900', '725', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2901', '726', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2902', '726', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2903', '726', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2904', '726', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2905', '727', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2906', '727', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2907', '727', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2908', '727', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2909', '728', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2910', '728', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2911', '728', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2912', '728', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2913', '729', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2914', '729', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2915', '729', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2916', '729', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2917', '730', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2918', '730', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2919', '730', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2920', '730', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2921', '731', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2922', '731', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2923', '731', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2924', '731', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2925', '732', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2926', '732', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2927', '732', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2928', '732', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2929', '733', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2930', '733', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2931', '733', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2932', '733', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2933', '734', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2934', '734', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2935', '734', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2936', '734', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2937', '735', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2938', '735', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2939', '735', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2940', '735', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2941', '736', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2942', '736', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2943', '736', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2944', '736', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2945', '737', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2946', '737', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2947', '737', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2948', '737', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2949', '738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2950', '738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2951', '738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2952', '738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2953', '739', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2954', '739', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2955', '739', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2956', '739', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2957', '740', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2958', '740', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2959', '740', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2960', '740', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2961', '741', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2962', '741', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2963', '741', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2964', '741', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2965', '742', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2966', '742', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2967', '742', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2968', '742', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2969', '743', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2970', '743', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2971', '743', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2972', '743', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2973', '744', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2974', '744', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2975', '744', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2976', '744', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2977', '745', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2978', '745', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2979', '745', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2980', '745', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2981', '746', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2982', '746', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2983', '746', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2984', '746', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2985', '747', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2986', '747', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2987', '747', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2988', '747', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2989', '748', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2990', '748', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2991', '748', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2992', '748', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2993', '749', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2994', '749', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2995', '749', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '2996', '749', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '2997', '750', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '2998', '750', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '2999', '750', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3000', '750', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3001', '751', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3002', '751', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3003', '751', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3004', '751', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3005', '752', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3006', '752', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3007', '752', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3008', '752', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3009', '753', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3010', '753', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3011', '753', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3012', '753', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3013', '754', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3014', '754', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3015', '754', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3016', '754', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3017', '755', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3018', '755', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3019', '755', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3020', '755', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3021', '756', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3022', '756', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3023', '756', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3024', '756', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3025', '757', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3026', '757', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3027', '757', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3028', '757', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3029', '758', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3030', '758', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3031', '758', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3032', '758', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3033', '759', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3034', '759', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3035', '759', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3036', '759', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3037', '760', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3038', '760', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3039', '760', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3040', '760', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3041', '761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3042', '761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3043', '761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3044', '761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3045', '762', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3046', '762', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3047', '762', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3048', '762', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3049', '763', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3050', '763', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3051', '763', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3052', '763', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3053', '764', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3054', '764', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3055', '764', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3056', '764', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3057', '765', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3058', '765', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3059', '765', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3060', '765', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3061', '766', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3062', '766', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3063', '766', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3064', '766', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3065', '767', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3066', '767', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3067', '767', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3068', '767', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3069', '768', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3070', '768', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3071', '768', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3072', '768', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3073', '769', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3074', '769', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3075', '769', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3076', '769', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3077', '770', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3078', '770', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3079', '770', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3080', '770', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3081', '771', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3082', '771', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3083', '771', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3084', '771', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3085', '772', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3086', '772', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3087', '772', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3088', '772', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3089', '773', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3090', '773', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3091', '773', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3092', '773', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3093', '774', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3094', '774', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3095', '774', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3096', '774', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3097', '775', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3098', '775', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3099', '775', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3100', '775', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3101', '776', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3102', '776', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3103', '776', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3104', '776', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3105', '777', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3106', '777', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3107', '777', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3108', '777', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3109', '778', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3110', '778', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3111', '778', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3112', '778', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3113', '779', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3114', '779', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3115', '779', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3116', '779', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3117', '780', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3118', '780', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3119', '780', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3120', '780', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3121', '781', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3122', '781', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3123', '781', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3124', '781', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3125', '782', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3126', '782', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3127', '782', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3128', '782', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3129', '783', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3130', '783', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3131', '783', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3132', '783', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3133', '784', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3134', '784', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3135', '784', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3136', '784', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3137', '785', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3138', '785', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3139', '785', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3140', '785', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3141', '786', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3142', '786', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3143', '786', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3144', '786', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3145', '787', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3146', '787', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3147', '787', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3148', '787', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3149', '788', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3150', '788', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3151', '788', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3152', '788', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3153', '789', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3154', '789', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3155', '789', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3156', '789', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3157', '790', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3158', '790', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3159', '790', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3160', '790', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3161', '791', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3162', '791', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3163', '791', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3164', '791', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3165', '792', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3166', '792', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3167', '792', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3168', '792', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3169', '793', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3170', '793', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3171', '793', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3172', '793', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3173', '794', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3174', '794', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3175', '794', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3176', '794', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3177', '795', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3178', '795', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3179', '795', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3180', '795', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3181', '796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3182', '796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3183', '796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3184', '796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3185', '797', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3186', '797', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3187', '797', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3188', '797', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3189', '798', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3190', '798', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3191', '798', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3192', '798', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3193', '799', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3194', '799', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3195', '799', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3196', '799', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3197', '800', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3198', '800', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3199', '800', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3200', '800', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3201', '801', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3202', '801', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3203', '801', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3204', '801', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3205', '802', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3206', '802', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3207', '802', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3208', '802', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3209', '803', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3210', '803', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3211', '803', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3212', '803', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3213', '804', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3214', '804', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3215', '804', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3216', '804', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3217', '805', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3218', '805', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3219', '805', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3220', '805', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3221', '806', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3222', '806', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3223', '806', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3224', '806', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3225', '807', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3226', '807', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3227', '807', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3228', '807', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3229', '808', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3230', '808', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3231', '808', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3232', '808', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3233', '809', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3234', '809', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3235', '809', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3236', '809', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3237', '810', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3238', '810', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3239', '810', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3240', '810', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3241', '811', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3242', '811', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3243', '811', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3244', '811', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3245', '812', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3246', '812', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3247', '812', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3248', '812', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3249', '813', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3250', '813', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3251', '813', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3252', '813', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3253', '814', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3254', '814', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3255', '814', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3256', '814', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3257', '815', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3258', '815', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3259', '815', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3260', '815', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3261', '816', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3262', '816', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3263', '816', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3264', '816', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3265', '817', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3266', '817', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3267', '817', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3268', '817', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3269', '818', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3270', '818', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3271', '818', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3272', '818', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3273', '819', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3274', '819', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3275', '819', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3276', '819', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3277', '820', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3278', '820', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3279', '820', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3280', '820', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3281', '821', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3282', '821', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3283', '821', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3284', '821', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3285', '822', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3286', '822', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3287', '822', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3288', '822', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3289', '823', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3290', '823', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3291', '823', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3292', '823', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3293', '824', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3294', '824', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3295', '824', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3296', '824', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3297', '825', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3298', '825', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3299', '825', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3300', '825', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3301', '826', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3302', '826', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3303', '826', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3304', '826', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3305', '827', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3306', '827', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3307', '827', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3308', '827', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3309', '828', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3310', '828', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3311', '828', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3312', '828', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3313', '829', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3314', '829', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3315', '829', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3316', '829', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3317', '830', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3318', '830', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3319', '830', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3320', '830', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3321', '831', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3322', '831', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3323', '831', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3324', '831', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3325', '832', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3326', '832', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3327', '832', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3328', '832', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3329', '833', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3330', '833', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3331', '833', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3332', '833', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3333', '834', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3334', '834', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3335', '834', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3336', '834', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3337', '835', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3338', '835', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3339', '835', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3340', '835', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3341', '836', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3342', '836', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3343', '836', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3344', '836', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3345', '837', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3346', '837', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3347', '837', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3348', '837', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3349', '838', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3350', '838', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3351', '838', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3352', '838', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3353', '839', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3354', '839', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3355', '839', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3356', '839', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3357', '840', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3358', '840', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3359', '840', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3360', '840', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3361', '841', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3362', '841', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3363', '841', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3364', '841', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3365', '842', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3366', '842', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3367', '842', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3368', '842', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3369', '843', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3370', '843', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3371', '843', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3372', '843', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3373', '844', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3374', '844', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3375', '844', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3376', '844', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3377', '845', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3378', '845', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3379', '845', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3380', '845', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3381', '846', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3382', '846', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3383', '846', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3384', '846', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3385', '847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3386', '847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3387', '847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3388', '847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3389', '848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3390', '848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3391', '848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3392', '848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3393', '849', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3394', '849', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3395', '849', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3396', '849', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3397', '850', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3398', '850', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3399', '850', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3400', '850', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3401', '851', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3402', '851', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3403', '851', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3404', '851', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3405', '852', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3406', '852', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3407', '852', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3408', '852', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3409', '853', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3410', '853', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3411', '853', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3412', '853', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3413', '854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3414', '854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3415', '854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3416', '854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3417', '855', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3418', '855', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3419', '855', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3420', '855', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3421', '856', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3422', '856', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3423', '856', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3424', '856', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3425', '857', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3426', '857', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3427', '857', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3428', '857', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3429', '858', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3430', '858', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3431', '858', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3432', '858', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3433', '859', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3434', '859', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3435', '859', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3436', '859', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3437', '860', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3438', '860', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3439', '860', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3440', '860', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3441', '861', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3442', '861', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3443', '861', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3444', '861', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3445', '862', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3446', '862', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3447', '862', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3448', '862', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3449', '863', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3450', '863', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3451', '863', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3452', '863', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3453', '864', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3454', '864', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3455', '864', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3456', '864', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3457', '865', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3458', '865', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3459', '865', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3460', '865', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3461', '866', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3462', '866', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3463', '866', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3464', '866', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3465', '867', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3466', '867', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3467', '867', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3468', '867', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3469', '868', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3470', '868', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3471', '868', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3472', '868', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3473', '869', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3474', '869', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3475', '869', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3476', '869', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3477', '870', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3478', '870', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3479', '870', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3480', '870', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3481', '871', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3482', '871', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3483', '871', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3484', '871', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3485', '872', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3486', '872', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3487', '872', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3488', '872', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3489', '873', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3490', '873', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3491', '873', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3492', '873', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3493', '874', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3494', '874', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3495', '874', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3496', '874', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3497', '875', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3498', '875', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3499', '875', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3500', '875', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3501', '876', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3502', '876', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3503', '876', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3504', '876', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3505', '877', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3506', '877', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3507', '877', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3508', '877', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3509', '878', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3510', '878', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3511', '878', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3512', '878', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3513', '879', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3514', '879', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3515', '879', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3516', '879', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3517', '880', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3518', '880', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3519', '880', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3520', '880', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3521', '881', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3522', '881', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3523', '881', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3524', '881', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3525', '882', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3526', '882', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3527', '882', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3528', '882', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3529', '883', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3530', '883', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3531', '883', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3532', '883', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3533', '884', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3534', '884', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3535', '884', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3536', '884', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3537', '885', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3538', '885', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3539', '885', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3540', '885', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3541', '886', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3542', '886', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3543', '886', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3544', '886', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3545', '887', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3546', '887', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3547', '887', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3548', '887', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3549', '888', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3550', '888', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3551', '888', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3552', '888', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3553', '889', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3554', '889', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3555', '889', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3556', '889', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3557', '890', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3558', '890', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3559', '890', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3560', '890', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3561', '891', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3562', '891', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3563', '891', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3564', '891', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3565', '892', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3566', '892', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3567', '892', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3568', '892', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3569', '893', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3570', '893', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3571', '893', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3572', '893', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3573', '894', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3574', '894', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3575', '894', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3576', '894', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3577', '895', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3578', '895', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3579', '895', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3580', '895', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3581', '896', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3582', '896', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3583', '896', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3584', '896', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3585', '897', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3586', '897', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3587', '897', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3588', '897', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3589', '898', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3590', '898', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3591', '898', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3592', '898', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3593', '899', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3594', '899', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3595', '899', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3596', '899', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3597', '900', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3598', '900', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3599', '900', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3600', '900', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3601', '901', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3602', '901', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3603', '901', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3604', '901', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3605', '902', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3606', '902', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3607', '902', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3608', '902', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3609', '903', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3610', '903', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3611', '903', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3612', '903', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3613', '904', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3614', '904', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3615', '904', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3616', '904', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3617', '905', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3618', '905', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3619', '905', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3620', '905', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3621', '906', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3622', '906', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3623', '906', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3624', '906', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3625', '907', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3626', '907', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3627', '907', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3628', '907', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3629', '908', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3630', '908', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3631', '908', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3632', '908', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3633', '909', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3634', '909', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3635', '909', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3636', '909', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3637', '910', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3638', '910', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3639', '910', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3640', '910', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3641', '911', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3642', '911', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3643', '911', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3644', '911', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3645', '912', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3646', '912', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3647', '912', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3648', '912', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3649', '913', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3650', '913', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3651', '913', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3652', '913', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3653', '914', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3654', '914', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3655', '914', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3656', '914', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3657', '915', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3658', '915', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3659', '915', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3660', '915', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3661', '916', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3662', '916', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3663', '916', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3664', '916', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3665', '917', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3666', '917', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3667', '917', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3668', '917', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3669', '918', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3670', '918', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3671', '918', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3672', '918', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3673', '919', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3674', '919', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3675', '919', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3676', '919', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3677', '920', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3678', '920', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3679', '920', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3680', '920', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3681', '921', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3682', '921', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3683', '921', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3684', '921', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3685', '922', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3686', '922', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3687', '922', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3688', '922', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3689', '923', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3690', '923', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3691', '923', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3692', '923', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3693', '924', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3694', '924', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3695', '924', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3696', '924', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3697', '925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3698', '925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3699', '925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3700', '925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3701', '926', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3702', '926', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3703', '926', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3704', '926', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3705', '927', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3706', '927', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3707', '927', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3708', '927', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3709', '928', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3710', '928', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3711', '928', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3712', '928', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3713', '929', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3714', '929', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3715', '929', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3716', '929', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3717', '930', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3718', '930', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3719', '930', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3720', '930', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3721', '931', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3722', '931', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3723', '931', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3724', '931', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3725', '932', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3726', '932', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3727', '932', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3728', '932', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3729', '933', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3730', '933', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3731', '933', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3732', '933', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3733', '934', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3734', '934', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3735', '934', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3736', '934', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3737', '935', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3738', '935', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3739', '935', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3740', '935', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3741', '936', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3742', '936', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3743', '936', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3744', '936', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3745', '937', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3746', '937', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3747', '937', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3748', '937', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3749', '938', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3750', '938', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3751', '938', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3752', '938', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3753', '939', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3754', '939', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3755', '939', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3756', '939', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3757', '940', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3758', '940', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3759', '940', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3760', '940', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3761', '941', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3762', '941', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3763', '941', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3764', '941', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3765', '942', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3766', '942', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3767', '942', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3768', '942', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3769', '943', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3770', '943', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3771', '943', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3772', '943', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3773', '944', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3774', '944', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3775', '944', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3776', '944', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3777', '945', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3778', '945', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3779', '945', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3780', '945', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3781', '946', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3782', '946', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3783', '946', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3784', '946', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3785', '947', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3786', '947', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3787', '947', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3788', '947', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3789', '948', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3790', '948', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3791', '948', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3792', '948', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3793', '949', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3794', '949', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3795', '949', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3796', '949', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3797', '950', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3798', '950', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3799', '950', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3800', '950', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3801', '951', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3802', '951', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3803', '951', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3804', '951', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3805', '952', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3806', '952', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3807', '952', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3808', '952', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3809', '953', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3810', '953', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3811', '953', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3812', '953', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3813', '954', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3814', '954', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3815', '954', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3816', '954', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3817', '955', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3818', '955', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3819', '955', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3820', '955', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3821', '956', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3822', '956', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3823', '956', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3824', '956', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3825', '957', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3826', '957', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3827', '957', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3828', '957', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3829', '958', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3830', '958', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3831', '958', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3832', '958', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3833', '959', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3834', '959', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3835', '959', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3836', '959', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3837', '960', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3838', '960', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3839', '960', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3840', '960', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3841', '961', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3842', '961', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3843', '961', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3844', '961', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3845', '962', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3846', '962', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3847', '962', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3848', '962', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3849', '963', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3850', '963', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3851', '963', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3852', '963', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3853', '964', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3854', '964', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3855', '964', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3856', '964', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3857', '965', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3858', '965', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3859', '965', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3860', '965', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3861', '966', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3862', '966', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3863', '966', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3864', '966', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3865', '967', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3866', '967', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3867', '967', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3868', '967', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3869', '968', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3870', '968', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3871', '968', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3872', '968', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3873', '969', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3874', '969', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3875', '969', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3876', '969', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3877', '970', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3878', '970', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3879', '970', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3880', '970', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3881', '971', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3882', '971', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3883', '971', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3884', '971', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3885', '972', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3886', '972', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3887', '972', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3888', '972', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3889', '973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3890', '973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3891', '973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3892', '973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3893', '974', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3894', '974', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3895', '974', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3896', '974', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3897', '975', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3898', '975', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3899', '975', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3900', '975', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3901', '976', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3902', '976', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3903', '976', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3904', '976', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3905', '977', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3906', '977', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3907', '977', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3908', '977', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3909', '978', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3910', '978', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3911', '978', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3912', '978', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3913', '979', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3914', '979', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3915', '979', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3916', '979', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3917', '980', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3918', '980', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3919', '980', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3920', '980', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3921', '981', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3922', '981', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3923', '981', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3924', '981', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3925', '982', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3926', '982', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3927', '982', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3928', '982', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3929', '983', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3930', '983', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3931', '983', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3932', '983', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3933', '984', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3934', '984', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3935', '984', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3936', '984', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3937', '985', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3938', '985', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3939', '985', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3940', '985', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3941', '986', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3942', '986', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3943', '986', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3944', '986', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3945', '987', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3946', '987', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3947', '987', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3948', '987', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3949', '988', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3950', '988', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3951', '988', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3952', '988', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3953', '989', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3954', '989', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3955', '989', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3956', '989', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3957', '990', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3958', '990', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3959', '990', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3960', '990', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3961', '991', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3962', '991', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3963', '991', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3964', '991', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3965', '992', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3966', '992', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3967', '992', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3968', '992', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3969', '993', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3970', '993', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3971', '993', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3972', '993', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3973', '994', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3974', '994', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3975', '994', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3976', '994', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3977', '995', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3978', '995', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3979', '995', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3980', '995', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3981', '996', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3982', '996', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3983', '996', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3984', '996', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3985', '997', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3986', '997', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3987', '997', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3988', '997', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3989', '998', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3990', '998', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3991', '998', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3992', '998', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3993', '999', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3994', '999', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3995', '999', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '3996', '999', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '3997', '1000', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '3998', '1000', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '3999', '1000', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4000', '1000', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4001', '1001', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4002', '1001', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4003', '1001', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4004', '1001', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4005', '1002', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4006', '1002', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4007', '1002', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4008', '1002', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4009', '1003', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4010', '1003', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4011', '1003', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4012', '1003', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4013', '1004', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4014', '1004', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4015', '1004', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4016', '1004', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4017', '1005', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4018', '1005', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4019', '1005', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4020', '1005', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4021', '1006', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4022', '1006', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4023', '1006', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4024', '1006', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4025', '1007', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4026', '1007', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4027', '1007', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4028', '1007', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4029', '1008', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4030', '1008', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4031', '1008', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4032', '1008', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4033', '1009', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4034', '1009', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4035', '1009', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4036', '1009', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4037', '1010', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4038', '1010', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4039', '1010', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4040', '1010', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4041', '1011', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4042', '1011', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4043', '1011', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4044', '1011', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4045', '1012', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4046', '1012', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4047', '1012', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4048', '1012', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4049', '1013', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4050', '1013', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4051', '1013', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4052', '1013', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4053', '1014', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4054', '1014', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4055', '1014', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4056', '1014', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4057', '1015', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4058', '1015', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4059', '1015', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4060', '1015', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4061', '1016', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4062', '1016', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4063', '1016', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4064', '1016', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4065', '1017', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4066', '1017', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4067', '1017', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4068', '1017', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4069', '1018', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4070', '1018', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4071', '1018', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4072', '1018', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4073', '1019', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4074', '1019', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4075', '1019', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4076', '1019', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4077', '1020', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4078', '1020', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4079', '1020', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4080', '1020', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4081', '1021', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4082', '1021', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4083', '1021', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4084', '1021', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4085', '1022', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4086', '1022', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4087', '1022', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4088', '1022', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4089', '1023', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4090', '1023', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4091', '1023', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4092', '1023', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4093', '1024', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4094', '1024', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4095', '1024', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4096', '1024', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4097', '1025', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4098', '1025', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4099', '1025', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4100', '1025', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4101', '1026', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4102', '1026', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4103', '1026', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4104', '1026', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4105', '1027', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4106', '1027', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4107', '1027', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4108', '1027', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4109', '1028', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4110', '1028', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4111', '1028', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4112', '1028', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4113', '1029', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4114', '1029', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4115', '1029', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4116', '1029', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4117', '1030', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4118', '1030', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4119', '1030', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4120', '1030', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4121', '1031', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4122', '1031', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4123', '1031', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4124', '1031', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4125', '1032', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4126', '1032', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4127', '1032', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4128', '1032', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4129', '1033', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4130', '1033', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4131', '1033', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4132', '1033', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4133', '1034', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4134', '1034', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4135', '1034', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4136', '1034', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4137', '1035', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4138', '1035', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4139', '1035', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4140', '1035', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4141', '1036', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4142', '1036', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4143', '1036', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4144', '1036', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4145', '1037', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4146', '1037', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4147', '1037', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4148', '1037', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4149', '1038', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4150', '1038', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4151', '1038', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4152', '1038', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4153', '1039', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4154', '1039', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4155', '1039', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4156', '1039', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4157', '1040', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4158', '1040', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4159', '1040', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4160', '1040', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4161', '1041', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4162', '1041', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4163', '1041', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4164', '1041', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4165', '1042', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4166', '1042', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4167', '1042', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4168', '1042', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4169', '1043', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4170', '1043', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4171', '1043', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4172', '1043', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4173', '1044', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4174', '1044', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4175', '1044', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4176', '1044', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4177', '1045', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4178', '1045', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4179', '1045', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4180', '1045', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4181', '1046', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4182', '1046', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4183', '1046', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4184', '1046', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4185', '1047', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4186', '1047', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4187', '1047', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4188', '1047', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4189', '1048', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4190', '1048', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4191', '1048', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4192', '1048', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4193', '1049', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4194', '1049', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4195', '1049', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4196', '1049', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4197', '1050', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4198', '1050', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4199', '1050', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4200', '1050', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4201', '1051', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4202', '1051', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4203', '1051', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4204', '1051', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4205', '1052', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4206', '1052', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4207', '1052', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4208', '1052', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4209', '1053', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4210', '1053', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4211', '1053', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4212', '1053', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4213', '1054', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4214', '1054', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4215', '1054', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4216', '1054', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4217', '1055', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4218', '1055', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4219', '1055', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4220', '1055', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4221', '1056', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4222', '1056', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4223', '1056', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4224', '1056', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4225', '1057', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4226', '1057', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4227', '1057', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4228', '1057', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4229', '1058', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4230', '1058', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4231', '1058', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4232', '1058', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4233', '1059', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4234', '1059', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4235', '1059', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4236', '1059', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4237', '1060', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4238', '1060', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4239', '1060', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4240', '1060', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4241', '1061', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4242', '1061', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4243', '1061', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4244', '1061', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4245', '1062', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4246', '1062', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4247', '1062', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4248', '1062', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4249', '1063', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4250', '1063', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4251', '1063', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4252', '1063', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4253', '1064', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4254', '1064', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4255', '1064', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4256', '1064', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4257', '1065', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4258', '1065', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4259', '1065', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4260', '1065', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4261', '1066', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4262', '1066', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4263', '1066', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4264', '1066', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4265', '1067', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4266', '1067', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4267', '1067', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4268', '1067', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4269', '1068', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4270', '1068', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4271', '1068', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4272', '1068', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4273', '1069', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4274', '1069', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4275', '1069', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4276', '1069', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4277', '1070', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4278', '1070', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4279', '1070', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4280', '1070', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4281', '1071', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4282', '1071', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4283', '1071', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4284', '1071', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4285', '1072', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4286', '1072', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4287', '1072', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4288', '1072', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4289', '1073', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4290', '1073', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4291', '1073', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4292', '1073', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4293', '1074', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4294', '1074', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4295', '1074', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4296', '1074', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4297', '1075', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4298', '1075', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4299', '1075', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4300', '1075', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4301', '1076', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4302', '1076', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4303', '1076', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4304', '1076', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4305', '1077', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4306', '1077', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4307', '1077', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4308', '1077', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4309', '1078', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4310', '1078', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4311', '1078', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4312', '1078', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4313', '1079', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4314', '1079', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4315', '1079', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4316', '1079', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4317', '1080', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4318', '1080', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4319', '1080', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4320', '1080', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4321', '1081', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4322', '1081', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4323', '1081', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4324', '1081', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4325', '1082', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4326', '1082', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4327', '1082', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4328', '1082', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4329', '1083', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4330', '1083', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4331', '1083', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4332', '1083', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4333', '1084', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4334', '1084', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4335', '1084', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4336', '1084', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4337', '1085', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4338', '1085', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4339', '1085', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4340', '1085', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4341', '1086', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4342', '1086', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4343', '1086', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4344', '1086', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4345', '1087', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4346', '1087', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4347', '1087', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4348', '1087', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4349', '1088', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4350', '1088', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4351', '1088', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4352', '1088', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4353', '1089', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4354', '1089', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4355', '1089', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4356', '1089', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4357', '1090', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4358', '1090', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4359', '1090', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4360', '1090', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4361', '1091', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4362', '1091', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4363', '1091', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4364', '1091', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4365', '1092', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4366', '1092', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4367', '1092', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4368', '1092', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4369', '1093', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4370', '1093', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4371', '1093', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4372', '1093', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4373', '1094', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4374', '1094', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4375', '1094', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4376', '1094', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4377', '1095', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4378', '1095', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4379', '1095', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4380', '1095', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4381', '1096', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4382', '1096', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4383', '1096', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4384', '1096', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4385', '1097', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4386', '1097', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4387', '1097', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4388', '1097', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4389', '1098', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4390', '1098', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4391', '1098', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4392', '1098', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4393', '1099', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4394', '1099', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4395', '1099', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4396', '1099', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4397', '1100', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4398', '1100', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4399', '1100', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4400', '1100', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4401', '1101', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4402', '1101', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4403', '1101', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4404', '1101', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4405', '1102', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4406', '1102', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4407', '1102', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4408', '1102', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4409', '1103', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4410', '1103', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4411', '1103', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4412', '1103', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4413', '1104', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4414', '1104', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4415', '1104', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4416', '1104', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4417', '1105', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4418', '1105', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4419', '1105', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4420', '1105', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4421', '1106', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4422', '1106', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4423', '1106', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4424', '1106', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4425', '1107', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4426', '1107', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4427', '1107', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4428', '1107', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4429', '1108', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4430', '1108', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4431', '1108', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4432', '1108', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4433', '1109', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4434', '1109', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4435', '1109', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4436', '1109', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4437', '1110', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4438', '1110', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4439', '1110', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4440', '1110', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4441', '1111', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4442', '1111', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4443', '1111', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4444', '1111', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4445', '1112', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4446', '1112', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4447', '1112', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4448', '1112', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4449', '1113', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4450', '1113', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4451', '1113', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4452', '1113', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4453', '1114', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4454', '1114', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4455', '1114', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4456', '1114', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4457', '1115', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4458', '1115', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4459', '1115', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4460', '1115', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4461', '1116', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4462', '1116', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4463', '1116', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4464', '1116', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4465', '1117', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4466', '1117', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4467', '1117', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4468', '1117', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4469', '1118', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4470', '1118', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4471', '1118', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4472', '1118', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4473', '1119', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4474', '1119', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4475', '1119', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4476', '1119', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4477', '1120', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4478', '1120', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4479', '1120', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4480', '1120', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4481', '1121', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4482', '1121', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4483', '1121', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4484', '1121', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4485', '1122', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4486', '1122', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4487', '1122', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4488', '1122', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4489', '1123', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4490', '1123', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4491', '1123', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4492', '1123', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4493', '1124', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4494', '1124', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4495', '1124', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4496', '1124', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4497', '1125', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4498', '1125', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4499', '1125', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4500', '1125', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4501', '1126', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4502', '1126', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4503', '1126', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4504', '1126', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4505', '1127', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4506', '1127', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4507', '1127', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4508', '1127', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4509', '1128', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4510', '1128', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4511', '1128', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4512', '1128', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4513', '1129', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4514', '1129', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4515', '1129', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4516', '1129', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4517', '1130', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4518', '1130', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4519', '1130', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4520', '1130', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4521', '1131', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4522', '1131', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4523', '1131', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4524', '1131', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4525', '1132', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4526', '1132', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4527', '1132', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4528', '1132', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4529', '1133', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4530', '1133', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4531', '1133', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4532', '1133', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4533', '1134', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4534', '1134', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4535', '1134', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4536', '1134', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4537', '1135', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4538', '1135', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4539', '1135', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4540', '1135', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4541', '1136', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4542', '1136', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4543', '1136', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4544', '1136', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4545', '1137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4546', '1137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4547', '1137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4548', '1137', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4549', '1138', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4550', '1138', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4551', '1138', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4552', '1138', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4553', '1139', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4554', '1139', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4555', '1139', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4556', '1139', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4557', '1140', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4558', '1140', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4559', '1140', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4560', '1140', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4561', '1141', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4562', '1141', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4563', '1141', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4564', '1141', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4565', '1142', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4566', '1142', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4567', '1142', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4568', '1142', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4569', '1143', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4570', '1143', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4571', '1143', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4572', '1143', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4573', '1144', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4574', '1144', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4575', '1144', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4576', '1144', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4577', '1145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4578', '1145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4579', '1145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4580', '1145', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4581', '1146', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4582', '1146', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4583', '1146', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4584', '1146', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4585', '1147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4586', '1147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4587', '1147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4588', '1147', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4589', '1148', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4590', '1148', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4591', '1148', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4592', '1148', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4593', '1149', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4594', '1149', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4595', '1149', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4596', '1149', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4597', '1150', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4598', '1150', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4599', '1150', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4600', '1150', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4601', '1151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4602', '1151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4603', '1151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4604', '1151', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4605', '1152', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4606', '1152', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4607', '1152', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4608', '1152', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4609', '1153', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4610', '1153', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4611', '1153', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4612', '1153', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4613', '1154', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4614', '1154', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4615', '1154', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4616', '1154', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4617', '1155', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4618', '1155', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4619', '1155', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4620', '1155', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4621', '1156', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4622', '1156', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4623', '1156', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4624', '1156', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4625', '1157', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4626', '1157', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4627', '1157', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4628', '1157', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4629', '1158', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4630', '1158', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4631', '1158', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4632', '1158', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4633', '1159', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4634', '1159', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4635', '1159', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4636', '1159', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4637', '1160', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4638', '1160', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4639', '1160', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4640', '1160', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4641', '1161', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4642', '1161', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4643', '1161', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4644', '1161', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4645', '1162', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4646', '1162', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4647', '1162', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4648', '1162', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4649', '1163', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4650', '1163', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4651', '1163', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4652', '1163', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4653', '1164', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4654', '1164', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4655', '1164', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4656', '1164', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4657', '1165', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4658', '1165', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4659', '1165', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4660', '1165', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4661', '1166', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4662', '1166', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4663', '1166', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4664', '1166', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4665', '1167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4666', '1167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4667', '1167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4668', '1167', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4669', '1168', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4670', '1168', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4671', '1168', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4672', '1168', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4673', '1169', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4674', '1169', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4675', '1169', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4676', '1169', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4677', '1170', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4678', '1170', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4679', '1170', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4680', '1170', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4681', '1171', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4682', '1171', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4683', '1171', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4684', '1171', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4685', '1172', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4686', '1172', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4687', '1172', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4688', '1172', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4689', '1173', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4690', '1173', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4691', '1173', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4692', '1173', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4693', '1174', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4694', '1174', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4695', '1174', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4696', '1174', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4697', '1175', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4698', '1175', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4699', '1175', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4700', '1175', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4701', '1176', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4702', '1176', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4703', '1176', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4704', '1176', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4705', '1177', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4706', '1177', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4707', '1177', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4708', '1177', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4709', '1178', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4710', '1178', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4711', '1178', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4712', '1178', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4713', '1179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4714', '1179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4715', '1179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4716', '1179', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4717', '1180', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4718', '1180', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4719', '1180', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4720', '1180', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4721', '1181', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4722', '1181', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4723', '1181', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4724', '1181', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4725', '1182', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4726', '1182', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4727', '1182', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4728', '1182', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4729', '1183', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4730', '1183', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4731', '1183', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4732', '1183', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4733', '1184', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4734', '1184', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4735', '1184', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4736', '1184', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4737', '1185', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4738', '1185', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4739', '1185', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4740', '1185', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4741', '1186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4742', '1186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4743', '1186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4744', '1186', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4745', '1187', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4746', '1187', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4747', '1187', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4748', '1187', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4749', '1188', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4750', '1188', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4751', '1188', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4752', '1188', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4753', '1189', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4754', '1189', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4755', '1189', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4756', '1189', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4757', '1190', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4758', '1190', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4759', '1190', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4760', '1190', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4761', '1191', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4762', '1191', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4763', '1191', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4764', '1191', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4765', '1192', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4766', '1192', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4767', '1192', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4768', '1192', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4769', '1193', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4770', '1193', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4771', '1193', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4772', '1193', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4773', '1194', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4774', '1194', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4775', '1194', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4776', '1194', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4777', '1195', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4778', '1195', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4779', '1195', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4780', '1195', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4781', '1196', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4782', '1196', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4783', '1196', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4784', '1196', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4785', '1197', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4786', '1197', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4787', '1197', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4788', '1197', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4789', '1198', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4790', '1198', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4791', '1198', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4792', '1198', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4793', '1199', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4794', '1199', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4795', '1199', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4796', '1199', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4797', '1200', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4798', '1200', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4799', '1200', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4800', '1200', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4801', '1201', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4802', '1201', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4803', '1201', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4804', '1201', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4805', '1202', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4806', '1202', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4807', '1202', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4808', '1202', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4809', '1203', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4810', '1203', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4811', '1203', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4812', '1203', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4813', '1204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4814', '1204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4815', '1204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4816', '1204', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4817', '1205', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4818', '1205', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4819', '1205', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4820', '1205', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4821', '1206', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4822', '1206', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4823', '1206', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4824', '1206', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4825', '1207', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4826', '1207', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4827', '1207', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4828', '1207', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4829', '1208', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4830', '1208', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4831', '1208', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4832', '1208', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4833', '1209', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4834', '1209', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4835', '1209', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4836', '1209', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4837', '1210', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4838', '1210', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4839', '1210', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4840', '1210', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4841', '1211', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4842', '1211', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4843', '1211', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4844', '1211', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4845', '1212', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4846', '1212', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4847', '1212', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4848', '1212', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4849', '1213', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4850', '1213', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4851', '1213', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4852', '1213', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4853', '1214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4854', '1214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4855', '1214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4856', '1214', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4857', '1215', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4858', '1215', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4859', '1215', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4860', '1215', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4861', '1216', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4862', '1216', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4863', '1216', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4864', '1216', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4865', '1217', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4866', '1217', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4867', '1217', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4868', '1217', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4869', '1218', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4870', '1218', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4871', '1218', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4872', '1218', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4873', '1219', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4874', '1219', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4875', '1219', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4876', '1219', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4877', '1220', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4878', '1220', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4879', '1220', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4880', '1220', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4881', '1221', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4882', '1221', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4883', '1221', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4884', '1221', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4885', '1222', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4886', '1222', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4887', '1222', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4888', '1222', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4889', '1223', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4890', '1223', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4891', '1223', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4892', '1223', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4893', '1224', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4894', '1224', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4895', '1224', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4896', '1224', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4897', '1225', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4898', '1225', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4899', '1225', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4900', '1225', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4901', '1226', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4902', '1226', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4903', '1226', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4904', '1226', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4905', '1227', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4906', '1227', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4907', '1227', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4908', '1227', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4909', '1228', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4910', '1228', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4911', '1228', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4912', '1228', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4913', '1229', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4914', '1229', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4915', '1229', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4916', '1229', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4917', '1230', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4918', '1230', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4919', '1230', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4920', '1230', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4921', '1231', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4922', '1231', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4923', '1231', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4924', '1231', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4925', '1232', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4926', '1232', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4927', '1232', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4928', '1232', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4929', '1233', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4930', '1233', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4931', '1233', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4932', '1233', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4933', '1234', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4934', '1234', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4935', '1234', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4936', '1234', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4937', '1235', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4938', '1235', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4939', '1235', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4940', '1235', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4941', '1236', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4942', '1236', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4943', '1236', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4944', '1236', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4945', '1237', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4946', '1237', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4947', '1237', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4948', '1237', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4949', '1238', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4950', '1238', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4951', '1238', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4952', '1238', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4953', '1239', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4954', '1239', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4955', '1239', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4956', '1239', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4957', '1240', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4958', '1240', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4959', '1240', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4960', '1240', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4961', '1241', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4962', '1241', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4963', '1241', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4964', '1241', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4965', '1242', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4966', '1242', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4967', '1242', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4968', '1242', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4969', '1243', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4970', '1243', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4971', '1243', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4972', '1243', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4973', '1244', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4974', '1244', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4975', '1244', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4976', '1244', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4977', '1245', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4978', '1245', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4979', '1245', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4980', '1245', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4981', '1246', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4982', '1246', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4983', '1246', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4984', '1246', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4985', '1247', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4986', '1247', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4987', '1247', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4988', '1247', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4989', '1248', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4990', '1248', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4991', '1248', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4992', '1248', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4993', '1249', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4994', '1249', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4995', '1249', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '4996', '1249', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '4997', '1250', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '4998', '1250', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '4999', '1250', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5000', '1250', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5001', '1251', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5002', '1251', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5003', '1251', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5004', '1251', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5005', '1252', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5006', '1252', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5007', '1252', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5008', '1252', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5009', '1253', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5010', '1253', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5011', '1253', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5012', '1253', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5013', '1254', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5014', '1254', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5015', '1254', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5016', '1254', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5017', '1255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5018', '1255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5019', '1255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5020', '1255', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5021', '1256', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5022', '1256', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5023', '1256', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5024', '1256', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5025', '1257', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5026', '1257', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5027', '1257', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5028', '1257', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5029', '1258', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5030', '1258', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5031', '1258', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5032', '1258', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5033', '1259', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5034', '1259', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5035', '1259', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5036', '1259', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5037', '1260', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5038', '1260', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5039', '1260', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5040', '1260', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5041', '1261', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5042', '1261', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5043', '1261', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5044', '1261', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5045', '1262', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5046', '1262', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5047', '1262', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5048', '1262', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5049', '1263', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5050', '1263', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5051', '1263', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5052', '1263', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5053', '1264', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5054', '1264', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5055', '1264', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5056', '1264', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5057', '1265', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5058', '1265', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5059', '1265', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5060', '1265', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5061', '1266', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5062', '1266', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5063', '1266', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5064', '1266', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5065', '1267', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5066', '1267', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5067', '1267', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5068', '1267', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5069', '1268', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5070', '1268', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5071', '1268', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5072', '1268', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5073', '1269', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5074', '1269', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5075', '1269', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5076', '1269', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5077', '1270', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5078', '1270', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5079', '1270', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5080', '1270', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5081', '1271', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5082', '1271', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5083', '1271', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5084', '1271', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5085', '1272', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5086', '1272', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5087', '1272', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5088', '1272', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5089', '1273', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5090', '1273', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5091', '1273', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5092', '1273', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5093', '1274', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5094', '1274', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5095', '1274', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5096', '1274', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5097', '1275', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5098', '1275', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5099', '1275', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5100', '1275', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5101', '1276', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5102', '1276', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5103', '1276', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5104', '1276', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5105', '1277', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5106', '1277', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5107', '1277', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5108', '1277', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5109', '1278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5110', '1278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5111', '1278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5112', '1278', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5113', '1279', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5114', '1279', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5115', '1279', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5116', '1279', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5117', '1280', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5118', '1280', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5119', '1280', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5120', '1280', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5121', '1281', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5122', '1281', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5123', '1281', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5124', '1281', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5125', '1282', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5126', '1282', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5127', '1282', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5128', '1282', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5129', '1283', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5130', '1283', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5131', '1283', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5132', '1283', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5133', '1284', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5134', '1284', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5135', '1284', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5136', '1284', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5137', '1285', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5138', '1285', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5139', '1285', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5140', '1285', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5141', '1286', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5142', '1286', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5143', '1286', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5144', '1286', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5145', '1287', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5146', '1287', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5147', '1287', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5148', '1287', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5149', '1288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5150', '1288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5151', '1288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5152', '1288', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5153', '1289', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5154', '1289', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5155', '1289', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5156', '1289', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5157', '1290', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5158', '1290', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5159', '1290', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5160', '1290', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5161', '1291', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5162', '1291', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5163', '1291', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5164', '1291', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5165', '1292', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5166', '1292', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5167', '1292', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5168', '1292', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5169', '1293', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5170', '1293', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5171', '1293', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5172', '1293', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5173', '1294', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5174', '1294', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5175', '1294', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5176', '1294', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5177', '1295', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5178', '1295', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5179', '1295', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5180', '1295', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5181', '1296', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5182', '1296', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5183', '1296', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5184', '1296', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5185', '1297', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5186', '1297', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5187', '1297', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5188', '1297', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5189', '1298', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5190', '1298', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5191', '1298', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5192', '1298', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5193', '1299', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5194', '1299', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5195', '1299', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5196', '1299', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5197', '1300', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5198', '1300', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5199', '1300', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5200', '1300', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5201', '1301', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5202', '1301', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5203', '1301', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5204', '1301', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5205', '1302', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5206', '1302', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5207', '1302', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5208', '1302', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5209', '1303', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5210', '1303', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5211', '1303', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5212', '1303', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5213', '1304', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5214', '1304', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5215', '1304', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5216', '1304', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5217', '1305', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5218', '1305', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5219', '1305', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5220', '1305', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5221', '1306', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5222', '1306', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5223', '1306', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5224', '1306', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5225', '1307', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5226', '1307', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5227', '1307', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5228', '1307', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5229', '1308', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5230', '1308', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5231', '1308', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5232', '1308', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5233', '1309', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5234', '1309', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5235', '1309', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5236', '1309', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5237', '1310', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5238', '1310', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5239', '1310', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5240', '1310', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5241', '1311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5242', '1311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5243', '1311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5244', '1311', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5245', '1312', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5246', '1312', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5247', '1312', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5248', '1312', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5249', '1313', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5250', '1313', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5251', '1313', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5252', '1313', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5253', '1314', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5254', '1314', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5255', '1314', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5256', '1314', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5257', '1315', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5258', '1315', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5259', '1315', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5260', '1315', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5261', '1316', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5262', '1316', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5263', '1316', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5264', '1316', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5265', '1317', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5266', '1317', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5267', '1317', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5268', '1317', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5269', '1318', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5270', '1318', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5271', '1318', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5272', '1318', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5273', '1319', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5274', '1319', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5275', '1319', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5276', '1319', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5277', '1320', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5278', '1320', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5279', '1320', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5280', '1320', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5281', '1321', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5282', '1321', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5283', '1321', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5284', '1321', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5285', '1322', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5286', '1322', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5287', '1322', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5288', '1322', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5289', '1323', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5290', '1323', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5291', '1323', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5292', '1323', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5293', '1324', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5294', '1324', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5295', '1324', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5296', '1324', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5297', '1325', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5298', '1325', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5299', '1325', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5300', '1325', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5301', '1326', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5302', '1326', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5303', '1326', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5304', '1326', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5305', '1327', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5306', '1327', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5307', '1327', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5308', '1327', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5309', '1328', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5310', '1328', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5311', '1328', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5312', '1328', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5313', '1329', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5314', '1329', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5315', '1329', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5316', '1329', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5317', '1330', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5318', '1330', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5319', '1330', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5320', '1330', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5321', '1331', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5322', '1331', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5323', '1331', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5324', '1331', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5325', '1332', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5326', '1332', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5327', '1332', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5328', '1332', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5329', '1333', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5330', '1333', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5331', '1333', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5332', '1333', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5333', '1334', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5334', '1334', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5335', '1334', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5336', '1334', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5337', '1335', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5338', '1335', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5339', '1335', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5340', '1335', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5341', '1336', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5342', '1336', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5343', '1336', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5344', '1336', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5345', '1337', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5346', '1337', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5347', '1337', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5348', '1337', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5349', '1338', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5350', '1338', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5351', '1338', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5352', '1338', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5353', '1339', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5354', '1339', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5355', '1339', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5356', '1339', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5357', '1340', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5358', '1340', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5359', '1340', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5360', '1340', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5361', '1341', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5362', '1341', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5363', '1341', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5364', '1341', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5365', '1342', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5366', '1342', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5367', '1342', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5368', '1342', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5369', '1343', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5370', '1343', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5371', '1343', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5372', '1343', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5373', '1344', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5374', '1344', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5375', '1344', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5376', '1344', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5377', '1345', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5378', '1345', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5379', '1345', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5380', '1345', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5381', '1346', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5382', '1346', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5383', '1346', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5384', '1346', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5385', '1347', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5386', '1347', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5387', '1347', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5388', '1347', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5389', '1348', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5390', '1348', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5391', '1348', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5392', '1348', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5393', '1349', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5394', '1349', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5395', '1349', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5396', '1349', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5397', '1350', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5398', '1350', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5399', '1350', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5400', '1350', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5401', '1351', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5402', '1351', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5403', '1351', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5404', '1351', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5405', '1352', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5406', '1352', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5407', '1352', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5408', '1352', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5409', '1353', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5410', '1353', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5411', '1353', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5412', '1353', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5413', '1354', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5414', '1354', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5415', '1354', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5416', '1354', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5417', '1355', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5418', '1355', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5419', '1355', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5420', '1355', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5421', '1356', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5422', '1356', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5423', '1356', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5424', '1356', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5425', '1357', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5426', '1357', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5427', '1357', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5428', '1357', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5429', '1358', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5430', '1358', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5431', '1358', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5432', '1358', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5433', '1359', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5434', '1359', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5435', '1359', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5436', '1359', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5437', '1360', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5438', '1360', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5439', '1360', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5440', '1360', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5441', '1361', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5442', '1361', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5443', '1361', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5444', '1361', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5445', '1362', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5446', '1362', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5447', '1362', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5448', '1362', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5449', '1363', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5450', '1363', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5451', '1363', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5452', '1363', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5453', '1364', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5454', '1364', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5455', '1364', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5456', '1364', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5457', '1365', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5458', '1365', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5459', '1365', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5460', '1365', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5461', '1366', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5462', '1366', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5463', '1366', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5464', '1366', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5465', '1367', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5466', '1367', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5467', '1367', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5468', '1367', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5469', '1368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5470', '1368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5471', '1368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5472', '1368', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5473', '1369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5474', '1369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5475', '1369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5476', '1369', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5477', '1370', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5478', '1370', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5479', '1370', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5480', '1370', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5481', '1371', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5482', '1371', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5483', '1371', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5484', '1371', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5485', '1372', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5486', '1372', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5487', '1372', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5488', '1372', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5489', '1373', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5490', '1373', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5491', '1373', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5492', '1373', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5493', '1374', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5494', '1374', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5495', '1374', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5496', '1374', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5497', '1375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5498', '1375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5499', '1375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5500', '1375', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5501', '1376', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5502', '1376', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5503', '1376', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5504', '1376', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5505', '1377', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5506', '1377', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5507', '1377', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5508', '1377', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5509', '1378', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5510', '1378', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5511', '1378', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5512', '1378', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5513', '1379', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5514', '1379', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5515', '1379', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5516', '1379', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5517', '1380', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5518', '1380', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5519', '1380', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5520', '1380', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5521', '1381', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5522', '1381', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5523', '1381', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5524', '1381', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5525', '1382', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5526', '1382', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5527', '1382', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5528', '1382', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5529', '1383', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5530', '1383', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5531', '1383', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5532', '1383', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5533', '1384', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5534', '1384', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5535', '1384', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5536', '1384', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5537', '1385', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5538', '1385', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5539', '1385', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5540', '1385', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5541', '1386', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5542', '1386', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5543', '1386', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5544', '1386', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5545', '1387', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5546', '1387', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5547', '1387', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5548', '1387', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5549', '1388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5550', '1388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5551', '1388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5552', '1388', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5553', '1389', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5554', '1389', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5555', '1389', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5556', '1389', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5557', '1390', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5558', '1390', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5559', '1390', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5560', '1390', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5561', '1391', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5562', '1391', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5563', '1391', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5564', '1391', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5565', '1392', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5566', '1392', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5567', '1392', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5568', '1392', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5569', '1393', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5570', '1393', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5571', '1393', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5572', '1393', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5573', '1394', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5574', '1394', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5575', '1394', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5576', '1394', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5577', '1395', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5578', '1395', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5579', '1395', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5580', '1395', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5581', '1396', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5582', '1396', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5583', '1396', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5584', '1396', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5585', '1397', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5586', '1397', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5587', '1397', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5588', '1397', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5589', '1398', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5590', '1398', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5591', '1398', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5592', '1398', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5593', '1399', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5594', '1399', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5595', '1399', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5596', '1399', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5597', '1400', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5598', '1400', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5599', '1400', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5600', '1400', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5601', '1401', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5602', '1401', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5603', '1401', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5604', '1401', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5605', '1402', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5606', '1402', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5607', '1402', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5608', '1402', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5609', '1403', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5610', '1403', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5611', '1403', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5612', '1403', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5613', '1404', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5614', '1404', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5615', '1404', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5616', '1404', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5617', '1405', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5618', '1405', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5619', '1405', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5620', '1405', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5621', '1406', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5622', '1406', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5623', '1406', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5624', '1406', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5625', '1407', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5626', '1407', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5627', '1407', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5628', '1407', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5629', '1408', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5630', '1408', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5631', '1408', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5632', '1408', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5633', '1409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5634', '1409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5635', '1409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5636', '1409', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5637', '1410', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5638', '1410', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5639', '1410', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5640', '1410', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5641', '1411', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5642', '1411', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5643', '1411', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5644', '1411', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5645', '1412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5646', '1412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5647', '1412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5648', '1412', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5649', '1413', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5650', '1413', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5651', '1413', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5652', '1413', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5653', '1414', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5654', '1414', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5655', '1414', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5656', '1414', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5657', '1415', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5658', '1415', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5659', '1415', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5660', '1415', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5661', '1416', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5662', '1416', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5663', '1416', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5664', '1416', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5665', '1417', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5666', '1417', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5667', '1417', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5668', '1417', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5669', '1418', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5670', '1418', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5671', '1418', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5672', '1418', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5673', '1419', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5674', '1419', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5675', '1419', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5676', '1419', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5677', '1420', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5678', '1420', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5679', '1420', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5680', '1420', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5681', '1421', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5682', '1421', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5683', '1421', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5684', '1421', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5685', '1422', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5686', '1422', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5687', '1422', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5688', '1422', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5689', '1423', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5690', '1423', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5691', '1423', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5692', '1423', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5693', '1424', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5694', '1424', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5695', '1424', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5696', '1424', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5697', '1425', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5698', '1425', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5699', '1425', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5700', '1425', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5701', '1426', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5702', '1426', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5703', '1426', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5704', '1426', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5705', '1427', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5706', '1427', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5707', '1427', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5708', '1427', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5709', '1428', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5710', '1428', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5711', '1428', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5712', '1428', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5713', '1429', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5714', '1429', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5715', '1429', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5716', '1429', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5717', '1430', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5718', '1430', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5719', '1430', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5720', '1430', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5721', '1431', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5722', '1431', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5723', '1431', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5724', '1431', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5725', '1432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5726', '1432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5727', '1432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5728', '1432', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5729', '1433', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5730', '1433', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5731', '1433', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5732', '1433', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5733', '1434', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5734', '1434', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5735', '1434', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5736', '1434', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5737', '1435', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5738', '1435', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5739', '1435', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5740', '1435', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5741', '1436', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5742', '1436', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5743', '1436', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5744', '1436', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5745', '1437', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5746', '1437', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5747', '1437', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5748', '1437', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5749', '1438', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5750', '1438', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5751', '1438', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5752', '1438', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5753', '1439', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5754', '1439', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5755', '1439', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5756', '1439', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5757', '1440', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5758', '1440', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5759', '1440', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5760', '1440', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5761', '1441', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5762', '1441', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5763', '1441', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5764', '1441', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5765', '1442', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5766', '1442', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5767', '1442', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5768', '1442', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5769', '1443', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5770', '1443', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5771', '1443', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5772', '1443', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5773', '1444', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5774', '1444', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5775', '1444', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5776', '1444', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5777', '1445', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5778', '1445', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5779', '1445', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5780', '1445', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5781', '1446', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5782', '1446', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5783', '1446', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5784', '1446', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5785', '1447', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5786', '1447', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5787', '1447', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5788', '1447', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5789', '1448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5790', '1448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5791', '1448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5792', '1448', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5793', '1449', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5794', '1449', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5795', '1449', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5796', '1449', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5797', '1450', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5798', '1450', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5799', '1450', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5800', '1450', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5801', '1451', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5802', '1451', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5803', '1451', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5804', '1451', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5805', '1452', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5806', '1452', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5807', '1452', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5808', '1452', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5809', '1453', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5810', '1453', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5811', '1453', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5812', '1453', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5813', '1454', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5814', '1454', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5815', '1454', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5816', '1454', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5817', '1455', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5818', '1455', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5819', '1455', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5820', '1455', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5821', '1456', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5822', '1456', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5823', '1456', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5824', '1456', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5825', '1457', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5826', '1457', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5827', '1457', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5828', '1457', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5829', '1458', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5830', '1458', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5831', '1458', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5832', '1458', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5833', '1459', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5834', '1459', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5835', '1459', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5836', '1459', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5837', '1460', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5838', '1460', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5839', '1460', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5840', '1460', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5841', '1461', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5842', '1461', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5843', '1461', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5844', '1461', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5845', '1462', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5846', '1462', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5847', '1462', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5848', '1462', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5849', '1463', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5850', '1463', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5851', '1463', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5852', '1463', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5853', '1464', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5854', '1464', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5855', '1464', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5856', '1464', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5857', '1465', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5858', '1465', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5859', '1465', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5860', '1465', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5861', '1466', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5862', '1466', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5863', '1466', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5864', '1466', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5865', '1467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5866', '1467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5867', '1467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5868', '1467', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5869', '1468', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5870', '1468', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5871', '1468', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5872', '1468', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5873', '1469', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5874', '1469', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5875', '1469', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5876', '1469', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5877', '1470', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5878', '1470', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5879', '1470', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5880', '1470', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5881', '1471', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5882', '1471', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5883', '1471', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5884', '1471', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5885', '1472', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5886', '1472', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5887', '1472', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5888', '1472', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5889', '1473', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5890', '1473', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5891', '1473', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5892', '1473', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5893', '1474', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5894', '1474', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5895', '1474', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5896', '1474', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5897', '1475', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5898', '1475', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5899', '1475', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5900', '1475', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5901', '1476', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5902', '1476', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5903', '1476', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5904', '1476', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5905', '1477', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5906', '1477', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5907', '1477', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5908', '1477', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5909', '1478', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5910', '1478', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5911', '1478', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5912', '1478', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5913', '1479', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5914', '1479', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5915', '1479', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5916', '1479', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5917', '1480', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5918', '1480', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5919', '1480', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5920', '1480', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5921', '1481', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5922', '1481', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5923', '1481', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5924', '1481', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5925', '1482', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5926', '1482', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5927', '1482', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5928', '1482', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5929', '1483', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5930', '1483', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5931', '1483', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5932', '1483', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5933', '1484', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5934', '1484', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5935', '1484', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5936', '1484', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5937', '1485', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5938', '1485', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5939', '1485', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5940', '1485', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5941', '1486', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5942', '1486', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5943', '1486', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5944', '1486', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5945', '1487', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5946', '1487', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5947', '1487', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5948', '1487', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5949', '1488', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5950', '1488', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5951', '1488', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5952', '1488', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5953', '1489', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5954', '1489', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5955', '1489', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5956', '1489', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5957', '1490', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5958', '1490', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5959', '1490', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5960', '1490', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5961', '1491', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5962', '1491', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5963', '1491', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5964', '1491', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5965', '1492', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5966', '1492', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5967', '1492', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5968', '1492', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5969', '1493', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5970', '1493', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5971', '1493', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5972', '1493', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5973', '1494', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5974', '1494', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5975', '1494', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5976', '1494', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5977', '1495', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5978', '1495', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5979', '1495', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5980', '1495', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5981', '1496', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5982', '1496', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5983', '1496', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5984', '1496', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5985', '1497', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5986', '1497', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5987', '1497', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5988', '1497', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5989', '1498', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5990', '1498', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5991', '1498', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5992', '1498', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5993', '1499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5994', '1499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5995', '1499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '5996', '1499', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '5997', '1500', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '5998', '1500', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '5999', '1500', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6000', '1500', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6001', '1501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6002', '1501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6003', '1501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6004', '1501', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6005', '1502', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6006', '1502', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6007', '1502', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6008', '1502', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6009', '1503', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6010', '1503', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6011', '1503', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6012', '1503', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6013', '1504', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6014', '1504', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6015', '1504', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6016', '1504', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6017', '1505', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6018', '1505', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6019', '1505', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6020', '1505', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6021', '1506', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6022', '1506', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6023', '1506', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6024', '1506', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6025', '1507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6026', '1507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6027', '1507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6028', '1507', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6029', '1508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6030', '1508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6031', '1508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6032', '1508', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6033', '1509', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6034', '1509', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6035', '1509', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6036', '1509', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6037', '1510', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6038', '1510', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6039', '1510', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6040', '1510', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6041', '1511', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6042', '1511', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6043', '1511', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6044', '1511', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6045', '1512', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6046', '1512', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6047', '1512', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6048', '1512', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6049', '1513', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6050', '1513', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6051', '1513', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6052', '1513', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6053', '1514', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6054', '1514', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6055', '1514', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6056', '1514', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6057', '1515', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6058', '1515', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6059', '1515', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6060', '1515', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6061', '1516', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6062', '1516', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6063', '1516', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6064', '1516', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6065', '1517', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6066', '1517', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6067', '1517', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6068', '1517', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6069', '1518', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6070', '1518', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6071', '1518', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6072', '1518', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6073', '1519', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6074', '1519', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6075', '1519', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6076', '1519', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6077', '1520', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6078', '1520', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6079', '1520', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6080', '1520', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6081', '1521', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6082', '1521', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6083', '1521', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6084', '1521', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6085', '1522', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6086', '1522', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6087', '1522', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6088', '1522', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6089', '1523', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6090', '1523', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6091', '1523', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6092', '1523', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6093', '1524', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6094', '1524', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6095', '1524', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6096', '1524', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6097', '1525', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6098', '1525', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6099', '1525', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6100', '1525', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6101', '1526', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6102', '1526', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6103', '1526', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6104', '1526', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6105', '1527', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6106', '1527', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6107', '1527', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6108', '1527', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6109', '1528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6110', '1528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6111', '1528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6112', '1528', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6113', '1529', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6114', '1529', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6115', '1529', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6116', '1529', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6117', '1530', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6118', '1530', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6119', '1530', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6120', '1530', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6121', '1531', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6122', '1531', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6123', '1531', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6124', '1531', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6125', '1532', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6126', '1532', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6127', '1532', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6128', '1532', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6129', '1533', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6130', '1533', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6131', '1533', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6132', '1533', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6133', '1534', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6134', '1534', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6135', '1534', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6136', '1534', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6137', '1535', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6138', '1535', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6139', '1535', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6140', '1535', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6141', '1536', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6142', '1536', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6143', '1536', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6144', '1536', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6145', '1537', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6146', '1537', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6147', '1537', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6148', '1537', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6149', '1538', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6150', '1538', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6151', '1538', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6152', '1538', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6153', '1539', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6154', '1539', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6155', '1539', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6156', '1539', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6157', '1540', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6158', '1540', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6159', '1540', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6160', '1540', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6161', '1541', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6162', '1541', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6163', '1541', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6164', '1541', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6165', '1542', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6166', '1542', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6167', '1542', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6168', '1542', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6169', '1543', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6170', '1543', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6171', '1543', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6172', '1543', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6173', '1544', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6174', '1544', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6175', '1544', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6176', '1544', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6177', '1545', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6178', '1545', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6179', '1545', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6180', '1545', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6181', '1546', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6182', '1546', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6183', '1546', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6184', '1546', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6185', '1547', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6186', '1547', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6187', '1547', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6188', '1547', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6189', '1548', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6190', '1548', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6191', '1548', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6192', '1548', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6193', '1549', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6194', '1549', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6195', '1549', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6196', '1549', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6197', '1550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6198', '1550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6199', '1550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6200', '1550', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6201', '1551', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6202', '1551', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6203', '1551', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6204', '1551', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6205', '1552', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6206', '1552', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6207', '1552', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6208', '1552', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6209', '1553', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6210', '1553', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6211', '1553', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6212', '1553', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6213', '1554', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6214', '1554', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6215', '1554', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6216', '1554', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6217', '1555', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6218', '1555', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6219', '1555', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6220', '1555', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6221', '1556', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6222', '1556', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6223', '1556', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6224', '1556', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6225', '1557', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6226', '1557', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6227', '1557', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6228', '1557', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6229', '1558', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6230', '1558', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6231', '1558', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6232', '1558', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6233', '1559', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6234', '1559', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6235', '1559', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6236', '1559', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6237', '1560', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6238', '1560', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6239', '1560', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6240', '1560', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6241', '1561', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6242', '1561', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6243', '1561', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6244', '1561', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6245', '1562', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6246', '1562', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6247', '1562', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6248', '1562', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6249', '1563', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6250', '1563', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6251', '1563', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6252', '1563', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6253', '1564', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6254', '1564', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6255', '1564', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6256', '1564', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6257', '1565', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6258', '1565', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6259', '1565', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6260', '1565', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6261', '1566', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6262', '1566', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6263', '1566', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6264', '1566', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6265', '1567', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6266', '1567', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6267', '1567', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6268', '1567', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6269', '1568', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6270', '1568', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6271', '1568', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6272', '1568', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6273', '1569', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6274', '1569', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6275', '1569', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6276', '1569', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6277', '1570', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6278', '1570', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6279', '1570', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6280', '1570', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6281', '1571', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6282', '1571', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6283', '1571', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6284', '1571', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6285', '1572', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6286', '1572', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6287', '1572', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6288', '1572', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6289', '1573', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6290', '1573', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6291', '1573', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6292', '1573', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6293', '1574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6294', '1574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6295', '1574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6296', '1574', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6297', '1575', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6298', '1575', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6299', '1575', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6300', '1575', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6301', '1576', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6302', '1576', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6303', '1576', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6304', '1576', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6305', '1577', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6306', '1577', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6307', '1577', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6308', '1577', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6309', '1578', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6310', '1578', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6311', '1578', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6312', '1578', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6313', '1579', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6314', '1579', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6315', '1579', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6316', '1579', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6317', '1580', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6318', '1580', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6319', '1580', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6320', '1580', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6321', '1581', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6322', '1581', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6323', '1581', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6324', '1581', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6325', '1582', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6326', '1582', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6327', '1582', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6328', '1582', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6329', '1583', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6330', '1583', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6331', '1583', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6332', '1583', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6333', '1584', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6334', '1584', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6335', '1584', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6336', '1584', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6337', '1585', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6338', '1585', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6339', '1585', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6340', '1585', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6341', '1586', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6342', '1586', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6343', '1586', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6344', '1586', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6345', '1587', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6346', '1587', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6347', '1587', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6348', '1587', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6349', '1588', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6350', '1588', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6351', '1588', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6352', '1588', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6353', '1589', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6354', '1589', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6355', '1589', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6356', '1589', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6357', '1590', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6358', '1590', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6359', '1590', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6360', '1590', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6361', '1591', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6362', '1591', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6363', '1591', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6364', '1591', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6365', '1592', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6366', '1592', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6367', '1592', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6368', '1592', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6369', '1593', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6370', '1593', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6371', '1593', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6372', '1593', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6373', '1594', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6374', '1594', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6375', '1594', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6376', '1594', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6377', '1595', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6378', '1595', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6379', '1595', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6380', '1595', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6381', '1596', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6382', '1596', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6383', '1596', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6384', '1596', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6385', '1597', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6386', '1597', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6387', '1597', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6388', '1597', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6389', '1598', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6390', '1598', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6391', '1598', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6392', '1598', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6393', '1599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6394', '1599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6395', '1599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6396', '1599', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6397', '1600', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6398', '1600', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6399', '1600', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6400', '1600', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6401', '1601', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6402', '1601', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6403', '1601', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6404', '1601', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6405', '1602', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6406', '1602', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6407', '1602', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6408', '1602', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6409', '1603', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6410', '1603', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6411', '1603', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6412', '1603', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6413', '1604', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6414', '1604', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6415', '1604', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6416', '1604', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6417', '1605', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6418', '1605', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6419', '1605', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6420', '1605', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6421', '1606', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6422', '1606', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6423', '1606', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6424', '1606', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6425', '1607', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6426', '1607', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6427', '1607', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6428', '1607', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6429', '1608', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6430', '1608', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6431', '1608', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6432', '1608', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6433', '1609', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6434', '1609', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6435', '1609', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6436', '1609', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6437', '1610', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6438', '1610', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6439', '1610', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6440', '1610', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6441', '1611', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6442', '1611', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6443', '1611', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6444', '1611', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6445', '1612', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6446', '1612', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6447', '1612', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6448', '1612', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6449', '1613', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6450', '1613', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6451', '1613', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6452', '1613', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6453', '1614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6454', '1614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6455', '1614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6456', '1614', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6457', '1615', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6458', '1615', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6459', '1615', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6460', '1615', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6461', '1616', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6462', '1616', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6463', '1616', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6464', '1616', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6465', '1617', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6466', '1617', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6467', '1617', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6468', '1617', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6469', '1618', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6470', '1618', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6471', '1618', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6472', '1618', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6473', '1619', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6474', '1619', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6475', '1619', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6476', '1619', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6477', '1620', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6478', '1620', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6479', '1620', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6480', '1620', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6481', '1621', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6482', '1621', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6483', '1621', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6484', '1621', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6485', '1622', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6486', '1622', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6487', '1622', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6488', '1622', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6489', '1623', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6490', '1623', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6491', '1623', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6492', '1623', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6493', '1624', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6494', '1624', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6495', '1624', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6496', '1624', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6497', '1625', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6498', '1625', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6499', '1625', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6500', '1625', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6501', '1626', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6502', '1626', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6503', '1626', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6504', '1626', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6505', '1627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6506', '1627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6507', '1627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6508', '1627', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6509', '1628', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6510', '1628', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6511', '1628', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6512', '1628', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6513', '1629', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6514', '1629', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6515', '1629', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6516', '1629', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6517', '1630', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6518', '1630', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6519', '1630', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6520', '1630', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6521', '1631', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6522', '1631', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6523', '1631', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6524', '1631', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6525', '1632', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6526', '1632', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6527', '1632', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6528', '1632', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6529', '1633', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6530', '1633', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6531', '1633', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6532', '1633', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6533', '1634', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6534', '1634', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6535', '1634', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6536', '1634', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6537', '1635', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6538', '1635', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6539', '1635', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6540', '1635', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6541', '1636', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6542', '1636', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6543', '1636', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6544', '1636', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6545', '1637', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6546', '1637', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6547', '1637', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6548', '1637', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6549', '1638', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6550', '1638', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6551', '1638', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6552', '1638', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6553', '1639', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6554', '1639', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6555', '1639', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6556', '1639', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6557', '1640', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6558', '1640', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6559', '1640', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6560', '1640', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6561', '1641', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6562', '1641', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6563', '1641', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6564', '1641', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6565', '1642', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6566', '1642', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6567', '1642', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6568', '1642', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6569', '1643', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6570', '1643', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6571', '1643', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6572', '1643', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6573', '1644', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6574', '1644', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6575', '1644', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6576', '1644', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6577', '1645', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6578', '1645', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6579', '1645', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6580', '1645', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6581', '1646', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6582', '1646', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6583', '1646', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6584', '1646', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6585', '1647', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6586', '1647', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6587', '1647', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6588', '1647', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6589', '1648', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6590', '1648', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6591', '1648', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6592', '1648', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6593', '1649', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6594', '1649', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6595', '1649', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6596', '1649', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6597', '1650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6598', '1650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6599', '1650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6600', '1650', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6601', '1651', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6602', '1651', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6603', '1651', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6604', '1651', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6605', '1652', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6606', '1652', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6607', '1652', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6608', '1652', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6609', '1653', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6610', '1653', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6611', '1653', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6612', '1653', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6613', '1654', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6614', '1654', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6615', '1654', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6616', '1654', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6617', '1655', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6618', '1655', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6619', '1655', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6620', '1655', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6621', '1656', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6622', '1656', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6623', '1656', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6624', '1656', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6625', '1657', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6626', '1657', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6627', '1657', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6628', '1657', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6629', '1658', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6630', '1658', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6631', '1658', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6632', '1658', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6633', '1659', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6634', '1659', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6635', '1659', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6636', '1659', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6637', '1660', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6638', '1660', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6639', '1660', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6640', '1660', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6641', '1661', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6642', '1661', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6643', '1661', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6644', '1661', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6645', '1662', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6646', '1662', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6647', '1662', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6648', '1662', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6649', '1663', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6650', '1663', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6651', '1663', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6652', '1663', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6653', '1664', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6654', '1664', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6655', '1664', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6656', '1664', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6657', '1665', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6658', '1665', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6659', '1665', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6660', '1665', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6661', '1666', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6662', '1666', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6663', '1666', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6664', '1666', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6665', '1667', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6666', '1667', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6667', '1667', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6668', '1667', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6669', '1668', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6670', '1668', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6671', '1668', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6672', '1668', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6673', '1669', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6674', '1669', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6675', '1669', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6676', '1669', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6677', '1670', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6678', '1670', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6679', '1670', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6680', '1670', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6681', '1671', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6682', '1671', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6683', '1671', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6684', '1671', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6685', '1672', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6686', '1672', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6687', '1672', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6688', '1672', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6689', '1673', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6690', '1673', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6691', '1673', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6692', '1673', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6693', '1674', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6694', '1674', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6695', '1674', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6696', '1674', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6697', '1675', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6698', '1675', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6699', '1675', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6700', '1675', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6701', '1676', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6702', '1676', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6703', '1676', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6704', '1676', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6705', '1677', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6706', '1677', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6707', '1677', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6708', '1677', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6709', '1678', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6710', '1678', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6711', '1678', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6712', '1678', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6713', '1679', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6714', '1679', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6715', '1679', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6716', '1679', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6717', '1680', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6718', '1680', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6719', '1680', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6720', '1680', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6721', '1681', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6722', '1681', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6723', '1681', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6724', '1681', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6725', '1682', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6726', '1682', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6727', '1682', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6728', '1682', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6729', '1683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6730', '1683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6731', '1683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6732', '1683', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6733', '1684', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6734', '1684', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6735', '1684', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6736', '1684', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6737', '1685', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6738', '1685', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6739', '1685', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6740', '1685', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6741', '1686', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6742', '1686', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6743', '1686', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6744', '1686', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6745', '1687', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6746', '1687', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6747', '1687', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6748', '1687', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6749', '1688', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6750', '1688', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6751', '1688', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6752', '1688', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6753', '1689', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6754', '1689', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6755', '1689', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6756', '1689', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6757', '1690', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6758', '1690', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6759', '1690', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6760', '1690', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6761', '1691', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6762', '1691', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6763', '1691', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6764', '1691', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6765', '1692', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6766', '1692', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6767', '1692', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6768', '1692', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6769', '1693', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6770', '1693', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6771', '1693', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6772', '1693', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6773', '1694', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6774', '1694', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6775', '1694', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6776', '1694', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6777', '1695', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6778', '1695', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6779', '1695', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6780', '1695', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6781', '1696', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6782', '1696', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6783', '1696', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6784', '1696', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6785', '1697', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6786', '1697', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6787', '1697', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6788', '1697', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6789', '1698', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6790', '1698', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6791', '1698', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6792', '1698', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6793', '1699', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6794', '1699', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6795', '1699', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6796', '1699', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6797', '1700', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6798', '1700', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6799', '1700', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6800', '1700', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6801', '1701', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6802', '1701', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6803', '1701', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6804', '1701', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6805', '1702', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6806', '1702', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6807', '1702', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6808', '1702', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6809', '1703', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6810', '1703', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6811', '1703', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6812', '1703', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6813', '1704', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6814', '1704', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6815', '1704', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6816', '1704', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6817', '1705', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6818', '1705', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6819', '1705', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6820', '1705', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6821', '1706', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6822', '1706', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6823', '1706', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6824', '1706', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6825', '1707', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6826', '1707', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6827', '1707', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6828', '1707', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6829', '1708', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6830', '1708', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6831', '1708', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6832', '1708', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6833', '1709', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6834', '1709', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6835', '1709', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6836', '1709', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6837', '1710', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6838', '1710', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6839', '1710', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6840', '1710', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6841', '1711', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6842', '1711', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6843', '1711', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6844', '1711', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6845', '1712', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6846', '1712', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6847', '1712', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6848', '1712', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6849', '1713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6850', '1713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6851', '1713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6852', '1713', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6853', '1714', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6854', '1714', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6855', '1714', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6856', '1714', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6857', '1715', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6858', '1715', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6859', '1715', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6860', '1715', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6861', '1716', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6862', '1716', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6863', '1716', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6864', '1716', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6865', '1717', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6866', '1717', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6867', '1717', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6868', '1717', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6869', '1718', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6870', '1718', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6871', '1718', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6872', '1718', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6873', '1719', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6874', '1719', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6875', '1719', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6876', '1719', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6877', '1720', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6878', '1720', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6879', '1720', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6880', '1720', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6881', '1721', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6882', '1721', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6883', '1721', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6884', '1721', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6885', '1722', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6886', '1722', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6887', '1722', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6888', '1722', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6889', '1723', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6890', '1723', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6891', '1723', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6892', '1723', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6893', '1724', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6894', '1724', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6895', '1724', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6896', '1724', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6897', '1725', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6898', '1725', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6899', '1725', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6900', '1725', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6901', '1726', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6902', '1726', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6903', '1726', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6904', '1726', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6905', '1727', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6906', '1727', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6907', '1727', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6908', '1727', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6909', '1728', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6910', '1728', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6911', '1728', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6912', '1728', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6913', '1729', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6914', '1729', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6915', '1729', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6916', '1729', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6917', '1730', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6918', '1730', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6919', '1730', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6920', '1730', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6921', '1731', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6922', '1731', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6923', '1731', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6924', '1731', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6925', '1732', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6926', '1732', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6927', '1732', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6928', '1732', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6929', '1733', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6930', '1733', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6931', '1733', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6932', '1733', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6933', '1734', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6934', '1734', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6935', '1734', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6936', '1734', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6937', '1735', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6938', '1735', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6939', '1735', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6940', '1735', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6941', '1736', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6942', '1736', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6943', '1736', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6944', '1736', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6945', '1737', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6946', '1737', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6947', '1737', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6948', '1737', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6949', '1738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6950', '1738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6951', '1738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6952', '1738', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6953', '1739', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6954', '1739', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6955', '1739', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6956', '1739', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6957', '1740', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6958', '1740', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6959', '1740', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6960', '1740', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6961', '1741', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6962', '1741', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6963', '1741', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6964', '1741', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6965', '1742', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6966', '1742', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6967', '1742', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6968', '1742', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6969', '1743', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6970', '1743', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6971', '1743', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6972', '1743', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6973', '1744', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6974', '1744', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6975', '1744', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6976', '1744', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6977', '1745', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6978', '1745', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6979', '1745', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6980', '1745', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6981', '1746', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6982', '1746', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6983', '1746', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6984', '1746', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6985', '1747', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6986', '1747', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6987', '1747', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6988', '1747', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6989', '1748', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6990', '1748', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6991', '1748', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6992', '1748', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6993', '1749', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6994', '1749', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6995', '1749', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '6996', '1749', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '6997', '1750', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '6998', '1750', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '6999', '1750', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7000', '1750', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7001', '1751', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7002', '1751', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7003', '1751', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7004', '1751', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7005', '1752', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7006', '1752', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7007', '1752', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7008', '1752', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7009', '1753', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7010', '1753', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7011', '1753', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7012', '1753', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7013', '1754', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7014', '1754', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7015', '1754', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7016', '1754', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7017', '1755', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7018', '1755', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7019', '1755', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7020', '1755', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7021', '1756', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7022', '1756', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7023', '1756', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7024', '1756', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7025', '1757', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7026', '1757', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7027', '1757', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7028', '1757', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7029', '1758', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7030', '1758', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7031', '1758', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7032', '1758', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7033', '1759', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7034', '1759', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7035', '1759', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7036', '1759', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7037', '1760', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7038', '1760', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7039', '1760', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7040', '1760', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7041', '1761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7042', '1761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7043', '1761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7044', '1761', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7045', '1762', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7046', '1762', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7047', '1762', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7048', '1762', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7049', '1763', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7050', '1763', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7051', '1763', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7052', '1763', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7053', '1764', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7054', '1764', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7055', '1764', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7056', '1764', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7057', '1765', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7058', '1765', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7059', '1765', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7060', '1765', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7061', '1766', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7062', '1766', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7063', '1766', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7064', '1766', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7065', '1767', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7066', '1767', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7067', '1767', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7068', '1767', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7069', '1768', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7070', '1768', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7071', '1768', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7072', '1768', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7073', '1769', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7074', '1769', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7075', '1769', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7076', '1769', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7077', '1770', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7078', '1770', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7079', '1770', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7080', '1770', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7081', '1771', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7082', '1771', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7083', '1771', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7084', '1771', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7085', '1772', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7086', '1772', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7087', '1772', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7088', '1772', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7089', '1773', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7090', '1773', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7091', '1773', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7092', '1773', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7093', '1774', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7094', '1774', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7095', '1774', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7096', '1774', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7097', '1775', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7098', '1775', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7099', '1775', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7100', '1775', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7101', '1776', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7102', '1776', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7103', '1776', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7104', '1776', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7105', '1777', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7106', '1777', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7107', '1777', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7108', '1777', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7109', '1778', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7110', '1778', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7111', '1778', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7112', '1778', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7113', '1779', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7114', '1779', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7115', '1779', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7116', '1779', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7117', '1780', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7118', '1780', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7119', '1780', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7120', '1780', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7121', '1781', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7122', '1781', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7123', '1781', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7124', '1781', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7125', '1782', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7126', '1782', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7127', '1782', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7128', '1782', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7129', '1783', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7130', '1783', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7131', '1783', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7132', '1783', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7133', '1784', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7134', '1784', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7135', '1784', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7136', '1784', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7137', '1785', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7138', '1785', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7139', '1785', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7140', '1785', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7141', '1786', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7142', '1786', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7143', '1786', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7144', '1786', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7145', '1787', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7146', '1787', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7147', '1787', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7148', '1787', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7149', '1788', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7150', '1788', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7151', '1788', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7152', '1788', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7153', '1789', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7154', '1789', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7155', '1789', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7156', '1789', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7157', '1790', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7158', '1790', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7159', '1790', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7160', '1790', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7161', '1791', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7162', '1791', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7163', '1791', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7164', '1791', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7165', '1792', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7166', '1792', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7167', '1792', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7168', '1792', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7169', '1793', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7170', '1793', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7171', '1793', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7172', '1793', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7173', '1794', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7174', '1794', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7175', '1794', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7176', '1794', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7177', '1795', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7178', '1795', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7179', '1795', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7180', '1795', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7181', '1796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7182', '1796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7183', '1796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7184', '1796', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7185', '1797', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7186', '1797', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7187', '1797', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7188', '1797', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7189', '1798', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7190', '1798', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7191', '1798', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7192', '1798', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7193', '1799', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7194', '1799', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7195', '1799', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7196', '1799', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7197', '1800', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7198', '1800', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7199', '1800', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7200', '1800', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7201', '1801', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7202', '1801', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7203', '1801', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7204', '1801', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7205', '1802', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7206', '1802', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7207', '1802', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7208', '1802', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7209', '1803', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7210', '1803', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7211', '1803', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7212', '1803', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7213', '1804', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7214', '1804', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7215', '1804', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7216', '1804', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7217', '1805', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7218', '1805', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7219', '1805', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7220', '1805', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7221', '1806', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7222', '1806', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7223', '1806', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7224', '1806', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7225', '1807', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7226', '1807', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7227', '1807', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7228', '1807', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7229', '1808', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7230', '1808', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7231', '1808', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7232', '1808', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7233', '1809', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7234', '1809', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7235', '1809', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7236', '1809', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7237', '1810', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7238', '1810', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7239', '1810', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7240', '1810', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7241', '1811', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7242', '1811', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7243', '1811', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7244', '1811', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7245', '1812', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7246', '1812', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7247', '1812', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7248', '1812', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7249', '1813', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7250', '1813', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7251', '1813', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7252', '1813', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7253', '1814', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7254', '1814', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7255', '1814', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7256', '1814', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7257', '1815', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7258', '1815', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7259', '1815', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7260', '1815', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7261', '1816', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7262', '1816', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7263', '1816', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7264', '1816', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7265', '1817', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7266', '1817', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7267', '1817', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7268', '1817', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7269', '1818', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7270', '1818', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7271', '1818', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7272', '1818', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7273', '1819', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7274', '1819', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7275', '1819', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7276', '1819', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7277', '1820', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7278', '1820', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7279', '1820', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7280', '1820', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7281', '1821', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7282', '1821', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7283', '1821', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7284', '1821', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7285', '1822', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7286', '1822', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7287', '1822', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7288', '1822', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7289', '1823', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7290', '1823', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7291', '1823', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7292', '1823', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7293', '1824', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7294', '1824', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7295', '1824', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7296', '1824', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7297', '1825', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7298', '1825', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7299', '1825', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7300', '1825', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7301', '1826', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7302', '1826', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7303', '1826', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7304', '1826', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7305', '1827', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7306', '1827', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7307', '1827', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7308', '1827', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7309', '1828', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7310', '1828', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7311', '1828', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7312', '1828', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7313', '1829', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7314', '1829', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7315', '1829', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7316', '1829', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7317', '1830', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7318', '1830', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7319', '1830', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7320', '1830', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7321', '1831', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7322', '1831', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7323', '1831', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7324', '1831', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7325', '1832', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7326', '1832', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7327', '1832', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7328', '1832', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7329', '1833', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7330', '1833', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7331', '1833', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7332', '1833', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7333', '1834', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7334', '1834', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7335', '1834', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7336', '1834', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7337', '1835', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7338', '1835', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7339', '1835', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7340', '1835', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7341', '1836', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7342', '1836', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7343', '1836', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7344', '1836', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7345', '1837', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7346', '1837', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7347', '1837', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7348', '1837', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7349', '1838', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7350', '1838', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7351', '1838', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7352', '1838', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7353', '1839', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7354', '1839', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7355', '1839', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7356', '1839', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7357', '1840', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7358', '1840', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7359', '1840', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7360', '1840', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7361', '1841', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7362', '1841', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7363', '1841', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7364', '1841', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7365', '1842', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7366', '1842', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7367', '1842', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7368', '1842', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7369', '1843', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7370', '1843', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7371', '1843', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7372', '1843', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7373', '1844', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7374', '1844', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7375', '1844', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7376', '1844', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7377', '1845', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7378', '1845', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7379', '1845', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7380', '1845', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7381', '1846', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7382', '1846', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7383', '1846', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7384', '1846', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7385', '1847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7386', '1847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7387', '1847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7388', '1847', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7389', '1848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7390', '1848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7391', '1848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7392', '1848', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7393', '1849', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7394', '1849', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7395', '1849', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7396', '1849', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7397', '1850', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7398', '1850', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7399', '1850', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7400', '1850', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7401', '1851', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7402', '1851', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7403', '1851', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7404', '1851', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7405', '1852', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7406', '1852', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7407', '1852', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7408', '1852', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7409', '1853', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7410', '1853', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7411', '1853', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7412', '1853', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7413', '1854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7414', '1854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7415', '1854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7416', '1854', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7417', '1855', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7418', '1855', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7419', '1855', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7420', '1855', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7421', '1856', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7422', '1856', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7423', '1856', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7424', '1856', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7425', '1857', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7426', '1857', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7427', '1857', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7428', '1857', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7429', '1858', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7430', '1858', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7431', '1858', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7432', '1858', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7433', '1859', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7434', '1859', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7435', '1859', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7436', '1859', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7437', '1860', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7438', '1860', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7439', '1860', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7440', '1860', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7441', '1861', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7442', '1861', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7443', '1861', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7444', '1861', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7445', '1862', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7446', '1862', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7447', '1862', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7448', '1862', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7449', '1863', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7450', '1863', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7451', '1863', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7452', '1863', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7453', '1864', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7454', '1864', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7455', '1864', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7456', '1864', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7457', '1865', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7458', '1865', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7459', '1865', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7460', '1865', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7461', '1866', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7462', '1866', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7463', '1866', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7464', '1866', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7465', '1867', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7466', '1867', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7467', '1867', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7468', '1867', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7469', '1868', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7470', '1868', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7471', '1868', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7472', '1868', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7473', '1869', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7474', '1869', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7475', '1869', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7476', '1869', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7477', '1870', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7478', '1870', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7479', '1870', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7480', '1870', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7481', '1871', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7482', '1871', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7483', '1871', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7484', '1871', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7485', '1872', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7486', '1872', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7487', '1872', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7488', '1872', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7489', '1873', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7490', '1873', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7491', '1873', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7492', '1873', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7493', '1874', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7494', '1874', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7495', '1874', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7496', '1874', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7497', '1875', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7498', '1875', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7499', '1875', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7500', '1875', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7501', '1876', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7502', '1876', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7503', '1876', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7504', '1876', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7505', '1877', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7506', '1877', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7507', '1877', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7508', '1877', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7509', '1878', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7510', '1878', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7511', '1878', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7512', '1878', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7513', '1879', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7514', '1879', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7515', '1879', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7516', '1879', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7517', '1880', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7518', '1880', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7519', '1880', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7520', '1880', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7521', '1881', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7522', '1881', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7523', '1881', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7524', '1881', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7525', '1882', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7526', '1882', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7527', '1882', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7528', '1882', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7529', '1883', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7530', '1883', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7531', '1883', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7532', '1883', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7533', '1884', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7534', '1884', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7535', '1884', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7536', '1884', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7537', '1885', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7538', '1885', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7539', '1885', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7540', '1885', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7541', '1886', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7542', '1886', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7543', '1886', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7544', '1886', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7545', '1887', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7546', '1887', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7547', '1887', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7548', '1887', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7549', '1888', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7550', '1888', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7551', '1888', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7552', '1888', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7553', '1889', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7554', '1889', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7555', '1889', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7556', '1889', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7557', '1890', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7558', '1890', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7559', '1890', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7560', '1890', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7561', '1891', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7562', '1891', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7563', '1891', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7564', '1891', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7565', '1892', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7566', '1892', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7567', '1892', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7568', '1892', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7569', '1893', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7570', '1893', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7571', '1893', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7572', '1893', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7573', '1894', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7574', '1894', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7575', '1894', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7576', '1894', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7577', '1895', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7578', '1895', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7579', '1895', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7580', '1895', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7581', '1896', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7582', '1896', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7583', '1896', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7584', '1896', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7585', '1897', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7586', '1897', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7587', '1897', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7588', '1897', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7589', '1898', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7590', '1898', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7591', '1898', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7592', '1898', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7593', '1899', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7594', '1899', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7595', '1899', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7596', '1899', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7597', '1900', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7598', '1900', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7599', '1900', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7600', '1900', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7601', '1901', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7602', '1901', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7603', '1901', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7604', '1901', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7605', '1902', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7606', '1902', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7607', '1902', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7608', '1902', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7609', '1903', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7610', '1903', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7611', '1903', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7612', '1903', '20' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7613', '1904', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7614', '1904', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7615', '1904', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7616', '1904', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7617', '1905', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7618', '1905', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7619', '1905', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7620', '1905', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7621', '1906', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7622', '1906', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7623', '1906', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7624', '1906', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7625', '1907', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7626', '1907', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7627', '1907', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7628', '1907', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7629', '1908', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7630', '1908', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7631', '1908', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7632', '1908', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7633', '1909', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7634', '1909', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7635', '1909', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7636', '1909', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7637', '1910', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7638', '1910', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7639', '1910', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7640', '1910', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7641', '1911', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7642', '1911', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7643', '1911', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7644', '1911', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7645', '1912', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7646', '1912', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7647', '1912', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7648', '1912', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7649', '1913', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7650', '1913', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7651', '1913', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7652', '1913', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7653', '1914', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7654', '1914', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7655', '1914', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7656', '1914', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7657', '1915', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7658', '1915', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7659', '1915', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7660', '1915', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7661', '1916', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7662', '1916', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7663', '1916', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7664', '1916', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7665', '1917', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7666', '1917', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7667', '1917', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7668', '1917', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7669', '1918', '14' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7670', '1918', '14' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7671', '1918', '14' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7672', '1918', '14' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7673', '1919', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7674', '1919', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7675', '1919', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7676', '1919', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7677', '1920', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7678', '1920', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7679', '1920', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7680', '1920', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7681', '1921', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7682', '1921', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7683', '1921', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7684', '1921', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7685', '1922', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7686', '1922', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7687', '1922', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7688', '1922', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7689', '1923', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7690', '1923', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7691', '1923', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7692', '1923', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7693', '1924', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7694', '1924', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7695', '1924', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7696', '1924', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7697', '1925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7698', '1925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7699', '1925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7700', '1925', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7701', '1926', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7702', '1926', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7703', '1926', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7704', '1926', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7705', '1927', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7706', '1927', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7707', '1927', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7708', '1927', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7709', '1928', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7710', '1928', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7711', '1928', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7712', '1928', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7713', '1929', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7714', '1929', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7715', '1929', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7716', '1929', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7717', '1930', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7718', '1930', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7719', '1930', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7720', '1930', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7721', '1931', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7722', '1931', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7723', '1931', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7724', '1931', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7725', '1932', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7726', '1932', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7727', '1932', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7728', '1932', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7729', '1933', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7730', '1933', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7731', '1933', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7732', '1933', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7733', '1934', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7734', '1934', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7735', '1934', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7736', '1934', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7737', '1935', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7738', '1935', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7739', '1935', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7740', '1935', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7741', '1936', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7742', '1936', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7743', '1936', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7744', '1936', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7745', '1937', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7746', '1937', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7747', '1937', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7748', '1937', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7749', '1938', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7750', '1938', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7751', '1938', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7752', '1938', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7753', '1939', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7754', '1939', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7755', '1939', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7756', '1939', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7757', '1940', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7758', '1940', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7759', '1940', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7760', '1940', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7761', '1941', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7762', '1941', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7763', '1941', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7764', '1941', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7765', '1942', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7766', '1942', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7767', '1942', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7768', '1942', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7769', '1943', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7770', '1943', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7771', '1943', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7772', '1943', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7773', '1944', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7774', '1944', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7775', '1944', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7776', '1944', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7777', '1945', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7778', '1945', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7779', '1945', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7780', '1945', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7781', '1946', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7782', '1946', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7783', '1946', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7784', '1946', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7785', '1947', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7786', '1947', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7787', '1947', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7788', '1947', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7789', '1948', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7790', '1948', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7791', '1948', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7792', '1948', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7793', '1949', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7794', '1949', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7795', '1949', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7796', '1949', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7797', '1950', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7798', '1950', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7799', '1950', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7800', '1950', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7801', '1951', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7802', '1951', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7803', '1951', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7804', '1951', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7805', '1952', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7806', '1952', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7807', '1952', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7808', '1952', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7809', '1953', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7810', '1953', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7811', '1953', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7812', '1953', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7813', '1954', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7814', '1954', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7815', '1954', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7816', '1954', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7817', '1955', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7818', '1955', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7819', '1955', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7820', '1955', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7821', '1956', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7822', '1956', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7823', '1956', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7824', '1956', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7825', '1957', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7826', '1957', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7827', '1957', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7828', '1957', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7829', '1958', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7830', '1958', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7831', '1958', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7832', '1958', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7833', '1959', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7834', '1959', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7835', '1959', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7836', '1959', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7837', '1960', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7838', '1960', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7839', '1960', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7840', '1960', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7841', '1961', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7842', '1961', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7843', '1961', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7844', '1961', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7845', '1962', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7846', '1962', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7847', '1962', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7848', '1962', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7849', '1963', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7850', '1963', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7851', '1963', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7852', '1963', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7853', '1964', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7854', '1964', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7855', '1964', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7856', '1964', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7857', '1965', '18' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7858', '1965', '18' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7859', '1965', '18' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7860', '1965', '18' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7861', '1966', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7862', '1966', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7863', '1966', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7864', '1966', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7865', '1967', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7866', '1967', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7867', '1967', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7868', '1967', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7869', '1968', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7870', '1968', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7871', '1968', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7872', '1968', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7873', '1969', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7874', '1969', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7875', '1969', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7876', '1969', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7877', '1970', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7878', '1970', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7879', '1970', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7880', '1970', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7881', '1971', '1' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7882', '1971', '1' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7883', '1971', '1' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7884', '1971', '1' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7885', '1972', '4' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7886', '1972', '4' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7887', '1972', '4' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7888', '1972', '4' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7889', '1973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7890', '1973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7891', '1973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7892', '1973', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7893', '1974', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7894', '1974', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7895', '1974', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7896', '1974', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7897', '1975', '9' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7898', '1975', '9' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7899', '1975', '9' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7900', '1975', '9' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7901', '1976', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7902', '1976', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7903', '1976', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7904', '1976', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7905', '1977', '10' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7906', '1977', '10' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7907', '1977', '10' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7908', '1977', '10' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7909', '1978', '17' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7910', '1978', '17' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7911', '1978', '17' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7912', '1978', '17' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7913', '1979', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7914', '1979', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7915', '1979', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7916', '1979', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7917', '1980', '2' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7918', '1980', '2' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7919', '1980', '2' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7920', '1980', '2' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7921', '1981', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7922', '1981', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7923', '1981', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7924', '1981', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7925', '1982', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7926', '1982', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7927', '1982', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7928', '1982', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7929', '1983', '3' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7930', '1983', '3' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7931', '1983', '3' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7932', '1983', '3' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7933', '1984', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7934', '1984', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7935', '1984', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7936', '1984', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7937', '1985', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7938', '1985', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7939', '1985', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7940', '1985', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7941', '1986', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7942', '1986', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7943', '1986', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7944', '1986', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7945', '1987', '13' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7946', '1987', '13' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7947', '1987', '13' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7948', '1987', '13' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7949', '1988', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7950', '1988', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7951', '1988', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7952', '1988', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7953', '1989', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7954', '1989', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7955', '1989', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7956', '1989', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7957', '1990', '11' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7958', '1990', '11' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7959', '1990', '11' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7960', '1990', '11' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7961', '1991', '8' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7962', '1991', '8' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7963', '1991', '8' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7964', '1991', '8' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7965', '1992', '12' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7966', '1992', '12' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7967', '1992', '12' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7968', '1992', '12' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7969', '1993', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7970', '1993', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7971', '1993', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7972', '1993', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7973', '1994', '16' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7974', '1994', '16' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7975', '1994', '16' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7976', '1994', '16' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7977', '1995', '6' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7978', '1995', '6' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7979', '1995', '6' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7980', '1995', '6' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7981', '1996', '15' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7982', '1996', '15' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7983', '1996', '15' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7984', '1996', '15' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7985', '1997', '19' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7986', '1997', '19' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7987', '1997', '19' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7988', '1997', '19' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7989', '1998', '7' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7990', '1998', '7' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7991', '1998', '7' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7992', '1998', '7' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7993', '1999', '5' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7994', '1999', '5' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7995', '1999', '5' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '7996', '1999', '5' );
+INSERT INTO Component
+VALUES ( 's', 'GPU', '7997', '2000', '20' );
+INSERT INTO Component
+VALUES ( 's', 'CPU', '7998', '2000', '20' );
+INSERT INTO Component
+VALUES ( 's', 'RAM', '7999', '2000', '20' );
+INSERT INTO Component
+VALUES ( 's', 'HardDisk', '8000', '2000', '20' );
+
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8001', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8002', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8003', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8004', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8005', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8006', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8007', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8008', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8009', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8010', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8011', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8012', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8013', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8014', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8015', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8016', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8017', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8018', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8019', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8020', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8021', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8022', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8023', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8024', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8025', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8026', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8027', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8028', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8029', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8030', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8031', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8032', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8033', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8034', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8035', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8036', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8037', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8038', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8039', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8040', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8041', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8042', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8043', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8044', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8045', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8046', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8047', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8048', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8049', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8050', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8051', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8052', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8053', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8054', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8055', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8056', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8057', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8058', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8059', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8060', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8061', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8062', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8063', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8064', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8065', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8066', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8067', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8068', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8069', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8070', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8071', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8072', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8073', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8074', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8075', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8076', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8077', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8078', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8079', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8080', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8081', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8082', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8083', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8084', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8085', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8086', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8087', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8088', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8089', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8090', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8091', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8092', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8093', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8094', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8095', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8096', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8097', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8098', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8099', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8100', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8101', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8102', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8103', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8104', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8105', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8106', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8107', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8108', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8109', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8110', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8111', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8112', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8113', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8114', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8115', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8116', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8117', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8118', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8119', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8120', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8121', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8122', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8123', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8124', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8125', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8126', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8127', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8128', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8129', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8130', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8131', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8132', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8133', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8134', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8135', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8136', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8137', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8138', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8139', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8140', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8141', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8142', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8143', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8144', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8145', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8146', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8147', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8148', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8149', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8150', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8151', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8152', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8153', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8154', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8155', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8156', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8157', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8158', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8159', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8160', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8161', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8162', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8163', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8164', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8165', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8166', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8167', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8168', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8169', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8170', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8171', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8172', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8173', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8174', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8175', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8176', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8177', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8178', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8179', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8180', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8181', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8182', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8183', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8184', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8185', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8186', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8187', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8188', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8189', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8190', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8191', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8192', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8193', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8194', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8195', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8196', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8197', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8198', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8199', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8200', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8201', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8202', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8203', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8204', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8205', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8206', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8207', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8208', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8209', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8210', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8211', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8212', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8213', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8214', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8215', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8216', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8217', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8218', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8219', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8220', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8221', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8222', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8223', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8224', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8225', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8226', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8227', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8228', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8229', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8230', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8231', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8232', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8233', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8234', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8235', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8236', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8237', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8238', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8239', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8240', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8241', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8242', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8243', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8244', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8245', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8246', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8247', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8248', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8249', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8250', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8251', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8252', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8253', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8254', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8255', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8256', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8257', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8258', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8259', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8260', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8261', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8262', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8263', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8264', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8265', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8266', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8267', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8268', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8269', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8270', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8271', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8272', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8273', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8274', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8275', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8276', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8277', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8278', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8279', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8280', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8281', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8282', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8283', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8284', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8285', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8286', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8287', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8288', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8289', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8290', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8291', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8292', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8293', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8294', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8295', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8296', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8297', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8298', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8299', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8300', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8301', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8302', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8303', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8304', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8305', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8306', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8307', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8308', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8309', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8310', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8311', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8312', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8313', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8314', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8315', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8316', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8317', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8318', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8319', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8320', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8321', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8322', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8323', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8324', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8325', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8326', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8327', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8328', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8329', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8330', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8331', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8332', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8333', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8334', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8335', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8336', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8337', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8338', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8339', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8340', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8341', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8342', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8343', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8344', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8345', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8346', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8347', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8348', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8349', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8350', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8351', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8352', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8353', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8354', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8355', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8356', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8357', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8358', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8359', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8360', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8361', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8362', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8363', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8364', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8365', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8366', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8367', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8368', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8369', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8370', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8371', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8372', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8373', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8374', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8375', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8376', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8377', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8378', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8379', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8380', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8381', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8382', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8383', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8384', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8385', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8386', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8387', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8388', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8389', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8390', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8391', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8392', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8393', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8394', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8395', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8396', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8397', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8398', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8399', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8400', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8401', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8402', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8403', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8404', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8405', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8406', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8407', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8408', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8409', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8410', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8411', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8412', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8413', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8414', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8415', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8416', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8417', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8418', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8419', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8420', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8421', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8422', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8423', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8424', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8425', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8426', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8427', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8428', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8429', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8430', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8431', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8432', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8433', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8434', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8435', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8436', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8437', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8438', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8439', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8440', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8441', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8442', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8443', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8444', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8445', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8446', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8447', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8448', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8449', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8450', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8451', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8452', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8453', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8454', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8455', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8456', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8457', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8458', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8459', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8460', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8461', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8462', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8463', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8464', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8465', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8466', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8467', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8468', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8469', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8470', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8471', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8472', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8473', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8474', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8475', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8476', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8477', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8478', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8479', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8480', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8481', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8482', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8483', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8484', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8485', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8486', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8487', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8488', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8489', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8490', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8491', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8492', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8493', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8494', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8495', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8496', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8497', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8498', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8499', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8500', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8501', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8502', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8503', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8504', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8505', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8506', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8507', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8508', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8509', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8510', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8511', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8512', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8513', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8514', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8515', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8516', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8517', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8518', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8519', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8520', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8521', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8522', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8523', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8524', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8525', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8526', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8527', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8528', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8529', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8530', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8531', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8532', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8533', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8534', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8535', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8536', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8537', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8538', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8539', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8540', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8541', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8542', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8543', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8544', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8545', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8546', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8547', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8548', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8549', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8550', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8551', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8552', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8553', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8554', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8555', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8556', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8557', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8558', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8559', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8560', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8561', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8562', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8563', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8564', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8565', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8566', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8567', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8568', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8569', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8570', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8571', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8572', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8573', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8574', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8575', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8576', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8577', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8578', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8579', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8580', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8581', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8582', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8583', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8584', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8585', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8586', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8587', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8588', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8589', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8590', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8591', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8592', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8593', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8594', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8595', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8596', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8597', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8598', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8599', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8600', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8601', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8602', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8603', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8604', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8605', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8606', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8607', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8608', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8609', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8610', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8611', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8612', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8613', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8614', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8615', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8616', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8617', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8618', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8619', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8620', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8621', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8622', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8623', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8624', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8625', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8626', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8627', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8628', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8629', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8630', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8631', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8632', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8633', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8634', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8635', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8636', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8637', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8638', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8639', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8640', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8641', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8642', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8643', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8644', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8645', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8646', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8647', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8648', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8649', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8650', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8651', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8652', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8653', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8654', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8655', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8656', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8657', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8658', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8659', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8660', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8661', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8662', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8663', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8664', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8665', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8666', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8667', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8668', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8669', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8670', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8671', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8672', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8673', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8674', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8675', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8676', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8677', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8678', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8679', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8680', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8681', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8682', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8683', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8684', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8685', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8686', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8687', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8688', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8689', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8690', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8691', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8692', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8693', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8694', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8695', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8696', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8697', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8698', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8699', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8700', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8701', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8702', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8703', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8704', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8705', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8706', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8707', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8708', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8709', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8710', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8711', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8712', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8713', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8714', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8715', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8716', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8717', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8718', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8719', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8720', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8721', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8722', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8723', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8724', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8725', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8726', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8727', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8728', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8729', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8730', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8731', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8732', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8733', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8734', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8735', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8736', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8737', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8738', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8739', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8740', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8741', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8742', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8743', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8744', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8745', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8746', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8747', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8748', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8749', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8750', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8751', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8752', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8753', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8754', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8755', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8756', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8757', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8758', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8759', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8760', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8761', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8762', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8763', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8764', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8765', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8766', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8767', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8768', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8769', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8770', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8771', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8772', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8773', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8774', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8775', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8776', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8777', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8778', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8779', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8780', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8781', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8782', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8783', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8784', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8785', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8786', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8787', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8788', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8789', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8790', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8791', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8792', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8793', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8794', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8795', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8796', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8797', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8798', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8799', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8800', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8801', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8802', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8803', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8804', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8805', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8806', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8807', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8808', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8809', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8810', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8811', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8812', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8813', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8814', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8815', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8816', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8817', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8818', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8819', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8820', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8821', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8822', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8823', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8824', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8825', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8826', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8827', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8828', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8829', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8830', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8831', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8832', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8833', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8834', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8835', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8836', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8837', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8838', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8839', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8840', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8841', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8842', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8843', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8844', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8845', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8846', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8847', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8848', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8849', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8850', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8851', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8852', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8853', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8854', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8855', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8856', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8857', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8858', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8859', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8860', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8861', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8862', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8863', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8864', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8865', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8866', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8867', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8868', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8869', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8870', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8871', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8872', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8873', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8874', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8875', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8876', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8877', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8878', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8879', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8880', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8881', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8882', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8883', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8884', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8885', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8886', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8887', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8888', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8889', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8890', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8891', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8892', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8893', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8894', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8895', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8896', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8897', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8898', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8899', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8900', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8901', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8902', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8903', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8904', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8905', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8906', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8907', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8908', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8909', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8910', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8911', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8912', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8913', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8914', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8915', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8916', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8917', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8918', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8919', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8920', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8921', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8922', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8923', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8924', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8925', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8926', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8927', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8928', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8929', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8930', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8931', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8932', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8933', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8934', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8935', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8936', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8937', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8938', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8939', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8940', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8941', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8942', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8943', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8944', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8945', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8946', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8947', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8948', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8949', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8950', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8951', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8952', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8953', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8954', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8955', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8956', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8957', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8958', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8959', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8960', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8961', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8962', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8963', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8964', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8965', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8966', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8967', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8968', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8969', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8970', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8971', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8972', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8973', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8974', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8975', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8976', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8977', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8978', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8979', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8980', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8981', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8982', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8983', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8984', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8985', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8986', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8987', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8988', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8989', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8990', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8991', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8992', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8993', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8994', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '8995', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8996', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '8997', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '8998', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '8999', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9000', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9001', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9002', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9003', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9004', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9005', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9006', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9007', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9008', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9009', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9010', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9011', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9012', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9013', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9014', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9015', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9016', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9017', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9018', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9019', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9020', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9021', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9022', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9023', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9024', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9025', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9026', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9027', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9028', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9029', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9030', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9031', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9032', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9033', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9034', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9035', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9036', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9037', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9038', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9039', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9040', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9041', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9042', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9043', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9044', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9045', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9046', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9047', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9048', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9049', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9050', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9051', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9052', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9053', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9054', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9055', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9056', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9057', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9058', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9059', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9060', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9061', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9062', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9063', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9064', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9065', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9066', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9067', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9068', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9069', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9070', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9071', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9072', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9073', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9074', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9075', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9076', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9077', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9078', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9079', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9080', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9081', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9082', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9083', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9084', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9085', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9086', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9087', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9088', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9089', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9090', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9091', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9092', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9093', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9094', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9095', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9096', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9097', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9098', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9099', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9100', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9101', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9102', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9103', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9104', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9105', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9106', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9107', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9108', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9109', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9110', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9111', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9112', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9113', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9114', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9115', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9116', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9117', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9118', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9119', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9120', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9121', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9122', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9123', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9124', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9125', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9126', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9127', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9128', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9129', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9130', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9131', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9132', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9133', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9134', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9135', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9136', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9137', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9138', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9139', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9140', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9141', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9142', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9143', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9144', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9145', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9146', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9147', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9148', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9149', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9150', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9151', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9152', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9153', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9154', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9155', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9156', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9157', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9158', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9159', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9160', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9161', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9162', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9163', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9164', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9165', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9166', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9167', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9168', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9169', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9170', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9171', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9172', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9173', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9174', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9175', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9176', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9177', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9178', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9179', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9180', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9181', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9182', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9183', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9184', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9185', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9186', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9187', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9188', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9189', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9190', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9191', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9192', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9193', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9194', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9195', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9196', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9197', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9198', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9199', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9200', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9201', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9202', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9203', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9204', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9205', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9206', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9207', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9208', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9209', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9210', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9211', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9212', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9213', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9214', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9215', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9216', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9217', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9218', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9219', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9220', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9221', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9222', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9223', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9224', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9225', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9226', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9227', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9228', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9229', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9230', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9231', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9232', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9233', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9234', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9235', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9236', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9237', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9238', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9239', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9240', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9241', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9242', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9243', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9244', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9245', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9246', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9247', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9248', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9249', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9250', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9251', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9252', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9253', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9254', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9255', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9256', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9257', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9258', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9259', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9260', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9261', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9262', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9263', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9264', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9265', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9266', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9267', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9268', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9269', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9270', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9271', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9272', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9273', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9274', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9275', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9276', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9277', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9278', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9279', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9280', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9281', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9282', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9283', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9284', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9285', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9286', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9287', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9288', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9289', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9290', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9291', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9292', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9293', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9294', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9295', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9296', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9297', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9298', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9299', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9300', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9301', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9302', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9303', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9304', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9305', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9306', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9307', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9308', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9309', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9310', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9311', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9312', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9313', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9314', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9315', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9316', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9317', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9318', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9319', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9320', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9321', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9322', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9323', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9324', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9325', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9326', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9327', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9328', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9329', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9330', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9331', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9332', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9333', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9334', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9335', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9336', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9337', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9338', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9339', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9340', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9341', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9342', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9343', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9344', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9345', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9346', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9347', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9348', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9349', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9350', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9351', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9352', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9353', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9354', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9355', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9356', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9357', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9358', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9359', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9360', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9361', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9362', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9363', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9364', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9365', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9366', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9367', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9368', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9369', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9370', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9371', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9372', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9373', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9374', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9375', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9376', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9377', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9378', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9379', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9380', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9381', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9382', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9383', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9384', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9385', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9386', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9387', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9388', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9389', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9390', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9391', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9392', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9393', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9394', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9395', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9396', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9397', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9398', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9399', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9400', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9401', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9402', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9403', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9404', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9405', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9406', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9407', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9408', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9409', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9410', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9411', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9412', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9413', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9414', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9415', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9416', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9417', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9418', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9419', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9420', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9421', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9422', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9423', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9424', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9425', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9426', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9427', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9428', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9429', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9430', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9431', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9432', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9433', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9434', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9435', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9436', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9437', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9438', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9439', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9440', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9441', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9442', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9443', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9444', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9445', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9446', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9447', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9448', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9449', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9450', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9451', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9452', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9453', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9454', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9455', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9456', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9457', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9458', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9459', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9460', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9461', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9462', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9463', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9464', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9465', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9466', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9467', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9468', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9469', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9470', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9471', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9472', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9473', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9474', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9475', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9476', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9477', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9478', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9479', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9480', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9481', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9482', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9483', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9484', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9485', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9486', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9487', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9488', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9489', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9490', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9491', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9492', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9493', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9494', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9495', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9496', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9497', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9498', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9499', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9500', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9501', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9502', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9503', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9504', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9505', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9506', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9507', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9508', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9509', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9510', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9511', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9512', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9513', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9514', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9515', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9516', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9517', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9518', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9519', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9520', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9521', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9522', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9523', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9524', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9525', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9526', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9527', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9528', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9529', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9530', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9531', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9532', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9533', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9534', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9535', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9536', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9537', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9538', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9539', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9540', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9541', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9542', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9543', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9544', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9545', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9546', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9547', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9548', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9549', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9550', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9551', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9552', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9553', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9554', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9555', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9556', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9557', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9558', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9559', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9560', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9561', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9562', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9563', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9564', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9565', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9566', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9567', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9568', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9569', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9570', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9571', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9572', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9573', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9574', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9575', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9576', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9577', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9578', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9579', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9580', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9581', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9582', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9583', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9584', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9585', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9586', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9587', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9588', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9589', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9590', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9591', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9592', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9593', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9594', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9595', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9596', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9597', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9598', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9599', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9600', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9601', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9602', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9603', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9604', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9605', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9606', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9607', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9608', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9609', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9610', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9611', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9612', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9613', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9614', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9615', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9616', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9617', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9618', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9619', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9620', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9621', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9622', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9623', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9624', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9625', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9626', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9627', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9628', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9629', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9630', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9631', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9632', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9633', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9634', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9635', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9636', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9637', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9638', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9639', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9640', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9641', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9642', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9643', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9644', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9645', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9646', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9647', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9648', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9649', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9650', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9651', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9652', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9653', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9654', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9655', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9656', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9657', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9658', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9659', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9660', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9661', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9662', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9663', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9664', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9665', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9666', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9667', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9668', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9669', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9670', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9671', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9672', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9673', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9674', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9675', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9676', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9677', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9678', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9679', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9680', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9681', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9682', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9683', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9684', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9685', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9686', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9687', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9688', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9689', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9690', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9691', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9692', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9693', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9694', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9695', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9696', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9697', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9698', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9699', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9700', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9701', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9702', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9703', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9704', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9705', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9706', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9707', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9708', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9709', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9710', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9711', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9712', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9713', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9714', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9715', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9716', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9717', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9718', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9719', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9720', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9721', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9722', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9723', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9724', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9725', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9726', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9727', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9728', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9729', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9730', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9731', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9732', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9733', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9734', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9735', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9736', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9737', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9738', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9739', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9740', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9741', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9742', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9743', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9744', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9745', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9746', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9747', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9748', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9749', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9750', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9751', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9752', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9753', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9754', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9755', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9756', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9757', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9758', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9759', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9760', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9761', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9762', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9763', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9764', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9765', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9766', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9767', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9768', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9769', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9770', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9771', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9772', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9773', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9774', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9775', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9776', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9777', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9778', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9779', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9780', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9781', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9782', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9783', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9784', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9785', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9786', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9787', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9788', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9789', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9790', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9791', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9792', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9793', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9794', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9795', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9796', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9797', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9798', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9799', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9800', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9801', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9802', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9803', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9804', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9805', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9806', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9807', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9808', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9809', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9810', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9811', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9812', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9813', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9814', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9815', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9816', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9817', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9818', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9819', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9820', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9821', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9822', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9823', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9824', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9825', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9826', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9827', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9828', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9829', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9830', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9831', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9832', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9833', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9834', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9835', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9836', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9837', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9838', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9839', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9840', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9841', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9842', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9843', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9844', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9845', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9846', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9847', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9848', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9849', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9850', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9851', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9852', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9853', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9854', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9855', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9856', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9857', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9858', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9859', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9860', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9861', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9862', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9863', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9864', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9865', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9866', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9867', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9868', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9869', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9870', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9871', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9872', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9873', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9874', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9875', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9876', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9877', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9878', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9879', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9880', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9881', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9882', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9883', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9884', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9885', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9886', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9887', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9888', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9889', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9890', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9891', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9892', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9893', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9894', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9895', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9896', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9897', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9898', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9899', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9900', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9901', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9902', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9903', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9904', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9905', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9906', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9907', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9908', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9909', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9910', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9911', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9912', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9913', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9914', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9915', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9916', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9917', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9918', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9919', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9920', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9921', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9922', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9923', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9924', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9925', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9926', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9927', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9928', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9929', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9930', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9931', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9932', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9933', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9934', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9935', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9936', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9937', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9938', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9939', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9940', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9941', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9942', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9943', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9944', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9945', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9946', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9947', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9948', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9949', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9950', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9951', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9952', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9953', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9954', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9955', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9956', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9957', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9958', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9959', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9960', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9961', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9962', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9963', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9964', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9965', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9966', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9967', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9968', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9969', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9970', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9971', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9972', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9973', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9974', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9975', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9976', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9977', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9978', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9979', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9980', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9981', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9982', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9983', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9984', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9985', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9986', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9987', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9988', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9989', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9990', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9991', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9992', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9993', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9994', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '9995', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9996', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '9997', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '9998', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '9999', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10000', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10001', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10002', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10003', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10004', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10005', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10006', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10007', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10008', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10009', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10010', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10011', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10012', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10013', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10014', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10015', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10016', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10017', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10018', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10019', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10020', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10021', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10022', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10023', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10024', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10025', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10026', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10027', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10028', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10029', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10030', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10031', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10032', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10033', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10034', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10035', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10036', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10037', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10038', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10039', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10040', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10041', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10042', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10043', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10044', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10045', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10046', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10047', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10048', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10049', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10050', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10051', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10052', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10053', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10054', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10055', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10056', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10057', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10058', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10059', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10060', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10061', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10062', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10063', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10064', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10065', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10066', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10067', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10068', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10069', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10070', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10071', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10072', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10073', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10074', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10075', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10076', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10077', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10078', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10079', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10080', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10081', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10082', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10083', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10084', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10085', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10086', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10087', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10088', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10089', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10090', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10091', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10092', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10093', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10094', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10095', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10096', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10097', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10098', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10099', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10100', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10101', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10102', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10103', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10104', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10105', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10106', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10107', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10108', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10109', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10110', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10111', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10112', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10113', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10114', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10115', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10116', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10117', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10118', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10119', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10120', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10121', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10122', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10123', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10124', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10125', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10126', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10127', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10128', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10129', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10130', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10131', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10132', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10133', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10134', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10135', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10136', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10137', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10138', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10139', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10140', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10141', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10142', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10143', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10144', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10145', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10146', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10147', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10148', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10149', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10150', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10151', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10152', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10153', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10154', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10155', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10156', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10157', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10158', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10159', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10160', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10161', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10162', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10163', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10164', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10165', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10166', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10167', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10168', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10169', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10170', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10171', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10172', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10173', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10174', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10175', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10176', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10177', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10178', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10179', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10180', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10181', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10182', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10183', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10184', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10185', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10186', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10187', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10188', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10189', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10190', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10191', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10192', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10193', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10194', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10195', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10196', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10197', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10198', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10199', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10200', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10201', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10202', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10203', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10204', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10205', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10206', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10207', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10208', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10209', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10210', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10211', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10212', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10213', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10214', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10215', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10216', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10217', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10218', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10219', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10220', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10221', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10222', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10223', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10224', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10225', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10226', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10227', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10228', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10229', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10230', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10231', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10232', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10233', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10234', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10235', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10236', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10237', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10238', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10239', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10240', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10241', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10242', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10243', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10244', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10245', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10246', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10247', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10248', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10249', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10250', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10251', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10252', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10253', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10254', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10255', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10256', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10257', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10258', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10259', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10260', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10261', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10262', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10263', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10264', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10265', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10266', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10267', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10268', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10269', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10270', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10271', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10272', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10273', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10274', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10275', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10276', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10277', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10278', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10279', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10280', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10281', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10282', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10283', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10284', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10285', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10286', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10287', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10288', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10289', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10290', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10291', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10292', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10293', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10294', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10295', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10296', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10297', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10298', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10299', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10300', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10301', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10302', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10303', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10304', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10305', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10306', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10307', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10308', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10309', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10310', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10311', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10312', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10313', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10314', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10315', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10316', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10317', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10318', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10319', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10320', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10321', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10322', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10323', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10324', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10325', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10326', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10327', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10328', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10329', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10330', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10331', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10332', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10333', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10334', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10335', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10336', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10337', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10338', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10339', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10340', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10341', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10342', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10343', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10344', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10345', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10346', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10347', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10348', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10349', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10350', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10351', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10352', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10353', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10354', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10355', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10356', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10357', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10358', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10359', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10360', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10361', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10362', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10363', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10364', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10365', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10366', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10367', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10368', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10369', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10370', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10371', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10372', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10373', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10374', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10375', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10376', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10377', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10378', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10379', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10380', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10381', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10382', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10383', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10384', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10385', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10386', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10387', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10388', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10389', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10390', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10391', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10392', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10393', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10394', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10395', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10396', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10397', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10398', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10399', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10400', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10401', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10402', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10403', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10404', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10405', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10406', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10407', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10408', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10409', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10410', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10411', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10412', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10413', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10414', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10415', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10416', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10417', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10418', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10419', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10420', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10421', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10422', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10423', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10424', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10425', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10426', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10427', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10428', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10429', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10430', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10431', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10432', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10433', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10434', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10435', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10436', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10437', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10438', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10439', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10440', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10441', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10442', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10443', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10444', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10445', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10446', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10447', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10448', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10449', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10450', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10451', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10452', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10453', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10454', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10455', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10456', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10457', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10458', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10459', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10460', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10461', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10462', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10463', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10464', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10465', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10466', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10467', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10468', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10469', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10470', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10471', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10472', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10473', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10474', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10475', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10476', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10477', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10478', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10479', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10480', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10481', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10482', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10483', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10484', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10485', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10486', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10487', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10488', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10489', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10490', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10491', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10492', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10493', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10494', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10495', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10496', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10497', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10498', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10499', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10500', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10501', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10502', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10503', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10504', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10505', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10506', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10507', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10508', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10509', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10510', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10511', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10512', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10513', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10514', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10515', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10516', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10517', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10518', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10519', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10520', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10521', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10522', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10523', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10524', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10525', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10526', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10527', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10528', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10529', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10530', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10531', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10532', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10533', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10534', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10535', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10536', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10537', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10538', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10539', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10540', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10541', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10542', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10543', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10544', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10545', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10546', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10547', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10548', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10549', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10550', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10551', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10552', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10553', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10554', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10555', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10556', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10557', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10558', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10559', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10560', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10561', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10562', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10563', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10564', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10565', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10566', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10567', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10568', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10569', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10570', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10571', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10572', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10573', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10574', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10575', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10576', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10577', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10578', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10579', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10580', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10581', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10582', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10583', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10584', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10585', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10586', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10587', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10588', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10589', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10590', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10591', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10592', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10593', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10594', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10595', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10596', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10597', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10598', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10599', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10600', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10601', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10602', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10603', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10604', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10605', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10606', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10607', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10608', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10609', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10610', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10611', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10612', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10613', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10614', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10615', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10616', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10617', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10618', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10619', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10620', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10621', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10622', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10623', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10624', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10625', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10626', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10627', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10628', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10629', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10630', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10631', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10632', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10633', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10634', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10635', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10636', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10637', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10638', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10639', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10640', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10641', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10642', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10643', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10644', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10645', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10646', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10647', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10648', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10649', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10650', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10651', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10652', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10653', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10654', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10655', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10656', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10657', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10658', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10659', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10660', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10661', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10662', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10663', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10664', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10665', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10666', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10667', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10668', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10669', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10670', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10671', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10672', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10673', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10674', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10675', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10676', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10677', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10678', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10679', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10680', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10681', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10682', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10683', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10684', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10685', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10686', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10687', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10688', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10689', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10690', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10691', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10692', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10693', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10694', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10695', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10696', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10697', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10698', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10699', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10700', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10701', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10702', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10703', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10704', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10705', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10706', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10707', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10708', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10709', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10710', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10711', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10712', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10713', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10714', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10715', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10716', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10717', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10718', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10719', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10720', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10721', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10722', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10723', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10724', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10725', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10726', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10727', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10728', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10729', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10730', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10731', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10732', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10733', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10734', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10735', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10736', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10737', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10738', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10739', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10740', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10741', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10742', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10743', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10744', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10745', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10746', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10747', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10748', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10749', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10750', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10751', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10752', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10753', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10754', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10755', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10756', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10757', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10758', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10759', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10760', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10761', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10762', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10763', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10764', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10765', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10766', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10767', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10768', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10769', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10770', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10771', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10772', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10773', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10774', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10775', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10776', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10777', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10778', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10779', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10780', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10781', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10782', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10783', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10784', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10785', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10786', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10787', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10788', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10789', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10790', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10791', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10792', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10793', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10794', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10795', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10796', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10797', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10798', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10799', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10800', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10801', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10802', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10803', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10804', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10805', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10806', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10807', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10808', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10809', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10810', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10811', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10812', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10813', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10814', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10815', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10816', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10817', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10818', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10819', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10820', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10821', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10822', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10823', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10824', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10825', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10826', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10827', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10828', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10829', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10830', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10831', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10832', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10833', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10834', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10835', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10836', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10837', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10838', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10839', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10840', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10841', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10842', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10843', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10844', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10845', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10846', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10847', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10848', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10849', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10850', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10851', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10852', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10853', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10854', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10855', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10856', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10857', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10858', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10859', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10860', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10861', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10862', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10863', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10864', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10865', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10866', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10867', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10868', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10869', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10870', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10871', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10872', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10873', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10874', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10875', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10876', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10877', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10878', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10879', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10880', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10881', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10882', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10883', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10884', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10885', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10886', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10887', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10888', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10889', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10890', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10891', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10892', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10893', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10894', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10895', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10896', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10897', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10898', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10899', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10900', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10901', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10902', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10903', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10904', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10905', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10906', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10907', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10908', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10909', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10910', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10911', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10912', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10913', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10914', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10915', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10916', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10917', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10918', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10919', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10920', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10921', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10922', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10923', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10924', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10925', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10926', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10927', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10928', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10929', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10930', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10931', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10932', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10933', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10934', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10935', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10936', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10937', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10938', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10939', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10940', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10941', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10942', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10943', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10944', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10945', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10946', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10947', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10948', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10949', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10950', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10951', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10952', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10953', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10954', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10955', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10956', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10957', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10958', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10959', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10960', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10961', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10962', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10963', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10964', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10965', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10966', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10967', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10968', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10969', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10970', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10971', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10972', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10973', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10974', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10975', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10976', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10977', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10978', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10979', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10980', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10981', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10982', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10983', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10984', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10985', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10986', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10987', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10988', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10989', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10990', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10991', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10992', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10993', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10994', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10995', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '10996', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '10997', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '10998', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '10999', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11000', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11001', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11002', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11003', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11004', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11005', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11006', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11007', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11008', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11009', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11010', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11011', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11012', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11013', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11014', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11015', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11016', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11017', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11018', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11019', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11020', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11021', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11022', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11023', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11024', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11025', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11026', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11027', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11028', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11029', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11030', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11031', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11032', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11033', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11034', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11035', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11036', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11037', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11038', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11039', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11040', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11041', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11042', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11043', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11044', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11045', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11046', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11047', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11048', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11049', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11050', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11051', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11052', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11053', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11054', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11055', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11056', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11057', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11058', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11059', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11060', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11061', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11062', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11063', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11064', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11065', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11066', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11067', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11068', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11069', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11070', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11071', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11072', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11073', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11074', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11075', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11076', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11077', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11078', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11079', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11080', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11081', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11082', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11083', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11084', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11085', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11086', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11087', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11088', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11089', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11090', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11091', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11092', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11093', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11094', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11095', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11096', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11097', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11098', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11099', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11100', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11101', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11102', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11103', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11104', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11105', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11106', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11107', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11108', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11109', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11110', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11111', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11112', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11113', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11114', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11115', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11116', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11117', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11118', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11119', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11120', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11121', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11122', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11123', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11124', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11125', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11126', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11127', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11128', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11129', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11130', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11131', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11132', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11133', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11134', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11135', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11136', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11137', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11138', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11139', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11140', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11141', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11142', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11143', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11144', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11145', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11146', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11147', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11148', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11149', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11150', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11151', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11152', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11153', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11154', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11155', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11156', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11157', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11158', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11159', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11160', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11161', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11162', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11163', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11164', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11165', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11166', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11167', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11168', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11169', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11170', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11171', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11172', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11173', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11174', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11175', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11176', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11177', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11178', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11179', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11180', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11181', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11182', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11183', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11184', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11185', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11186', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11187', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11188', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11189', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11190', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11191', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11192', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11193', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11194', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11195', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11196', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11197', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11198', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11199', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11200', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11201', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11202', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11203', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11204', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11205', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11206', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11207', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11208', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11209', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11210', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11211', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11212', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11213', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11214', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11215', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11216', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11217', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11218', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11219', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11220', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11221', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11222', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11223', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11224', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11225', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11226', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11227', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11228', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11229', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11230', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11231', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11232', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11233', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11234', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11235', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11236', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11237', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11238', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11239', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11240', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11241', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11242', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11243', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11244', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11245', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11246', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11247', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11248', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11249', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11250', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11251', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11252', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11253', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11254', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11255', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11256', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11257', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11258', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11259', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11260', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11261', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11262', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11263', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11264', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11265', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11266', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11267', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11268', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11269', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11270', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11271', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11272', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11273', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11274', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11275', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11276', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11277', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11278', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11279', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11280', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11281', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11282', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11283', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11284', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11285', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11286', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11287', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11288', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11289', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11290', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11291', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11292', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11293', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11294', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11295', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11296', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11297', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11298', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11299', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11300', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11301', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11302', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11303', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11304', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11305', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11306', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11307', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11308', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11309', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11310', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11311', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11312', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11313', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11314', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11315', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11316', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11317', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11318', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11319', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11320', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11321', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11322', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11323', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11324', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11325', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11326', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11327', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11328', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11329', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11330', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11331', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11332', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11333', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11334', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11335', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11336', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11337', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11338', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11339', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11340', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11341', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11342', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11343', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11344', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11345', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11346', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11347', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11348', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11349', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11350', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11351', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11352', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11353', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11354', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11355', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11356', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11357', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11358', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11359', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11360', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11361', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11362', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11363', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11364', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11365', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11366', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11367', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11368', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11369', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11370', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11371', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11372', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11373', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11374', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11375', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11376', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11377', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11378', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11379', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11380', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11381', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11382', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11383', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11384', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11385', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11386', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11387', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11388', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11389', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11390', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11391', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11392', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11393', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11394', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11395', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11396', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11397', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11398', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11399', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11400', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11401', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11402', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11403', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11404', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11405', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11406', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11407', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11408', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11409', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11410', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11411', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11412', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11413', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11414', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11415', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11416', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11417', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11418', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11419', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11420', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11421', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11422', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11423', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11424', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11425', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11426', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11427', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11428', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11429', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11430', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11431', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11432', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11433', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11434', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11435', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11436', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11437', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11438', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11439', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11440', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11441', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11442', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11443', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11444', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11445', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11446', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11447', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11448', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11449', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11450', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11451', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11452', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11453', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11454', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11455', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11456', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11457', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11458', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11459', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11460', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11461', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11462', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11463', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11464', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11465', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11466', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11467', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11468', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11469', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11470', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11471', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11472', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11473', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11474', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11475', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11476', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11477', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11478', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11479', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11480', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11481', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11482', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11483', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11484', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11485', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11486', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11487', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11488', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11489', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11490', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11491', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11492', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11493', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11494', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11495', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11496', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11497', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11498', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11499', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11500', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11501', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11502', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11503', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11504', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11505', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11506', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11507', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11508', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11509', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11510', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11511', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11512', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11513', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11514', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11515', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11516', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11517', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11518', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11519', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11520', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11521', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11522', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11523', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11524', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11525', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11526', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11527', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11528', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11529', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11530', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11531', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11532', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11533', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11534', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11535', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11536', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11537', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11538', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11539', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11540', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11541', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11542', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11543', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11544', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11545', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11546', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11547', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11548', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11549', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11550', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11551', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11552', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11553', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11554', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11555', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11556', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11557', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11558', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11559', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11560', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11561', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11562', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11563', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11564', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11565', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11566', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11567', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11568', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11569', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11570', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11571', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11572', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11573', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11574', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11575', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11576', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11577', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11578', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11579', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11580', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11581', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11582', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11583', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11584', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11585', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11586', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11587', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11588', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11589', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11590', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11591', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11592', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11593', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11594', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11595', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11596', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11597', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11598', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11599', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11600', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11601', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11602', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11603', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11604', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11605', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11606', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11607', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11608', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11609', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11610', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11611', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11612', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11613', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11614', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11615', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11616', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11617', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11618', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11619', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11620', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11621', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11622', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11623', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11624', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11625', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11626', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11627', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11628', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11629', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11630', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11631', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11632', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11633', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11634', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11635', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11636', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11637', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11638', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11639', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11640', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11641', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11642', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11643', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11644', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11645', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11646', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11647', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11648', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11649', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11650', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11651', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11652', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11653', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11654', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11655', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11656', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11657', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11658', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11659', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11660', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11661', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11662', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11663', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11664', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11665', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11666', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11667', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11668', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11669', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11670', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11671', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11672', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11673', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11674', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11675', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11676', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11677', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11678', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11679', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11680', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11681', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11682', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11683', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11684', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11685', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11686', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11687', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11688', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11689', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11690', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11691', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11692', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11693', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11694', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11695', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11696', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11697', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11698', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11699', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11700', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11701', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11702', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11703', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11704', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11705', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11706', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11707', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11708', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11709', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11710', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11711', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11712', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11713', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11714', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11715', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11716', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11717', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11718', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11719', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11720', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11721', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11722', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11723', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11724', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11725', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11726', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11727', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11728', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11729', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11730', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11731', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11732', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11733', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11734', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11735', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11736', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11737', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11738', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11739', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11740', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11741', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11742', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11743', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11744', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11745', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11746', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11747', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11748', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11749', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11750', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11751', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11752', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11753', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11754', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11755', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11756', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11757', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11758', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11759', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11760', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11761', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11762', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11763', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11764', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11765', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11766', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11767', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11768', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11769', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11770', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11771', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11772', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11773', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11774', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11775', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11776', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11777', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11778', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11779', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11780', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11781', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11782', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11783', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11784', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11785', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11786', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11787', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11788', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11789', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11790', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11791', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11792', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11793', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11794', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11795', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11796', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11797', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11798', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11799', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11800', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11801', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11802', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11803', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11804', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11805', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11806', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11807', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11808', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11809', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11810', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11811', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11812', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11813', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11814', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11815', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11816', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11817', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11818', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11819', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11820', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11821', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11822', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11823', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11824', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11825', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11826', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11827', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11828', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11829', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11830', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11831', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11832', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11833', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11834', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11835', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11836', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11837', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11838', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11839', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11840', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11841', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11842', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11843', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11844', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11845', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11846', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11847', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11848', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11849', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11850', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11851', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11852', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11853', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11854', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11855', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11856', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11857', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11858', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11859', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11860', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11861', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11862', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11863', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11864', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11865', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11866', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11867', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11868', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11869', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11870', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11871', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11872', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11873', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11874', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11875', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11876', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11877', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11878', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11879', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11880', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11881', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11882', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11883', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11884', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11885', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11886', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11887', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11888', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11889', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11890', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11891', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11892', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11893', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11894', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11895', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11896', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11897', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11898', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11899', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11900', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11901', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11902', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11903', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11904', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11905', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11906', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11907', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11908', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11909', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11910', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11911', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11912', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11913', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11914', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11915', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11916', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11917', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11918', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11919', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11920', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11921', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11922', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11923', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11924', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11925', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11926', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11927', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11928', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11929', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11930', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11931', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11932', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11933', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11934', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11935', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11936', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11937', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11938', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11939', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11940', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11941', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11942', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11943', null, '5' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11944', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11945', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11946', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11947', null, '18' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11948', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11949', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11950', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11951', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11952', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11953', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11954', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11955', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11956', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11957', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11958', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11959', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11960', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11961', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11962', null, '2' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11963', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11964', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11965', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11966', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11967', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11968', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11969', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11970', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11971', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11972', null, '15' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11973', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11974', null, '12' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11975', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11976', null, '13' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11977', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11978', null, '14' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11979', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11980', null, '9' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11981', null, '16' );
+INSERT INTO Component
+VALUES ( 'n', 'CPU', '11982', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11983', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11984', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11985', null, '11' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11986', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11987', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11988', null, '4' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11989', null, '17' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11990', null, '10' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11991', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11992', null, '7' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '11993', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11994', null, '19' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11995', null, '3' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11996', null, '8' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11997', null, '1' );
+INSERT INTO Component
+VALUES ( 'n', 'RAM', '11998', null, '20' );
+INSERT INTO Component
+VALUES ( 'n', 'GPU', '11999', null, '6' );
+INSERT INTO Component
+VALUES ( 'n', 'HardDisk', '12000', null, '2' );

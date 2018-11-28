@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <title>{% block title %}Servidores - OP{% endblock %}</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/template.css') }}"/>
+        <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    </head>
+    <body>
+        <br>
+        <div class="container">
+            <div class="row col-md-offset-3">
+                <a href="/query/free" class="btn btn-primary" style="font-size: 20px;" role="button">Query livre</a>
+                <a href="/query/datacenter" class="btn btn-primary" style="font-size: 20px;" role="button">Datacenter</a>
+                <a href="/query/client" class="btn btn-primary" style="font-size: 20px;" role="button">Clientes</a>
+                <a href="/query/staff" class="btn btn-primary" style="font-size: 20px;" role="button">Staff</a>
+                <div class="dropdown" style="display: inline;">
+                    <button class="btn btn-primary dropdown-toggle" style="font-size: 20px;" type="button" data-toggle="dropdown">Inserir
+                    <span class="caret"></span></button>
+                    <ul class="dropdown-menu">
+                        <li><a href="/insert/datacenter">Inserir datacenter</a></li>
+                        <li><a href="/insert/client">Inserir client</a></li>
+                        <li><a href="/insert/staff">Inserir staff</a></li>
+                    </ul>
+                </div>
+                <br> <br>
+            </div>
+        </div>
+        <div class="row" style="margin: 0 15px;">
+            {% block table %}
+            {% endblock %}
+        </div>
+    </body>
+</html>

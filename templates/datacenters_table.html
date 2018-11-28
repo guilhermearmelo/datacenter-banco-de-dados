@@ -1,0 +1,51 @@
+{% extends "template.html" %}
+{% block table %}
+<div style="text-align: center;">
+    <form action="/query/datacenter" method=post enctype=multipart/form-data>
+        <strong>Consulta em Datacenters</strong>
+        <select name="column">
+            <option>tier</option>
+            <option>city</option>
+            <option>state</option>
+            <option>country</option>
+            <option>datacenter_id</option>
+        </select>
+        <select name="option">
+            <option>like</option>
+            <option>exactly</option>
+        </select>
+        Query:
+        <input type="text" name="query">
+        <button type="submit" name="request_type">Executar</button>
+
+        <button type="submit" value="query_all" name="request_type" style="margin-left:30px;">Buscar todos</button>
+    </form>
+</div>
+<table class="result-table">
+    <colgroup>
+       <col>
+       <col>
+       <col>
+       <col>
+       <col style="width: 180px;">
+    </colgroup>
+    <thead>
+        <tr>
+            <th style="min-width: 180px;">Datacenter_ID</th>
+            <th style="min-width: 180px;">Country</th>
+            <th style="min-width: 180px;">State</th>
+            <th style="min-width: 180px;">City</th>
+            <th>Tier</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for datacenter in elements %}
+    <tr>
+        {% for column in datacenter %}
+            <td>{{ column }}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

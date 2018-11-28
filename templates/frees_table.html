@@ -1,0 +1,50 @@
+{% extends "template.html" %}
+{% block table %}
+<div style="text-align: center;">
+  {% if msg %}
+    {{ msg }}
+  {% endif %}
+    <form action="/query/free" method=post enctype=multipart/form-data>
+        <strong>Consulta Livre</strong>
+        Query:
+        <input type="text" name="query" style="width: 500px;">
+        <button type="submit" value="query_free" name="request_type">Executar</button>
+    </form>
+</div>
+{% if elements %}
+<table class="result-table">
+    <colgroup>
+        <col>
+        {% for column in elements[0] %}
+            {% if not loop.last %}
+            <col>
+            {% else %}
+            <col style="width: 180px;">
+            {% endif %}
+        {% endfor %}
+    </colgroup>
+    <thead>
+        <tr>
+            {% for column in elements[0] %}
+            {% if not loop.last %}
+            <th style="min-width: 180px;">Column {{ loop.index }}</th>
+            {% else %}
+            <th>Column {{ loop.index }}</th>
+            {% endif %}
+            {% endfor %}
+            <th>Remoção</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for element in elements %}
+    <tr>
+        {% for column in element %}
+            <td>{{ column }}</td>
+        {% endfor %}
+        <td><a href="/delete/{{ table }}/{{ element[0] }}"><img src="{{ url_for('static', filename='images/remove.png') }}" style="width:32px;height:32px;"></a></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+{% endif %}
+{% endblock %}
